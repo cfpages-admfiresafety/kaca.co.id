@@ -3,7 +3,7 @@ article_id: GLA-07-06
 title: "Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan"
 slug: "jendela-pintu-kaca-masalah"
 description: "Pembaca dapat membedakan gejala, penyebab mungkin, pemeriksaan aman, tingkat urgensi, serta pilihan perbaikan atau penggantian pada jendela, pintu, dan bukaan kaca."
-status: outline
+status: draft
 publication_date: "2025-10-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -27,37 +27,16 @@ sources:
   - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan
 
-## Assignment lock
+Halo, Teman Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan”
-- **Reader and situation:** Pemilik, operator, facility manager, teknisi, atau pemeriksa yang menemukan gejala
-- **Reader outcome:** Pembaca dapat membedakan gejala, penyebab mungkin, pemeriksaan aman, tingkat urgensi, serta pilihan perbaikan atau penggantian pada jendela, pintu, dan bukaan kaca.
-- **Primary intent:** Mendiagnosis kegagalan atau kinerja buruk jendela, pintu, dan bukaan kaca
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi instruksi perbaikan struktural atau berbahaya tanpa profesional. Pencegahan rutin dimiliki GLA-07-07; instalasi baru dimiliki GLA-07-05.
-- **Final public route:** `/artikel/jendela-pintu-kaca-masalah.html`
-- **Appointed CMS date:** `2025-10-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jendela yang macet, pintu kaca yang bergesekan, embun yang muncul berulang, atau rembesan saat hujan tidak otomatis berarti kacanya harus diganti. Keputusan yang aman dimulai dengan membedakan gejala dari penyebab: apakah masalahnya berada pada daun, kaca, engsel dan pengunci, kusen, sambungan, atau hubungan bukaan dengan dinding di sekelilingnya.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Catat gejala, lokasi, dan kapan gejala muncul sebelum menentukan tindakan. Jawaban dapat berubah setelah kondisi pemasangan, riwayat perubahan bangunan, jenis sistem, serta dokumen produk dan proyek diperiksa. Untuk bukaan yang berkaitan dengan akses dan sirkulasi, keputusan juga tidak boleh memandang kaca sebagai komponen terpisah; persyaratan bangunan, standar teknis, dan ketentuan setempat dapat sama-sama berlaku ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-010`
@@ -68,144 +47,54 @@ sources:
 - **Selection basis:** filename/source metadata identifies `pintu kaca 4` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-010]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi pintu kaca 4](/wp-content/uploads/2021/04/pintu-kaca-4.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [official PUPR JDIH record](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)
-- **Purpose for this article:** Anchor Indonesian building articles in the current national building-governance framework.
-- **Safe grounded facts:** The regulation took effect on 2 February 2021 and replaced PP 36/2005. A project can therefore require national rules, SNI/technical standards, and location-specific regulations together.
-- **Limits:** Do not convert this high-level regulation into glass thicknesses, safety locations, or test pressures. Those need the applicable detailed rule and project design.
-
-### KR-03
-
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
-
-### KR-06
-
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
-
-### KR-11
-
-- **Original sources:** [NFRC rating definitions](https://nfrc.org/), [US Department of Energy purchasing guidance](https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights), [Berkeley Lab WINDOW capabilities](https://windows.lbl.gov/window-software-downloads)
-- **Purpose for this article:** Give writers a clear conceptual vocabulary for U-factor, solar heat gain coefficient, visible transmittance, air leakage, and condensation without turning it into an Indonesian product endorsement.
-- **Safe grounded facts:** Lower U-factor means less heat flow under the stated rating method; lower SHGC means less admitted solar heat; higher visible transmittance means more visible light. These values are not interchangeable, and the best combination depends on climate, orientation, shading, space use, and whole-system design.
-- **Limits:** Do not import US climate-zone thresholds, label ranges, or ENERGY STAR purchasing rules as Indonesian requirements.
-
-### KR-15
-
-- **Original sources:** [ASTM E331-00(2023) official scope](https://store.astm.org/standards/e331), [ASTM E2190-19 official scope](https://store.astm.org/standards/e2190), [ASTM E06.51 current window/façade standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651)
-- **Purpose for this article:** Separate material claims from manufactured-assembly and installed-system verification.
-- **Safe grounded facts:** Test pressure, specimen size/configuration, laboratory versus field setup, interfaces, drainage, supporting construction, installation, aging, and failure definition must be stated. Passing one test does not prove unrelated performance.
-- **Limits:** Project specifications and local requirements control test selection and pressure. Do not invent a “standard” pressure.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Applicable local rules, tested assembly, and hardware/use-cycle data
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/berita/masalah-umum-jendela-dapat-diperbaiki-dengan-penggantian-kaca` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pintu-kaca/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pintu-kaca-tasikmalaya/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pintu-kaca-tanggerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pintu-kaca-tangerang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pintu-kaca-tangerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `GLA-07-04` → `/artikel/jendela-pintu-kaca-desain.html` — Detail desain jendela, pintu, dan bukaan kaca: antarmuka, drainase, gerak, dan akses
-- `GLA-07-05` → `/artikel/jendela-pintu-kaca-pasang.html` — Tahapan pekerjaan jendela, pintu, dan bukaan kaca: persiapan, pemasangan, QC, dan serah terima
-- `GLA-07-07` → `/artikel/jendela-pintu-kaca-rawat.html` — Checklist inspeksi dan perawatan jendela, pintu, dan bukaan kaca untuk iklim Indonesia
-- `GLA-07-08` → `/artikel/jendela-pintu-kaca-pengadaan.html` — Brief, penawaran, dan serah terima jendela, pintu, dan bukaan kaca: cara membandingkan vendor
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+_Kredit: aset lokal proyek._
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan catatan yang dapat dibandingkan: gejala apa yang terjadi, bukaan mana yang terdampak, sisi dalam atau luar, serta cuaca dan saat penggunaan ketika gejala muncul. Contohnya, “air terlihat di ambang hanya ketika hujan berangin” lebih berguna daripada “jendela bocor”. Foto kondisi dari jarak aman, tanggal kejadian, dan perubahan terakhir di sekitar bukaan dapat membantu pemeriksa memahami pola tanpa membongkar apa pun.
+
+Bedakan pula gejala operasi dari gejala kebocoran atau kerusakan kaca. Daun pintu yang perlu didorong lebih keras bisa berkaitan dengan engsel, pengunci, penyetelan, kusen, atau perubahan pada tumpuan. Embun pada permukaan dalam belum membuktikan kebocoran unit kaca; suhu permukaan dan kelembapan ruang juga perlu diperhatikan. Sebaliknya, retak yang baru muncul tidak cukup didiagnosis dari arah retaknya saja. Kawan Kaca.co.id, hindari menarik kesimpulan hanya dari satu kunjungan singkat atau satu foto.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Batasi akses dan minta pemeriksaan kompeten apabila ada kaca retak atau pecah, daun pintu/jendela yang tidak lagi tertahan sebagaimana mestinya, komponen yang longgar, atau bukaan yang mengganggu jalur keluar dan sirkulasi. Jangan mencoba menahan, membongkar, atau menyetel bagian yang berada di atas kepala, berat, atau tampak kehilangan dukungan. Tindakan awal yang wajar adalah menjauhkan orang dari area risiko, mencatat kondisi, dan menjaga agar pintu atau jendela tidak dipaksa beroperasi.
+
+Kelayakan kaca untuk suatu aplikasi tidak dapat disimpulkan semata-mata dari sebutan “lebih kuat”. Kemampuan menahan sebelum pecah berbeda dari perilaku pecahan atau kemampuan sistem setelah pecah; kecocokan tetap bergantung pada aplikasi dan konteks desain/pengujian lengkap ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [daftar SNI ISO 12540:2017](https://pesta.bsn.go.id/produk/index/530)). Bila risiko menyangkut keselamatan pengguna atau fungsi akses, jangan menunggu gejala menjadi lebih jelas untuk meminta penilaian profesional.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Satu gejala dapat punya beberapa mekanisme. Rembesan dapat berkaitan dengan jalur air pada sambungan, drainase, antarmuka kusen-dinding, atau kondisi hujan tertentu; tidak semua berarti panel kaca rusak. Gesekan atau kesulitan mengunci dapat berhubungan dengan komponen gerak, geometri bukaan, atau kondisi bangunan di sekitar kusen. Ketidaknyamanan panas, silau, atau cahaya yang kurang juga tidak dapat dijawab oleh satu angka produk saja.
+
+Untuk membaca data termal, U-factor menggambarkan aliran panas menurut metode penilaian, solar heat gain coefficient (SHGC) menggambarkan panas matahari yang masuk, dan visible transmittance menggambarkan cahaya tampak yang diteruskan. Nilai-nilai itu bukan pengganti satu sama lain; orientasi, peneduh, iklim, penggunaan ruang, dan desain seluruh sistem memengaruhi keputusan ([NFRC](https://nfrc.org/), [panduan Departemen Energi AS](https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights), [Berkeley Lab WINDOW](https://windows.lbl.gov/window-software-downloads)). Sobat Kaca.co.id, gunakan istilah tersebut untuk mengajukan pertanyaan yang lebih tajam kepada pemasok atau pemeriksa, bukan sebagai diagnosis jarak jauh.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan pemeriksaan dari yang paling aman dan paling informatif. Pertama, kumpulkan catatan gejala, foto, riwayat perbaikan, gambar/detail yang tersedia, data produk, dan kondisi penggunaan. Kedua, pemeriksa yang kompeten dapat menilai operasi, sambungan yang terlihat, jalur air yang dirancang, dukungan, serta hubungan dengan konstruksi sekitar. Tahap berikutnya—misalnya pengukuran atau pengujian—harus ditentukan oleh pertanyaan yang ingin dijawab, bukan sekadar karena sebuah metode tersedia.
+
+Saat hasil uji akan menjadi dasar keputusan, mintalah keterangan tentang spesimen atau bukaan yang diuji, konfigurasi, tekanan bila relevan, kondisi laboratorium atau lapangan, antarmuka, drainase, konstruksi pendukung, pemasangan, dan definisi kegagalan. Ruang lingkup [ASTM E331](https://store.astm.org/standards/e331), [ASTM E2190](https://store.astm.org/standards/e2190), dan [daftar standar jendela/fasad ASTM E06.51](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651) mengingatkan bahwa pengujian berbeda menilai aspek berbeda. Lulus satu pengujian tidak otomatis membuktikan kinerja lain atau menjamin semua bukaan terpasang sama.
+
+[NEEDS REVIEW: aturan setempat yang berlaku, spesifikasi proyek, data pengujian rakitan, dan riwayat siklus pakai hardware sebelum menetapkan metode atau ambang penerimaan.]
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pemeriksaan adalah bukti untuk satu kondisi dan satu pertanyaan. Cocokkan hasil itu dengan gejala awal, kriteria proyek, dan konsekuensi penggunaan. Misalnya, tidak ditemukannya masalah pada satu pemeriksaan visual tidak dengan sendirinya menjelaskan rembesan yang hanya muncul pada kombinasi hujan dan angin tertentu. Demikian juga, hasil bahan atau produk tidak membuktikan bahwa sambungan, pemasangan, dan konstruksi pendukung sudah benar.
+
+Pisahkan empat hal dalam catatan keputusan: apa yang diamati, apa yang diuji, penyebab yang masih mungkin, dan tindakan yang disetujui. Kerangka tata bangunan nasional tetap perlu dibaca bersama standar teknis dan ketentuan lokasi yang berlaku; PP No. 16 Tahun 2021 berlaku sejak 2 Februari 2021 dan menggantikan PP 36/2005 ([catatan resmi PUPR](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)). Teman Kaca.co.id, jangan mengubah rujukan tingkat tinggi itu menjadi angka ketebalan, lokasi kaca pengaman, atau tekanan uji tanpa aturan dan desain yang memang berlaku untuk proyek tersebut.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Masalah pada jendela, pintu, dan bukaan kaca: gejala, akar penyebab, dan keputusan perbaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilihan tindakan sebaiknya mengikuti tingkat risiko dan bukti. Pemantauan dapat memadai untuk gejala ringan yang stabil, terdokumentasi, dan tidak mengganggu keselamatan atau fungsi. Perbaikan terarah dapat dipertimbangkan setelah komponen dan mekanisme yang bermasalah dikenali. Penggantian mungkin lebih tepat bila komponen tidak aman, tidak dapat dipulihkan sesuai kebutuhan sistem, atau bukti menunjukkan masalah tidak terbatas pada satu penyetelan.
 
-## Objection or shortcut to address
+Jangan menukar panel, seal, engsel, atau aksesori hanya karena itu bagian yang paling mudah dilihat. Cara pintas tersebut dapat menyisakan sumber masalah pada antarmuka atau keseluruhan rakitan. Bila Anda ingin menilai kapan masalah umum mungkin ditangani dengan penggantian kaca, baca [panduan masalah jendela dan penggantian kaca](/berita/masalah-umum-jendela-dapat-diperbaiki-dengan-penggantian-kaca); tetap pastikan kecocokannya dengan gejala dan kondisi bukaan Anda. Untuk konteks jenis sistem, halaman [pintu kaca](/pintu-kaca/) dapat membantu mengenali kategori produk, bukan menggantikan pemeriksaan lokasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Eskalasi ke perancang, pemeriksa, atau tenaga kompeten ketika ada risiko pecah/jatuh, gangguan akses atau jalur sirkulasi, rembesan berulang yang dapat memengaruhi konstruksi sekitar, atau keputusan akan mengubah elemen sistem. Tindakan struktural dan pekerjaan berbahaya bukan pekerjaan diagnosis mandiri.
 
-## Required conclusion
+## Keputusan perbaikan yang dapat dipertanggungjawabkan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Masalah pada jendela, pintu, dan bukaan kaca ditangani dengan urutan sederhana: amankan risiko, catat gejalanya, periksa bukti yang paling relevan, lalu pilih pemantauan, perbaikan, penggantian, atau eskalasi sesuai temuan. Langkah berikutnya adalah membuat satu catatan kejadian per bukaan dan menyerahkannya bersama dokumen produk/proyek kepada pemeriksa yang tepat.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan praktisnya: jangan menyamakan gejala dengan penyebab, dan jangan menyamakan kinerja satu komponen dengan kinerja seluruh sistem. Bila bukti proyek, aturan setempat, atau data rakitan belum tersedia, tahan keputusan preskriptif sampai peninjauan kompeten dilakukan.
