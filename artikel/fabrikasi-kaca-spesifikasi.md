@@ -3,7 +3,7 @@ article_id: GLA-05-03
 title: "Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi"
 slug: "fabrikasi-kaca-spesifikasi"
 description: "Pembaca dapat mengumpulkan input, menyatakan unit dan toleransi, memeriksa asumsi, serta menyiapkan spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca yang dapat ditinjau vendor."
-status: outline
+status: draft
 publication_date: "2025-07-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +14,26 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/fabrikasi-kaca-spesifikasi.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
   - "https://www.iso.org/standard/85237.html"
   - "https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011"
-  - "https://pesta.bsn.go.id/produk/detail/8965-sniiso12543-22011"
-  - "https://pesta.bsn.go.id/produk/detail/8966-sniiso12543-32011"
-  - "https://www.iso.org/standard/72871.html"
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
   - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
-  - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
-  - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
 
-## Assignment lock
+Halo, Teman Kaca.co.id! Spesifikasi fabrikasi kaca yang bisa ditinjau vendor bukan daftar kata seperti “kaca tempered, lubang, dan poles”. Ia harus menjadi satu paket data yang menjawab: kaca apa, untuk fungsi apa, ukurannya dari acuan mana, toleransi apa yang diizinkan, proses apa yang harus dilakukan, dan siapa yang menyetujui perubahan.
 
-- **Writer task:** Expand this file into one complete article answering: “Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”
-- **Reader and situation:** Designer, estimator, drafter, engineer, atau pembeli teknis yang menyiapkan dokumen kerja
-- **Reader outcome:** Pembaca dapat mengumpulkan input, menyatakan unit dan toleransi, memeriksa asumsi, serta menyiapkan spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca yang dapat ditinjau vendor.
-- **Primary intent:** Menyusun spesifikasi terukur untuk pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menggantikan desain atau persetujuan engineer untuk kondisi berisiko; detail antarmuka dimiliki GLA-05-04 dan eksekusi lapangan dimiliki GLA-05-05.
-- **Final public route:** `/artikel/fabrikasi-kaca-spesifikasi.html`
-- **Appointed CMS date:** `2025-07-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban pendeknya: tetapkan geometri dan fungsi lebih dulu, nyatakan semua ukuran beserta satuannya dan datum/acuan ukurnya, lalu kunci urutan pemrosesan sebelum pesanan dilepas. Lubang, cutout, ukuran akhir, bentuk bending, jenis interlayer, finishing tepi, serta dekorasi dapat saling memengaruhi. Perubahan setelah perlakuan panas dapat berarti panel harus dibuat ulang, bukan disesuaikan di lapangan. Batas proses, toleransi, dan penerimaan akhirnya tetap perlu dikonfirmasi terhadap data shop fabricator dan dokumen proyek yang berlaku.
 
-## Opening instructions
+Istilah material juga tidak boleh disamakan begitu saja. Kaca datar, kaca diperkuat panas, dan kaca pengaman tempered penuh mempunyai penamaan serta rujukan kualitas yang berbeda; standar dasar kaca tidak otomatis membuktikan kecocokan keselamatan atau kecukupan struktur sistem. Lihat ruang lingkup [ISO 16293-2:2025](https://www.iso.org/standard/85237.html) dan setujui dokumen yang mengatur proyek sebelum angka atau kelas penerimaan ditulis.
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi kanopi kaca spider 6](/wp-content/uploads/2021/04/kanopi-kaca-spider-6.jpg)
 
+Aset lokal sebagai ilustrasi; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,138 +44,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kanopi kaca spider 6` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
-
-### KR-07
-
-- **Original sources:** [SNI ISO 12543-1:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011), [SNI ISO 12543-2:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8965-sniiso12543-22011), [SNI ISO 12543-3:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8966-sniiso12543-32011), [ISO 12543-1:2021 official abstract](https://www.iso.org/standard/72871.html)
-- **Purpose for this article:** Prevent articles from reducing laminated glass to “two panes with plastic” or assuming every laminate has the same safety/security/post-breakage performance.
-- **Safe grounded facts:** Ply makeup, glass treatment, interlayer type/thickness, edge exposure, support, temperature, load duration, and intended threat/performance all matter. “Laminated” alone is not a performance class.
-- **Limits:** Do not silently substitute the newer ISO edition for the Indonesian SNI. State which document governs a project and obtain full text for requirements.
-
-### KR-08
-
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
-
-### KR-13
-
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Fabricator capabilities, current standards, and approved shop data
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/berita/kaca-bending-dan-jenisnya` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-tasikmalaya/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-tanggerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-tangerang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-tangerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `GLA-05-01` → `/artikel/fabrikasi-kaca-dasar.html` — Panduan dasar pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: istilah, komponen, dan cara kerja
-- `GLA-05-02` → `/artikel/fabrikasi-kaca-pilih.html` — Cara memilih pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: matriks keputusan berdasarkan fungsi dan risiko
-- `GLA-05-04` → `/artikel/fabrikasi-kaca-desain.html` — Detail desain pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: antarmuka, drainase, gerak, dan akses
-- `GLA-05-05` → `/artikel/fabrikasi-kaca-pasang.html` — Tahapan pekerjaan pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: persiapan, pemasangan, QC, dan serah terima
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah *fabrication brief* yang dapat dibaca sama oleh drafter, pembeli, fabricator, dan pemeriksa. Dokumen ini bukan gambar konsep: setiap panel perlu ID, jumlah, jenis dan tebal susunan kaca, ukuran jadi, bentuk, orientasi permukaan, lokasi lubang atau cutout, jenis tepi, proses lanjutan, serta catatan inspeksi. Cantumkan revisi gambar dan tanggalnya agar vendor tidak bekerja dari versi yang berbeda.
+
+Sebelum mengisi angka, tentukan siapa pemilik keputusan. Arsitek atau desainer dapat menetapkan tampilan; engineer menangani kecukupan untuk kondisi berisiko; fabricator menyatakan kemampuan proses dan data shop. Untuk kaca laminasi, sebutkan susunan tiap lapis dan interlayer, bukan hanya kata “laminated”. Rujukan [SNI ISO 12543-1:2011](https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011) menunjukkan bahwa kaca laminasi adalah keluarga produk dengan bagian dan persyaratan berbeda; performanya dipengaruhi susunan ply, interlayer, dukungan, tepi, serta kondisi penggunaan.
+
+Prasyarat minimumnya adalah gambar berkoordinat, daftar panel, informasi sistem penyangga, dan persyaratan visual yang tertulis. Bila data ini belum ada, gunakan status “untuk tinjauan” dan jangan mengubahnya diam-diam menjadi pesanan produksi.
 
 ## Langkah 1 — tetapkan scope
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan objek yang jelas: apakah panel menjadi pengisi partisi, cermin, elemen dekoratif, atau bagian dari sistem yang memikul risiko jatuh dan benturan? Scope perlu menyebut batas panel dan antarmukanya, tetapi tidak mengambil alih desain detail sambungan, drainase, gerak, atau pelaksanaan lapangan. Untuk penerapan seperti pagar, pembaca dapat memeriksa konteks sistem pada [halaman railing kaca](/railing-kaca/), sementara keputusan desain dan persetujuan engineer tetap terpisah dari brief fabrikasi.
+
+Lalu tulis apa yang tidak termasuk. Contohnya, “ukuran adalah ukuran kaca jadi, belum termasuk penetapan clearance pemasangan”, atau “penentuan kapasitas struktur dan metode pengangkatan oleh pihak berwenang”. Kawan Kaca.co.id, kalimat batas seperti ini mencegah vendor menganggap asumsi gambar sebagai instruksi yang sudah disetujui.
+
+Gunakan nama proses secara spesifik. “Edging” dapat berarti kebutuhan tepi yang berbeda, sedangkan “dekorasi” harus memuat jenis perlakuan, permukaan yang dituju, dan contoh/approval visual bila diperlukan. Untuk kaca berlapis atau cermin, nama generik tidak cukup karena sistem lapisan, sisi yang terekspos, perlindungan tepi, dan kriteria visual dapat berbeda. [SNI 9237:2023](https://pesta.bsn.go.id/produk/detail/14858-sni92372023) adalah salah satu rujukan identitas untuk kaca berlapis, bukan izin untuk menganggap semua produk berlapis memiliki batas proses yang sama.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat satu lembar data per tipe panel, lalu cocokkan dengan gambar. Nyatakan satuan—misalnya mm—dan jangan hanya menulis “toleransi standar”. Tulis toleransi sebagai nilai atau rentang yang memang disetujui, lengkap dengan datum pengukuran: dari tepi mana pusat lubang diukur, sisi mana disebut muka, dan apakah ukuran berlaku sebelum atau sesudah proses tertentu. Jika angka toleransi belum disetujui fabricator dan perancang, tahan dokumen pada tinjauan teknis untuk ukuran, lubang, dan bentuk.
+
+Paket bukti yang baik meliputi revisi gambar, panel schedule, spesifikasi material, persyaratan standar yang benar-benar ditetapkan proyek, data produk, dan persetujuan sampel bila tampilan penting. Halaman publik [ASTM C1048-25](https://store.astm.org/c1048-25.html) berguna untuk mengenali ruang lingkup kaca diperlakukan panas, tetapi bukan pengganti teks berlisensi untuk menetapkan angka penerimaan. Demikian pula, katalog standar tidak cukup untuk menyimpulkan klausul, uji, atau batas cacat yang tidak tersedia di sana.
+
+Untuk setiap panel, cocokkan pula proses dengan urutan prosesnya. Masukkan status: potong, kerja tepi, drilling/cutout, dekorasi yang dilakukan sebelum atau sesudah proses lain, perlakuan panas, laminasi, dan inspeksi. Bila ada bending, kirim geometri acuan, orientasi, serta kebutuhan visual kepada fabricator untuk ditinjau; jangan menebak radius, kemampuan mesin, atau hasil akhir dari gambar konseptual.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan konseptual yang aman dimulai dari pembekuan informasi, bukan dari mesin. Pertama, beri ID panel dan konfirmasi gambar revisi. Kedua, verifikasi ukuran jadi, bentuk, posisi fitur, sisi referensi, dan jenis tepi terhadap sistem yang akan menerima kaca. Ketiga, minta fabricator meninjau kemampuan proses dan menerbitkan shop data atau klarifikasi. Baru setelah persetujuan, data tersebut menjadi dasar produksi dan inspeksi.
+
+Untuk kaca yang akan diperlakukan panas, rencanakan fitur fabrikasi sejak awal. Pedoman [NGA tentang permukaan kaca heat-treated](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf) menjelaskan bahwa riwayat proses dan ekspektasi permukaan perlu dikelola; perubahan lubang, cutout, atau ukuran di tahap terlambat dapat memerlukan pembuatan ulang. Karena itu, brief sebaiknya mencatat kebutuhan kebersihan, tepi, penandaan, ketertelusuran, serta ekspektasi visual yang relevan tanpa menjanjikan hasil yang belum disetujui.
+
+Sesudah tiap tahapan, jangan mengubah data dasar tanpa jejak revisi. Bila panel laminasi diperlukan, periksa lagi susunan tiap ply, jenis dan tebal interlayer, sisi tepi yang terpapar, serta kondisi dukungannya. Sobat Kaca.co.id, kata “aman” tidak boleh dipakai sebagai pengganti kelas kinerja atau persetujuan desain. Laminasi sendiri bukan satu kelas performa tunggal.
 
 ## Hold point dan kondisi berhenti
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berhenti dan minta review sebelum produksi jika ukuran tidak punya datum, bentuk tidak konsisten antara gambar dan daftar panel, posisi lubang tidak terkoordinasi, jenis kaca hanya disebut secara umum, atau kebutuhan visual belum memiliki contoh penerimaan. Hentikan pula pelepasan pesanan ketika proses yang diminta bertentangan dengan data fabricator atau ketika informasi dukungan panel belum cukup untuk menilai keputusan yang berisiko.
+
+Hold point berikutnya terjadi ketika ada perubahan setelah shop data disetujui. Jangan meminta perubahan kecil langsung kepada operator atau memasukkannya sebagai catatan informal. Rekam revisi, dampaknya terhadap proses, pihak penyetuju, dan keputusan apakah panel lama masih dapat digunakan. Untuk elemen yang terkait keselamatan, keputusan lanjut harus berasal dari review teknis yang berwenang, bukan dari asumsi pembelian.
+
+Kondisi berhenti yang jujur juga berlaku pada dekorasi dan lapisan. Jika kompatibilitas pembersihan, perlindungan tepi, permukaan yang terlihat, atau kriteria cacat belum tersedia dari produsen/dokumen proyek, tahan pelepasan untuk tinjauan teknis persyaratan visual dan kompatibilitas produk. Tidak ada manfaatnya mengisi kekosongan itu dengan istilah “premium” atau “sesuai standar”.
 
 ## Verifikasi hasil dan handover
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi pemotongan, edging, drilling, tempering, laminating, bending, dan dekorasi kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Penerimaan dimulai dengan mencocokkan panel fisik terhadap panel schedule, bukan sekadar menghitung jumlah kiriman. Periksa ID, jenis susunan yang ditandai/didokumentasikan, ukuran dan bentuk terhadap datum, fitur yang dipersyaratkan, finishing tepi, serta kondisi visual berdasarkan kriteria yang telah disepakati. Catat alat ukur, tanggal, pemeriksa, dan penyimpangan yang ditemukan. Kriteria visual harus membedakan antara penilaian estetika dan klaim fungsi.
 
-## Objection or shortcut to address
+Handover sebaiknya menyatukan revisi akhir gambar, daftar panel, approval shop data, catatan perubahan, sertifikat atau dokumen produk yang memang disyaratkan, hasil inspeksi, serta daftar item terbuka. Bila pembaca perlu memahami variasi bentuk sebelum menyusun data, [penjelasan kaca bending dan jenisnya](/berita/kaca-bending-dan-jenisnya) dapat menjadi pengantar; ia bukan pengganti konfirmasi kemampuan fabricator untuk panel tertentu.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Teman Kaca.co.id, temuan yang tidak sesuai harus diberi ID dan tindakan lanjut yang jelas: terima dengan persetujuan tertulis, perbaiki melalui jalur yang disetujui, atau buat ulang. Jangan menutup catatan hanya karena panel sudah tiba di lokasi.
 
-## Required conclusion
+## Jalan pintas yang sering gagal
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas paling umum adalah menyalin spesifikasi lama lalu mengganti ukuran. Cara ini gagal ketika sistem dukungan, orientasi, jenis kaca, lokasi lubang, atau tuntutan visual sebenarnya berubah. Salinan dapat membawa istilah “tempered” tanpa susunan kaca, atau “tepi poles” tanpa penetapan permukaan dan batas penerimaan.
 
-## Draft completion checklist
+Alternatif yang lebih andal ialah memakai template yang memaksa pemeriksaan asumsi: ID panel, fungsi, acuan ukuran, satuan, toleransi yang telah disetujui, proses berurutan, pihak peninjau, dan status revisi. Isi yang belum diketahui tidak perlu dipaksakan; tandai untuk tinjauan. Dengan begitu vendor dapat menanggapi kekosongan sebelum material diproses, bukan setelah panel tidak mudah diubah.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah berikutnya
+
+Spesifikasi fabrikasi yang baik mengubah permintaan umum menjadi data yang dapat diperiksa: fungsi panel, geometri dan datum, susunan material, urutan proses, toleransi yang benar-benar disetujui, kriteria inspeksi, serta pemilik keputusan. Buat satu panel schedule dan satu lembar klarifikasi untuk setiap informasi yang belum pasti, lalu minta fabricator dan peninjau teknis mengonfirmasinya sebelum pelepasan produksi.
+
+Aturan operasinya sederhana: bila perubahan menyentuh ukuran, fitur, proses panas, laminasi, bending, lapisan, atau keputusan keselamatan, jangan mengandalkan asumsi dan jangan menyelesaikannya di lapangan. Tahan pekerjaan sampai data shop dan persetujuan yang tepat tersedia.
