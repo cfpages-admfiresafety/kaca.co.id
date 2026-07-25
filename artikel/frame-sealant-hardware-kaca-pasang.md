@@ -3,7 +3,7 @@ article_id: GLA-06-05
 title: "Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima"
 slug: "frame-sealant-hardware-kaca-pasang"
 description: "Pembaca dapat menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan hold point QC, dan mendokumentasikan serah terima frame, gasket, sealant, setting block, fitting, dan sambungan kaca."
-status: outline
+status: draft
 publication_date: "2025-08-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,49 +14,22 @@ reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/frame-sealant-hardware-kaca-pasang.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/294700"
-  - "https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014"
-  - "https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key="
   - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
   - "https://store.astm.org/standards/e331"
   - "https://store.astm.org/standards/e2190"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima
 
-## Assignment lock
+Halo, Sobat Kaca.co.id! Pekerjaan kaca tidak selesai saat panel sudah tampak terpasang. Hasil yang dapat diterima baru tercapai bila frame, gasket, setting block, fitting, sealant, dan sambungan bekerja sebagai satu sistem yang sesuai dokumen proyek—lalu kondisinya bisa dibuktikan saat pemeriksaan dan serah terima.
 
-- **Writer task:** Expand this file into one complete article answering: “Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima”
-- **Reader and situation:** Kontraktor, pengawas, mandor, teknisi, atau pemilik yang mengawasi pekerjaan
-- **Reader outcome:** Pembaca dapat menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan hold point QC, dan mendokumentasikan serah terima frame, gasket, sealant, setting block, fitting, dan sambungan kaca.
-- **Primary intent:** Merencanakan serta mengendalikan pelaksanaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan izin DIY untuk pekerjaan berbahaya atau di luar kompetensi. Diagnosis kerusakan setelah beroperasi dimiliki GLA-06-06; spesifikasi sebelum kerja dimiliki GLA-06-03.
-- **Final public route:** `/artikel/frame-sealant-hardware-kaca-pasang.html`
-- **Appointed CMS date:** `2025-08-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutannya sederhana tetapi tidak boleh dibalik: tetapkan scope dan antarmuka, cocokkan material serta dokumen, siapkan area dan penopang, pasang menurut metode yang disetujui, lakukan pemeriksaan pada titik tahan, kemudian serahkan rekaman yang memungkinkan pekerjaan ditelusuri. Nama produk sealant atau bentuk fitting saja tidak membuktikan kecocokannya; desain sambungan, permukaan substrat, gerak, drainase, bahan yang bersentuhan, dan pengendalian mutu tetap perlu diperiksa [Dow Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf).
 
-## Opening instructions
+![Ilustrasi kanopi kaca spider 6](/wp-content/uploads/2021/04/kanopi-kaca-spider-6.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,137 +40,59 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kanopi kaca spider 6` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-09
-
-- **Original sources:** [Permenperin No. 12 Tahun 2024 — BPK](https://peraturan.bpk.go.id/Details/294700), [SNI ISO 20492-1:2014 edge-seal climate durability — BSN](https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014), [SNI ISO 20492-2:2014 fogging test — BSN](https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020), [BSN listing for Parts 1–4](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key=)
-- **Purpose for this article:** Ground double/insulating-glass, internal fogging, gas, edge seal, procurement, and replacement articles in Indonesian requirements.
-- **Safe grounded facts:** An insulating glass unit is a fabricated sealed product, not simply two independent panes. Internal fogging, gas retention, seal durability, edge construction, glazing compatibility, and structural-glazing suitability are distinct issues.
-- **Limits:** Verify the regulation's exact product scope, exceptions, certification route, and transition provisions from the full text before stating that a particular unit must bear a specific mark.
-
-### KR-14
-
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
-
-### KR-15
-
-- **Original sources:** [ASTM E331-00(2023) official scope](https://store.astm.org/standards/e331), [ASTM E2190-19 official scope](https://store.astm.org/standards/e2190), [ASTM E06.51 current window/façade standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651)
-- **Purpose for this article:** Separate material claims from manufactured-assembly and installed-system verification.
-- **Safe grounded facts:** Test pressure, specimen size/configuration, laboratory versus field setup, interfaces, drainage, supporting construction, installation, aging, and failure definition must be stated. Passing one test does not prove unrelated performance.
-- **Limits:** Project specifications and local requirements control test selection and pressure. Do not invent a “standard” pressure.
-
-### KR-22
-
-- **Purpose for this article:** Turn research into auditable RFQ, submittal, installation, inspection, and handover inputs rather than descriptive prose only.
-- **Safe grounded facts:** Durable quality depends on preserving product identity and condition from fabrication through handover. Labels, delivery inspection, storage orientation/support, edge protection, setting materials, cleaning, photographs, nonconformance records, test reports, and as-built information are evidence.
-- **Limits:** It is an industry manual, not a project specification or Indonesian law. Manufacturer instructions and project documents take precedence where more specific. ## Topic-family coverage matrix | Topic family | Main evidence records | What the eventual eight-article set must be grounded in | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `GLA-01` | KR-05, KR-10, KR-13 | Fundamentals: product taxonomy; difference between material, processed product, and installed system; basic optical/thermal/load concepts | Licensed standards for any numeric tolerance or acceptance criterion | | `GLA-02` | KR-06, KR-07, KR-13, KR-17 | Tempered/laminated/heat-strengthened safety: distinct breakage and retention behavior; fabrication sequence; safety evidence; heat-soak limits | Full applicable SNI, application rule, and expert review | | `GLA-03` | KR-08, KR-09, KR-10, KR-11, KR-21 | Thermal/solar/light/privacy/acoustic: separate metrics and test methods; center-of-glass versus whole system; climate/orientation inputs | Verified product/system reports and locally applicable project criteria | | `GLA-04` | KR-02, KR-05, KR-12, KR-13 | Specification/size/load/tolerance: complete design inputs, support/load boundaries, fabrication effects, no universal thickness table | Qualified engineer and licensed calculation standard | | `GLA-05` | KR-05, KR-07, KR-08, KR-13 | Fabrication: process order, edge/hole planning, traceability, product-specific reject evidence | Fabricator capabilities, current standards, and approved shop data | | `GLA-06` | KR-09, KR-14, KR-15, KR-22 | Frames/gaskets/sealants/fittings: compatibility, adhesion, movement, drainage, support, corrosion, and QC evidence | Selected system/manufacturer review and project-specific tests | | `GLA-07` | KR-02, KR-03, KR-06, KR-11, KR-15 | Windows/doors/openings: user safety/access, operation, air/water/energy as whole-product performance | Applicable local rules, tested assembly, and hardware/use-cycle data | | `GLA-08` | KR-03, KR-06, KR-10, KR-19, KR-21 | Partitions/interiors: human impact, visibility, acoustics as a system, fire boundary, privacy technology | Occupancy/use requirements and complete tested systems | | `GLA-09` | KR-06, KR-08, KR-12, KR-14, KR-16 | Shower/mirror/furniture: wet-area impact, exposed edges, mirror type/backing, hardware/support, cleaning | Application-specific safety rule, hardware data, and design review | | `GLA-10` | KR-04, KR-06, KR-07, KR-12, KR-18 | Railings/canopies/skylights/roofs/floors: failure consequence, post-breakage retention, overhead/fall-through/live-load/access risks | Mandatory structural engineer and applicable system standards/tests | | `GLA-11` | KR-02, KR-09, KR-12, KR-14, KR-15, KR-19 | Façades/curtain wall/storefront/spider: load path, anchors, silicone, movement, air/water, IGU, fire interfaces, testing | Project specification, engineer, manufacturer review, mockup/testing | | `GLA-12` | KR-02, KR-05–KR-09, KR-22 | Survey/quotes/procurement/evidence/warranty: comparable makeup/scope, standards evidence, samples, exclusions, logistics, warranties | Current supplier evidence and a project-specific comparison sheet | | `GLA-13` | KR-04, KR-14, KR-15, KR-16, KR-22 | Installation/QC/handover: safe access, receiving/storage, setting/sealing, protection, hold points, records | Site method statement, ITP, competent personnel, approved materials | | `GLA-14` | KR-09, KR-14–KR-17, KR-22 | Defects/fogging/leaks/breakage/replacement: safe isolation, symptom versus cause, evidence preservation, IGU/seal/edge clues | Site inspection and specialist/forensic review for consequential failures | | `GLA-15` | KR-04, KR-14, KR-16, KR-18, KR-22 | Cleaning/inspection/maintenance in Indonesia: glass/coating identification, compatible method, exposure-based frequency, safe access, records | Exact manufacturer instructions and current HSE/access plan | | `GLA-16` | KR-08, KR-19, KR-20, KR-21 | Smart/decorative/privacy/security/fire/specialist: technology/threat/rating-specific evidence; complete tested assembly; durability and fail state | Specialist review, applicable Indonesian approval basis, current test/listing | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** This means outline work can begin, but it does not mean every article is cleared for definitive numeric or compliance claims. ## Cross-catalog fact bank These are reusable propositions supported by the register. Writers should still cite the underlying source. 1. Glass product type, processed makeup, and installed-system performance are three different layers. 2. Tempered, heat-strengthened, and laminated glass solve different pre-breakage and post-breakage questions. 3. “Laminated,” “tempered,” “double,” “smart,” “fire-rated,” and “security” are not complete specifications. 4. Center-of-glass performance cannot automatically be claimed for the complete window, partition, door, or façade. 5. Thickness cannot be selected safely from application name alone. 6. Holes, notches, edges, dimensions, coatings, and decoration must be coordinated before heat treatment where applicable. 7. Sealant suitability requires joint design plus substrate adhesion and material compatibility evidence. 8. Internal IGU fogging and external surface condensation are different symptoms. 9. Cleaning method depends on glass, coating, film, interlayer edge, contaminants, and manufacturer guidance. 10. Heat-soak testing reduces a specific tempered-glass breakage risk; it does not guarantee zero breakage. 11. Skylights and sloped glazing are not walking surfaces unless specifically engineered as such. 12. Fire, ballistic, blast, forced-entry, impact safety, acoustic, privacy, and solar-control claims each need their own evidence. 13. A test result belongs to the tested method, specimen, configuration, conditions, and acceptance basis. 14. Procurement quality improves when evidence, inclusions, exclusions, interfaces, samples, QC, and handover documents are made comparable. 15. Current legal and standards status must be rechecked; changes discovered in 2026 show why old article memory is unsafe. ## Evidence gaps and publication gates | Gate | Affected families | Resolution required | | --- | --- | --- | | `GATE-01` Licensed SNI text | All, especially `02–06`, `09–11` | Obtain/read the applicable current SNI before exact requirements, tolerances, classes, or tests enter an outline | | `GATE-02` Indonesian application rules | `02`, `07–11`, `16` | Identify applicable national/local building, fire, accessibility, and project rules for the actual application | | `GATE-03` Structural design | `04`, `09–11`, `16` | Qualified engineer verifies loads, support, makeup, deflection, post-breakage consequences, and interfaces | | `GATE-04` Product/system reports | `03`, `06–11`, `16` | Obtain current datasheets, test reports, certification/listing, limitations, and exact configuration | | `GATE-05` Manufacturer compatibility | `06`, `09`, `11`, `13–15` | Written adhesion/compatibility, cleaning, processing, and installation guidance for selected materials | | `GATE-06` Site facts | `07`, `10–15` | Survey dimensions, exposure, substrate/frame condition, access, drainage, existing defects, and user risk | | `GATE-07` HSE/legal consolidation | `10`, `11`, `13–15` | Review current Permenaker provisions including the 2026 amendment; approve task-specific safe method | | `GATE-08` Specialist threat/rating definition | `16` | Define fire/security/ballistic/blast/privacy/smart-glass objective and governing evidence before selection | ## Source-refresh triggers Recheck a record immediately when any of these occurs: - BSN confirms, revises, replaces, or withdraws a listed SNI. - A ministry regulation is amended, partially revoked, or replaced. - ISO/ASTM/UL publishes a new edition used by the article. - A manufacturer changes formulation, substrate approval, warranty, or installation guidance. - An article introduces a number, rating, test class, compliance statement, service-life claim, price, or safety procedure. - The real project configuration falls outside the public source's stated scope. ## Next authorized stage The next content stage is to use this research to produce article outlines and detailed lower-model writing instructions. That stage should begin with the 12 P0/Wave 1 briefs, validate one complete outline/writing-instruction package, and only then scale the pattern. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Selected system/manufacturer review and project-specific tests
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/berita/pertimbangan-sebelum-pasang-balkon-kaca` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kanopi-kaca-yang-baik-dan-benar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kaca-yang-tepat-untuk-mobil` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kaca-untuk-ruko-bisnis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/mengenal-pemasangan-kaca-industri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `GLA-06-03` → `/artikel/frame-sealant-hardware-kaca-spesifikasi.html` — Spesifikasi frame, gasket, sealant, setting block, fitting, dan sambungan kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
-- `GLA-06-04` → `/artikel/frame-sealant-hardware-kaca-desain.html` — Detail desain frame, gasket, sealant, setting block, fitting, dan sambungan kaca: antarmuka, drainase, gerak, dan akses
-- `GLA-06-06` → `/artikel/frame-sealant-hardware-kaca-masalah.html` — Masalah pada frame, gasket, sealant, setting block, fitting, dan sambungan kaca: gejala, akar penyebab, dan keputusan perbaikan
-- `GLA-06-07` → `/artikel/frame-sealant-hardware-kaca-rawat.html` — Checklist inspeksi dan perawatan frame, gasket, sealant, setting block, fitting, dan sambungan kaca untuk iklim Indonesia
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Targetnya bukan sekadar kaca lurus dan nat tampak rapi. Tim harus dapat menunjukkan bahwa komponen yang datang adalah komponen yang disetujui, panel ditopang dan dijepit sesuai sistem, sambungan tidak tertutup sebelum pemeriksaan, serta catatan serah terima cukup untuk menangani temuan berikutnya secara tertib dan dapat ditelusuri. Penanggung jawab desain, pemasangan, dan pemeriksaan perlu jelas sejak awal; satu orang tidak otomatis berwenang menggantikan persetujuan pihak lain.
+
+Dalam praktiknya, pekerjaan dapat dipandang sebagai rantai bukti: keputusan desain diterjemahkan menjadi material yang dapat dikenali, pemasangan yang dapat diperiksa, lalu rekaman yang dapat dibaca kembali. Putusnya satu mata rantai dapat membuat penyebab ketidaksesuaian sulit ditelusuri, meskipun tampilan akhirnya tampak baik.
+
+Sebelum pekerjaan dimulai, siapkan gambar kerja dan detail yang disetujui, daftar material, instruksi pabrikan yang relevan, metode kerja, rencana inspeksi, serta kondisi area. Periksa pula antarmuka dengan struktur, waterproofing, finishing, dan pekerjaan lain. Untuk unit kaca berinsulasi, produk tersebut adalah unit tersegel yang difabrikasi, bukan dua lembar kaca yang dapat diperlakukan sebagai komponen terpisah; kondisi tepi, seal, dan kecocokan glazing menjadi bagian dari pengendalian penerimaan. Bila sistem atau pabrikan belum memberi peninjauan tertulis dan pengujian yang dipersyaratkan proyek, gunakan penanda berikut sebelum pekerjaan konsekuensial diteruskan: **[NEEDS selected system/manufacturer review and project-specific tests]**.
 
 ## Langkah 1 — tetapkan scope
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan membatasi apa yang memang dipasang: jenis bukaan atau bidang kaca, batas frame, posisi gasket, titik setting block, jenis fitting, area sealant, sambungan ke bangunan, serta siapa yang menyelesaikan drainase dan penutupan akhir. Catat pula yang tidak termasuk, misalnya perbaikan struktur penyangga, perubahan desain, atau diagnosis kebocoran bangunan yang belum terbukti berasal dari sistem kaca.
+
+Kawan Kaca.co.id, batas ini penting ketika dua pekerjaan bertemu. Sealant pada tepi kaca tidak boleh diam-diam dianggap sebagai pengganti detail waterproofing, dan fitting tidak boleh dianggap memikul beban yang tidak dinyatakan pada desainnya. Jika ukuran lapangan, kondisi penyangga, atau akses kerja berbeda dari gambar yang disetujui, hentikan pada titik itu dan minta klarifikasi tertulis. Jangan memaksa komponen agar “pas” dengan memotong, mengebor, atau mengubah panel tanpa kewenangan yang tepat.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lakukan penerimaan material dengan membandingkan label, jumlah, kondisi kemasan, dan identitas produk terhadap submittal atau daftar material yang disetujui. Pisahkan komponen yang retak, terkontaminasi, penyimpanannya meragukan, atau tidak dapat ditelusuri. Simpan kaca dengan dukungan dan pelindung tepi yang sesuai metode proyek; dokumentasikan kondisi saat diterima sebelum panel masuk ke area pemasangan.
+
+Untuk sealant dan bahan yang bersentuhan dengannya, cocokkan merek dan tipe, batas penggunaan, kondisi penyimpanan, persiapan permukaan, primer bila ditentukan, serta informasi kompatibilitas. Manual glazing struktural Dow menekankan bahwa kecocokan sealant bergantung pada lebih dari nama material: kondisi permukaan, pembersihan, geometri sambungan, gerakan, proses curing, dan kontrol adhesi merupakan kontrol yang berbeda [Dow Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf). Karena itu, jangan menganggap satu produk silikon cocok untuk semua gasket, tape, coating, frame, atau fungsi sambungan.
+
+Buat daftar cek ringkas sebelum pelepasan material ke area kerja:
+
+- gambar dan revisi yang dipakai tim sama dengan yang disetujui;
+- kaca, frame, gasket, setting block, fitting, dan sealant dapat ditelusuri ke dokumennya;
+- area tumpuan, bukaan, dan sambungan bebas dari kondisi yang akan mengganggu pemasangan;
+- metode kerja menyebut urutan pemeriksaan, penanggung jawab, dan cara menangani ketidaksesuaian.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan praktis dimulai dari penyiapan area dan pemeriksaan penopang, dilanjutkan penempatan frame atau fitting yang telah disetujui, penataan setting block dan gasket sesuai detail, lalu penempatan kaca dengan alat serta personel yang kompeten. Setelah posisi dan tumpuan diperiksa, sambungan serta sealant dikerjakan sesuai instruksi sistem. Lindungi pekerjaan yang belum selesai dari benturan, kontaminasi, dan pekerjaan lanjutan yang dapat merusak tepi atau sambungan.
+
+Setting block bukan ganjalan sementara yang boleh dipilih sembarang. Fungsinya terkait cara kaca ditopang dalam sistem; posisi, bahan, dan kecocokannya harus mengikuti detail dan instruksi pabrikan. Demikian pula gasket harus benar-benar duduk pada alurnya dan tidak memaksa panel ke posisi yang tidak dirancang. Bila pekerjaan melibatkan kaca berinsulasi, jangan menilai hanya dari permukaan yang bersih: konstruksi tepi dan seal unit merupakan bagian dari produk tersegel, sedangkan masalah seperti fogging internal perlu dibedakan dari kondensasi pada permukaan luar.
+
+Teman Kaca.co.id, jangan menutup sambungan yang penting sebelum pemeriksa melihatnya. Foto bertahap—dengan lokasi dan tanggal yang dapat ditelusuri—lebih berguna daripada foto akhir yang rapi tetapi tidak menjelaskan apa yang berada di balik penutup. Catat perubahan lapangan dan ketidaksesuaian saat terjadi, bukan hanya menjelang serah terima.
 
 ## Hold point dan kondisi berhenti
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Titik tahan adalah saat pekerjaan tidak diteruskan sampai bukti tertentu diterima. Contohnya: sebelum kaca dinaikkan ketika penopang atau frame belum diperiksa; sebelum sealant diaplikasikan ketika material dan kebersihan permukaan belum disetujui; sebelum penutup akhir ketika gasket, setting block, atau sambungan tidak lagi dapat dilihat; dan sebelum handover ketika rekaman perubahan belum lengkap.
+
+Berhenti juga apabila ditemukan retak, kerusakan tepi, komponen tidak berlabel, material berbeda dari submittal, sambungan yang tidak mengikuti detail, atau kondisi lapangan yang membuat desain awal tidak lagi cocok. Untuk sambungan silikon struktural, jangan menetapkan ukuran, beban, atau penerimaan sendiri dari panduan umum. Desain dan peninjauan tertulis pabrikan terpilih serta tanggung jawab desain yang kompeten diperlukan untuk konfigurasi proyek tersebut [Dow Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf).
+
+Jika proyek mensyaratkan pengujian, tuliskan sejak awal apa yang diuji, konfigurasi spesimen atau area, kondisi pemasangan, tekanan atau beban yang ditetapkan proyek, dan definisi kegagalannya. Ruang lingkup [ASTM E331](https://store.astm.org/standards/e331) menunjukkan bahwa pengujian penetrasi air berlaku pada rakitan eksterior tertentu dengan perbedaan tekanan udara statis; hasilnya tidak dapat dipindahkan begitu saja ke konfigurasi, antarmuka, atau kondisi lapangan lain. Untuk unit kaca berinsulasi, [ASTM E2190](https://store.astm.org/standards/e2190) juga menilai ketahanan unit tersegel sebagai produk manufaktur dalam metode yang ditetapkan, bukan jaminan semua sistem terpasang akan sama kinerjanya.
 
 ## Verifikasi hasil dan handover
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan frame, gasket, sealant, setting block, fitting, dan sambungan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemeriksaan akhir harus membandingkan pekerjaan dengan dokumen yang disetujui, bukan dengan kesan visual saja. Tinjau keselarasan komponen, tumpuan kaca, dudukan gasket, kontinuitas sambungan, kondisi frame dan fitting, kebersihan yang tidak merusak bahan, serta kelengkapan drainase atau antarmuka sebagaimana detail proyek. Jika ada uji lapangan atau laboratorium, simpan laporan lengkapnya bersama konfigurasi dan batas penerapannya; hasil lulus pada satu pengujian tidak membuktikan kinerja yang tidak diuji.
 
-## Objection or shortcut to address
+Paket handover yang berguna biasanya memuat daftar material dan label, catatan penerimaan, gambar revisi atau as-built, foto tahapan, daftar ketidaksesuaian beserta penyelesaiannya, catatan inspeksi, laporan uji bila ada, serta petunjuk perawatan dari pabrikan. Dokumen itu membantu pemilik membedakan kondisi awal yang terdokumentasi dari masalah yang muncul kemudian.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum menerima pekerjaan, minta pemeriksaan bersama bila ada antarmuka yang tertutup, berubah, atau sulit dijangkau setelah proyek selesai. Gunakan daftar temuan yang menyebut lokasi, kondisi yang dilihat, rujukan gambar atau detail, penanggung jawab, dan batas waktu tindak lanjut. Jangan menandatangani penerimaan akhir hanya karena daftar komponen sudah lengkap apabila ada pekerjaan yang belum dapat diverifikasi. Sebaliknya, jangan pula menahan seluruh handover tanpa membedakan temuan kosmetik, dokumen yang kurang, dan kondisi yang berpotensi memengaruhi keselamatan atau fungsi sistem. Pengelompokan seperti itu membuat koreksi dapat diprioritaskan secara jujur.
 
-## Required conclusion
+Untuk pekerjaan yang berkaitan dengan kanopi atau area berisiko jatuh, pembaca dapat meninjau konteks perencanaan melalui [panduan pemasangan kanopi kaca](/berita/pemasangan-kanopi-kaca-yang-baik-dan-benar), tetapi jangan gunakan artikel umum sebagai pengganti desain dan persetujuan proyek. Pada railing, keputusan mengenai sistem dan keselamatan perlu ditangani sebagai pekerjaan tersendiri; lihat konteksnya pada [halaman railing kaca](/railing-kaca/).
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pada akhirnya, Sobat Kaca.co.id, jadikan dokumen dan titik tahan sebagai bagian dari pemasangan, bukan pekerjaan administrasi setelah semuanya tertutup. Mulailah dari satu daftar: komponen yang dipasang, bukti persetujuan, siapa yang memeriksa, dan kondisi yang membuat pekerjaan harus berhenti. Bila salah satu poin itu belum jelas, tahan pekerjaan pada tahap yang masih dapat diperiksa dan minta review teknis sebelum melanjutkan.
