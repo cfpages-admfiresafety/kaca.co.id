@@ -1,6 +1,6 @@
 ---
 article_id: GLA-02-05
-title: "Tahapan pekerjaan kaca pengaman tempered, laminated, dan heat-strengthened: persiapan, pemasangan, QC, dan serah terima"
+title: "Tahapan pekerjaan kaca pengaman tempered, laminated, dan heat-strengthened: persiapan, pemasangan, pemeriksaan mutu, dan serah terima"
 slug: "kaca-safety-pasang"
 description: "Panduan menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan titik henti pemeriksaan mutu, dan mencatat serah-terima kaca pengaman."
 status: draft
@@ -24,7 +24,7 @@ sources:
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
 
-# Tahapan pekerjaan kaca pengaman tempered, laminated, dan heat-strengthened: persiapan, pemasangan, QC, dan serah terima
+# Tahapan pekerjaan kaca pengaman tempered, laminated, dan heat-strengthened: persiapan, pemasangan, pemeriksaan mutu, dan serah terima
 
 Halo, Kawan Kaca.co.id! Pekerjaan kaca pengaman tidak aman hanya karena panelnya sudah bertuliskan tempered atau laminated. Urutan yang lebih aman ialah: kunci dulu kebutuhan dan detail proyek, cocokkan panel yang datang dengan dokumen, pasang hanya ketika bukaan serta sistem penahannya siap, lalu berhenti pada titik pemeriksaan sebelum pekerjaan ditutup atau diserahterimakan.
 

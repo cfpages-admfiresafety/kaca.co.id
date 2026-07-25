@@ -1,6 +1,6 @@
 ---
 article_id: GLA-02-08
-title: "Brief, penawaran, dan serah terima kaca pengaman tempered, laminated, dan heat-strengthened: cara membandingkan vendor"
+title: "Dokumen Kebutuhan, Penawaran, dan Serah Terima Kaca Pengaman: Cara Membandingkan Calon Penyedia"
 slug: "kaca-safety-pengadaan"
 description: "Panduan menulis ringkasan kebutuhan, membandingkan batas penawaran, bukti mutu, jadwal, garansi, risiko perubahan, dan dokumen serah-terima kaca pengaman."
 status: draft
@@ -24,7 +24,7 @@ sources:
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
 
-# Brief, penawaran, dan serah terima kaca pengaman tempered, laminated, dan heat-strengthened: cara membandingkan vendor
+# Dokumen Kebutuhan, Penawaran, dan Serah Terima Kaca Pengaman: Cara Membandingkan Calon Penyedia
 
 Halo, Sobat Kaca.co.id! Dua penawaran kaca pengaman bisa terlihat sama-sama murah dan sama-sama memakai kata “tempered” atau “laminated”, tetapi belum tentu menjanjikan barang, batas pekerjaan, dan bukti yang sama. Cara membandingkan penyedia bukan mulai dari total rupiah, melainkan dari satu ringkasan kebutuhan tertulis yang membuat setiap penyedia menjawab kebutuhan yang sama.
 
