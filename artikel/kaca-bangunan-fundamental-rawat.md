@@ -3,7 +3,7 @@ article_id: GLA-01-07
 title: "Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia"
 slug: "kaca-bangunan-fundamental-rawat"
 description: "Pembaca dapat membuat baseline, memilih metode aman, menentukan tanda peringatan, dan mencatat inspeksi berkala kaca bangunan dan sifat dasarnya pada kondisi panas, lembap, hujan, atau pesisir."
-status: outline
+status: draft
 publication_date: "2025-03-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,48 +15,27 @@ final_route: "/artikel/kaca-bangunan-fundamental-rawat.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
   - "https://www.iso.org/standard/85237.html"
   - "https://www.iso.org/standard/35062.html"
   - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
-  - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia
 
-## Assignment lock
+Halo, Sobat Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia”
-- **Reader and situation:** Pemilik, penghuni, operator, facility manager, atau petugas pemeliharaan
-- **Reader outcome:** Pembaca dapat membuat baseline, memilih metode aman, menentukan tanda peringatan, dan mencatat inspeksi berkala kaca bangunan dan sifat dasarnya pada kondisi panas, lembap, hujan, atau pesisir.
-- **Primary intent:** Menginspeksi dan merawat kaca bangunan dan sifat dasarnya secara aman sepanjang umur layanan
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menangani kerusakan aktif yang memerlukan diagnosis; itu dimiliki GLA-01-06. Tidak mengulang prosedur pemasangan awal yang dimiliki GLA-01-05.
-- **Final public route:** `/artikel/kaca-bangunan-fundamental-rawat.html`
-- **Appointed CMS date:** `2025-03-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Perawatan kaca bangunan yang aman dimulai bukan dari cairan pembersih, melainkan dari catatan kondisi awal dan keputusan kapan pengamatan harus berhenti. Buat daftar setiap bidang kaca, cara aksesnya, kondisi lingkungan, serta foto yang dapat dibandingkan pada pemeriksaan berikutnya. Setelah itu, bersihkan dengan metode yang disetujui sistemnya, amati perubahan, dan eskalasi bila ada gejala yang tidak dapat dipastikan dengan pemeriksaan rutin.
 
-## Opening instructions
+Panas, kelembapan, hujan, dan udara pesisir dapat membuat kebutuhan perhatian tiap lokasi berbeda. Namun frekuensi atau ambang penerimaan tidak boleh ditebak dari artikel ini: keduanya perlu mengikuti dokumen produk, rancangan sistem, kondisi tapak, dan penilaian pihak kompeten. Istilah kaca datar, *heat-strengthened* (diperkuat panas), dan kaca pengaman temper penuh juga bukan label yang saling menggantikan; standar dasar kaca tidak dengan sendirinya membuktikan keamanan atau kecukupan sistem terpasang. Lihat cakupan publik [SNI 47:2018 yang dikonfirmasi pada 2026](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026) dan [ISO 16293-2:2025](https://www.iso.org/standard/85237.html) sebagai titik awal identifikasi, bukan sebagai bukti penerimaan proyek.
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi kanopi kaca spider 6](/wp-content/uploads/2021/04/kanopi-kaca-spider-6.jpg)
 
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,130 +46,57 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kanopi kaca spider 6` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
-
-### KR-10
-
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
-
-### KR-13
-
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Licensed standards for any numeric tolerance or acceptance criterion
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/berita/tips-merawat-sliding-door-kaca` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/tentang-perawatan-dan-kualitas-kaca-kanopi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/merawat-kaca-kanopi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/kelebihan-kekurangan-kaca-pada-bangunan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/kaca-sebagai-bangunan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/kaca-insulasi-aman` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `GLA-01-05` → `/artikel/kaca-bangunan-fundamental-pasang.html` — Tahapan pekerjaan kaca bangunan dan sifat dasarnya: persiapan, pemasangan, QC, dan serah terima
-- `GLA-01-06` → `/artikel/kaca-bangunan-fundamental-masalah.html` — Masalah pada kaca bangunan dan sifat dasarnya: gejala, akar penyebab, dan keputusan perbaikan
-- `GLA-01-08` → `/artikel/kaca-bangunan-fundamental-pengadaan.html` — Brief, penawaran, dan serah terima kaca bangunan dan sifat dasarnya: cara membandingkan vendor
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Tentukan objek, kondisi, dan tahap siklus hidup
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan membedakan objek yang diperiksa: satu lembar kaca, unit kaca insulasi, pintu, jendela, partisi, kanopi, atau fasad. Catat pula nomor ruang atau grid, sisi bangunan, jenis penggunaan, cara akses, dan siapa yang boleh mengambil keputusan. Dengan begitu, tim berikutnya tidak membandingkan foto kaca dalam ruang dengan bidang eksterior yang menerima hujan dan panas langsung.
+
+Masukkan dokumen yang sudah ada: gambar akhir, spesifikasi, label produk, data pabrikan, riwayat penggantian, serta instruksi pembersihan. Jika nama atau proses kacanya belum terbukti, tulis “belum terverifikasi”, bukan menebak dari warna atau pantulan. Nilai transmisi cahaya, panas matahari, nilai-U, privasi, dan insulasi bunyi adalah metrik berbeda; nilai pada bagian tengah kaca pun bukan otomatis nilai seluruh jendela atau fasad terpasang. Batas pengukuran tersebut dijelaskan dalam cakupan [ISO 9050](https://www.iso.org/standard/35062.html) dan [ISO 10292](https://www.iso.org/standard/89851.html).
+
+Pertanyaan praktisnya: “Apa yang sebenarnya dibandingkan pada kunjungan berikutnya?” Jawabannya harus berupa baseline yang dapat ditelusuri, bukan kesan bahwa kaca tampak masih baik. Kawan Kaca.co.id, bila dokumen pemasangan atau komposisi sistem tidak ada, jadikan pengadaan dokumen itu pekerjaan pertama sebelum membuat kesimpulan teknis.
 
 ## Mekanisme perubahan atau penurunan kinerja
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perubahan tampilan dan kondisi dapat berkaitan dengan penggunaan, endapan lingkungan, air yang tertahan, komponen penahan, atau riwayat proses bahan. Karena penyebabnya dapat saling tumpang tindih, satu gejala tidak cukup untuk menyimpulkan akar masalah atau sisa umur layanan. Pemeriksaan rutin bertugas menemukan perubahan dan menjaga rekamannya; diagnosis kerusakan aktif harus dialihkan ke peninjauan yang sesuai.
+
+Riwayat fabrikasi penting saat merencanakan perubahan. Pada kaca yang diproses panas, perubahan ukuran, lubang, atau takikan yang terlambat dapat berarti pembuatan ulang, bukan modifikasi di lapangan. Ruang lingkup [ASTM C1048](https://store.astm.org/c1048-25.html), [ASTM C1172](https://store.astm.org/c1172-24e01.html), dan panduan [National Glass Association](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf) menunjukkan mengapa rencana fabrikasi, pekerjaan tepi, kebersihan, penandaan, ekspektasi permukaan, dan keterlacakan perlu dibahas sebelum proses, dengan kriteria akhirnya tetap bergantung pada produk serta dokumen yang berlaku.
+
+Jadi, jangan menganggap permukaan yang berubah otomatis dapat “diperbaiki” dengan pengikisan, pengeboran, atau bahan kimia. Hentikan usulan tindakan yang mengubah kaca ketika jenis kaca, rancangan, dan persetujuan pihak berwenang belum jelas.
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat inspeksi dalam dua lapis. Lapis pertama adalah pengamatan aman dari lokasi yang memang boleh diakses: periksa kebersihan, endapan, aliran air, kondisi yang tampak pada seal atau penahan, label yang masih ada, serta perubahan dibandingkan baseline. Lapis kedua adalah pemeriksaan terarah oleh personel yang kompeten bila ada perubahan yang memerlukan akses khusus atau penilaian sistem.
+
+Gunakan format catatan yang sama setiap kali:
+
+- tanggal, pemeriksa, cuaca atau kondisi paparan yang relevan, dan area/ID bidang;
+- foto keseluruhan serta foto dekat dari sudut yang dapat diulang, tanpa mengambil risiko akses;
+- kondisi terlihat, tindakan yang dilakukan, bahan pembersih yang dipakai bila diketahui, dan perubahan dari pemeriksaan sebelumnya;
+- dokumen atau gambar yang dirujuk, pemilik tindak lanjut, dan tanggal peninjauan kembali.
+
+Jangan mengubah kesan visual menjadi angka teknis tanpa metode yang benar. Angka transmisi, panas, nilai-U, atau akustik memerlukan dasar pengujian dan konfigurasi yang tepat; hasil panel tidak dapat langsung dipindahkan menjadi klaim kinerja jendela, partisi, atau fasad. Teman Kaca.co.id, bila angka itu akan dipakai untuk keputusan keselamatan, kenyamanan, atau pengadaan, minta laporan dan peninjauan kompeten yang menjelaskan objek yang diuji.
 
 ## Pilihan perawatan atau intervensi
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilih tindakan paling ringan yang tetap aman. Untuk kondisi stabil, lakukan pembersihan dan pemantauan sesuai instruksi sistem serta catat hasilnya. Untuk kondisi yang berubah tetapi belum terdiagnosis, tahan dulu tindakan invasif dan kumpulkan catatan, foto pembanding, serta dokumen produk. Bila temuan berpotensi berkaitan dengan keamanan, penahan, atau akses, batasi penggunaan area bila diperlukan dan mintakan evaluasi kompeten.
+
+Perawatan bukan berarti mengubah bahan. Hindari mencoba memotong, mengebor, membuat takikan, atau mengubah ukuran di lapangan atas dasar asumsi. Bila kebutuhan desain benar-benar berubah, minta pihak yang berwenang menilai apakah komponen harus dibuat ulang dan bagaimana penerimaan proyek dibuktikan. Untuk kebiasaan perawatan bagian bergerak, panduan [merawat sliding door kaca](/berita/tips-merawat-sliding-door-kaca) dapat menjadi langkah lanjutan yang lebih spesifik; tetap cocokkan dengan petunjuk produk yang terpasang.
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prioritas bukan sekadar bidang yang paling mudah dilihat. Nilai dahulu konsekuensi bila kondisi memburuk, urgensi perubahan, paparan manusia, akses pemeriksaan, ketergantungan pada komponen lain, dan siapa yang memiliki otoritas menghentikan atau melanjutkan pekerjaan. Catatan “perlu diperiksa” tanpa pemilik tindakan sering membuat masalah tertunda.
+
+Gunakan keputusan sederhana berikut. Bila kondisi stabil dan baseline lengkap, jadwalkan pemantauan. Bila perubahan terlihat tetapi konsekuensinya belum jelas, dokumentasikan dan tetapkan pemeriksaan ulang yang bertanggung jawab. Bila ada indikasi kondisi aktif yang tidak dapat Anda nilai dengan aman, jangan mendiagnosis dari jauh: pindahkan ke evaluasi kerusakan dan keputusan perbaikan yang terpisah. Untuk konteks pemeliharaan pada area kanopi, Anda juga dapat membaca [perawatan dan kualitas kaca kanopi](/berita/tentang-perawatan-dan-kualitas-kaca-kanopi) setelah memastikan konteksnya relevan.
 
 ## Rekaman, handover, dan pemicu pemeriksaan ulang
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan kaca bangunan dan sifat dasarnya untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Simpan satu rekaman yang mudah diwariskan: daftar aset, baseline, foto, dokumen teknis, riwayat pembersihan, perubahan komponen, keputusan yang diambil, dan kontak peninjau. Saat pengelola berganti, rekaman ini lebih berguna daripada daftar bahan pembersih tanpa konteks karena membantu orang baru memahami apa yang memang diketahui dan apa yang masih belum terverifikasi.
 
-## Objection or shortcut to address
+Pemicu pemeriksaan ulang dapat berupa perubahan kondisi yang terlihat, pekerjaan lain di sekitar bidang kaca, perubahan penggunaan ruang, kejadian cuaca yang relevan, atau hilangnya dokumen penting. Pemeriksaan ulang juga tepat bila rencana memerlukan data kinerja baru. Jangan memasukkan ambang angka atau frekuensi baku tanpa standar berlisensi, spesifikasi proyek, dan kondisi nyata yang telah ditinjau: **[NEEDS TECHNICAL REVIEW: tetapkan kriteria penerimaan dan interval inspeksi untuk sistem/proyek ini.]**
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas: “kalau masih bening, berarti aman”
 
-## Required conclusion
+Jalan pintas ini gagal karena kejernihan hanya satu pengamatan visual. Ia tidak membuktikan jenis kaca, riwayat proses, cara pemasangan, kecukupan komponen, ataupun kinerja sistem. Demikian pula, hasil sifat pada pusat kaca tidak otomatis berlaku untuk keseluruhan rakitan terpasang. Lebih aman memakai urutan: identifikasi objek, bandingkan dengan baseline, catat perubahan, lalu minta tinjauan yang tepat apabila keputusan melampaui pembersihan rutin.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Kaca.co.id, bila Anda hanya punya waktu untuk satu pekerjaan minggu ini, buatlah daftar aset dan foto baseline yang rapi. Sesudah itu, jalankan perawatan sesuai dokumen produk, jangan melakukan modifikasi lapangan berdasarkan dugaan, dan gunakan peninjauan teknis untuk setiap kriteria penerimaan atau gejala aktif yang belum dapat dipastikan.
