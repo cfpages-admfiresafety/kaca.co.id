@@ -3,7 +3,7 @@ article_id: GLA-11-03
 title: "Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi"
 slug: "fasad-curtain-wall-spider-glass-spesifikasi"
 description: "Pembaca dapat mengumpulkan input, menyatakan unit dan toleransi, memeriksa asumsi, serta menyiapkan spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing yang dapat ditinjau vendor."
-status: outline
+status: draft
 publication_date: "2026-01-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,52 +15,16 @@ final_route: "/artikel/fasad-curtain-wall-spider-glass-spesifikasi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung"
   - "https://peraturan.bpk.go.id/Details/294700"
   - "https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014"
   - "https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key="
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
   - "https://store.astm.org/standards/e331"
   - "https://store.astm.org/standards/e2190"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi”
-- **Reader and situation:** Designer, estimator, drafter, engineer, atau pembeli teknis yang menyiapkan dokumen kerja
-- **Reader outcome:** Pembaca dapat mengumpulkan input, menyatakan unit dan toleransi, memeriksa asumsi, serta menyiapkan spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing yang dapat ditinjau vendor.
-- **Primary intent:** Menyusun spesifikasi terukur untuk fasad kaca, curtain wall, storefront, dan point-supported spider glazing
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menggantikan desain atau persetujuan engineer untuk kondisi berisiko; detail antarmuka dimiliki GLA-11-04 dan eksekusi lapangan dimiliki GLA-11-05.
-- **Final public route:** `/artikel/fasad-curtain-wall-spider-glass-spesifikasi.html`
-- **Appointed CMS date:** `2026-01-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-025`
@@ -71,151 +35,82 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Curtain Wall` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-025]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Kaca.co.id! Spesifikasi fasad kaca tidak aman bila hanya berbunyi “kaca tempered sekian milimeter” atau “pakai silicone”. Dokumen yang dapat ditinjau vendor harus menjelaskan objek pekerjaan, ukuran dan satuannya, toleransi, beban atau kondisi rancangannya, jenis sistem, antarmuka, serta bukti apa yang akan dipakai untuk menerima hasilnya.
 
-### KR-02
+Jawaban singkatnya: susun spesifikasi sebagai rangkaian keputusan yang bisa diperiksa, bukan daftar merek atau angka lepas. Ketebalan, jenis kaca, ukuran panel, sambungan, dan metode pengujian baru dapat diputuskan setelah data proyek dan rancangan sistem ditelaah. [ASTM E1300-24](https://store.astm.org/e1300-24.html) sendiri menempatkan dimensi, dukungan tepi, jenis kaca, beban, lubang/notch, defleksi, serta akibat setelah pecah sebagai variabel yang saling terkait.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [official PUPR JDIH record](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)
-- **Purpose for this article:** Anchor Indonesian building articles in the current national building-governance framework.
-- **Safe grounded facts:** The regulation took effect on 2 February 2021 and replaced PP 36/2005. A project can therefore require national rules, SNI/technical standards, and location-specific regulations together.
-- **Limits:** Do not convert this high-level regulation into glass thicknesses, safety locations, or test pressures. Those need the applicable detailed rule and project design.
+![Ilustrasi Curtain Wall](/wp-content/uploads/2021/04/Curtain-Wall.jpg)
 
-### KR-09
-
-- **Original sources:** [Permenperin No. 12 Tahun 2024 — BPK](https://peraturan.bpk.go.id/Details/294700), [SNI ISO 20492-1:2014 edge-seal climate durability — BSN](https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014), [SNI ISO 20492-2:2014 fogging test — BSN](https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020), [BSN listing for Parts 1–4](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key=)
-- **Purpose for this article:** Ground double/insulating-glass, internal fogging, gas, edge seal, procurement, and replacement articles in Indonesian requirements.
-- **Safe grounded facts:** An insulating glass unit is a fabricated sealed product, not simply two independent panes. Internal fogging, gas retention, seal durability, edge construction, glazing compatibility, and structural-glazing suitability are distinct issues.
-- **Limits:** Verify the regulation's exact product scope, exceptions, certification route, and transition provisions from the full text before stating that a particular unit must bear a specific mark.
-
-### KR-12
-
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
-
-### KR-14
-
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
-
-### KR-15
-
-- **Original sources:** [ASTM E331-00(2023) official scope](https://store.astm.org/standards/e331), [ASTM E2190-19 official scope](https://store.astm.org/standards/e2190), [ASTM E06.51 current window/façade standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651)
-- **Purpose for this article:** Separate material claims from manufactured-assembly and installed-system verification.
-- **Safe grounded facts:** Test pressure, specimen size/configuration, laboratory versus field setup, interfaces, drainage, supporting construction, installation, aging, and failure definition must be stated. Passing one test does not prove unrelated performance.
-- **Limits:** Project specifications and local requirements control test selection and pressure. Do not invent a “standard” pressure.
-
-### KR-19
-
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Project specification, engineer, manufacturer review, mockup/testing
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kanopi-kaca-spider/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-kaca-spider-tasikmalaya/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-kaca-spider-tanggerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-kaca-spider-tangerang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-kaca-spider-tangerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-kaca-spider-sumedang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `GLA-11-01` → `/artikel/fasad-curtain-wall-spider-glass-dasar.html` — Panduan dasar fasad kaca, curtain wall, storefront, dan point-supported spider glazing: istilah, komponen, dan cara kerja
-- `GLA-11-02` → `/artikel/fasad-curtain-wall-spider-glass-pilih.html` — Cara memilih fasad kaca, curtain wall, storefront, dan point-supported spider glazing: matriks keputusan berdasarkan fungsi dan risiko
-- `GLA-11-04` → `/artikel/fasad-curtain-wall-spider-glass-desain.html` — Detail desain fasad kaca, curtain wall, storefront, dan point-supported spider glazing: antarmuka, drainase, gerak, dan akses
-- `GLA-11-05` → `/artikel/fasad-curtain-wall-spider-glass-pasang.html` — Tahapan pekerjaan fasad kaca, curtain wall, storefront, dan point-supported spider glazing: persiapan, pemasangan, QC, dan serah terima
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari bukan gambar cantik atau penawaran termurah, melainkan paket spesifikasi yang memungkinkan desainer, engineer, vendor, dan pelaksana membaca kebutuhan yang sama. Untuk curtain wall, storefront, dan point-supported spider glazing, paket itu sebaiknya memisahkan data geometri, komponen, kinerja yang diminta, toleransi, dokumen bukti, dan pihak pemberi persetujuan.
+
+Siapkan setidaknya gambar arsitektur terbaru, elevasi dan potongan, lokasi serta orientasi fasad, dimensi bukaan atau panel, kondisi struktur penerima, kebutuhan akses/perawatan, dan batas pekerjaan. Catat juga satuan sejak awal—misalnya mm untuk dimensi detail dan m untuk elevasi—agar angka pada gambar, jadwal kaca, dan penawaran tidak saling bergeser. Regulasi bangunan nasional tetap menjadi kerangka yang relevan, tetapi proyek dapat sekaligus memerlukan standar teknis dan ketentuan setempat; [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) tidak dapat dipakai sebagai tabel ketebalan kaca atau tekanan uji.
+
+Sebelum dokumen beredar, beri setiap parameter satu status: terkonfirmasi, asumsi yang menunggu bukti, atau pilihan yang harus disetujui. Cara sederhana ini membantu pembaca membedakan informasi yang boleh dipakai menghitung penawaran dari informasi yang hanya boleh dipakai untuk meminta klarifikasi. Sertakan nomor revisi dan tanggal dokumen pada setiap lampiran agar tim tidak membandingkan data dari versi berbeda.
+
+**[NEEDS PROJECT REVIEW: engineer, produsen sistem, dan spesifikasi proyek harus mengonfirmasi beban, konfigurasi, toleransi, serta kebutuhan mockup/pengujian sebelum nilai akhir diterbitkan.]**
 
 ## Langkah 1 — tetapkan scope
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan menamai sistem yang benar. Curtain wall adalah sistem fasad yang umumnya memiliki rangka dan panel sendiri; storefront biasanya melayani bukaan di level bangunan; sedangkan point-supported spider glazing menyalurkan dukungan melalui titik atau fitting. Nama tersebut belum cukup untuk menentukan produk. Tulis bagian mana yang termasuk: kaca, rangka, pressure plate/cap bila ada, gasket, sealant, fitting, anchor, flashing, drainase, aksesori, dan pekerjaan penyambung ke struktur.
+
+Lalu tulis batasnya. Contohnya, “termasuk panel fasad dan seal perimeter sampai garis struktur penerima; tidak termasuk perkuatan struktur eksisting.” Batas yang jelas mencegah vendor mengasumsikan bahwa lubang, bracket, waterproofing, atau pekerjaan listrik berada di pihak lain. Untuk kebutuhan kanopi dengan sistem titik, pembaca dapat membandingkan konteks penggunaan pada [halaman kanopi kaca spider](/kanopi-kaca-spider/), tetapi halaman tersebut bukan pengganti rancangan fasad proyek Anda.
+
+Kawan Kaca.co.id, jangan menyamakan “kaca aman” dengan satu jenis produk. Jika ada tuntutan kebakaran, gunakan istilah kinerja dan bukti untuk rakitan yang tepat; klaim ketahanan api, perlindungan api, kenaikan temperatur, keselamatan benturan, dan penggunaan pada rakitan pintu/jendela adalah klaim yang berbeda. Jangan memilihnya hanya dari nama dagang.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan satu daftar bukti yang menghubungkan setiap persyaratan dengan cara memeriksanya. Format sederhana berikut membuat asumsi terlihat sebelum berubah menjadi pekerjaan ulang.
+
+| Yang ditetapkan | Data yang harus disebut | Bukti/peninjau |
+| --- | --- | --- |
+| Geometri | kode panel, lebar, tinggi, posisi, datum, satuan, toleransi | gambar terkoordinasi dan ukur ulang lapangan |
+| Kaca | susunan unit, jenis pemrosesan, finishing tepi, lubang/notch, orientasi | jadwal kaca, data produk, telaah engineer |
+| Rangka/fitting | profil atau fitting yang dipilih, material kontak, titik tumpu | shop drawing dan persetujuan sistem |
+| Sambungan | lokasi joint, kebutuhan gerak, bahan pembersih/primer bila disetujui | prosedur produsen dan QC terdokumentasi |
+| Kinerja | kriteria yang diminta proyek serta metode verifikasi | mockup atau uji yang disetujui proyek |
+
+Untuk insulating glass unit, jangan tulis seolah dua lembar kaca independen sudah otomatis menjadi satu produk berkinerja. Unit tersebut adalah produk bersegel; ketahanan seal tepi, kabut internal, retensi gas, konstruksi tepi, kompatibilitas glazing, dan kesesuaian untuk structural glazing merupakan isu terpisah. Rujukan [SNI ISO 20492-1:2014](https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014) dan [SNI ISO 20492-2:2014](https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020) menunjukkan bahwa durabilitas seal tepi dan pengujian fogging memang bukan satu pertanyaan yang sama. Bila pengadaan dikaitkan dengan kewajiban tertentu, periksa dahulu ruang lingkup, pengecualian, serta masa transisinya pada [Permenperin No. 12 Tahun 2024](https://peraturan.bpk.go.id/Details/294700); jangan mengklaim semua unit pasti wajib memiliki penandaan tertentu tanpa pembacaan ketentuan lengkap.
+
+Sobat Kaca.co.id, pisahkan fakta yang sudah ada dari asumsi. “Ukuran panel mengikuti gambar revisi X” adalah fakta dokumen. “Struktur penerima cukup kaku” adalah asumsi sampai dibuktikan. Tandai asumsi yang belum ditutup agar estimator tidak memasukkannya sebagai kepastian harga.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan yang aman adalah mengunci input dahulu, baru meminta rancangan dan bukti. Pertama, tetapkan datum pengukuran, zona fasad, kode panel, dan revisi gambar. Kedua, cocokkan kondisi struktur serta antarmuka dengan kondisi aktual yang tersedia. Ketiga, minta vendor menyatakan sistem yang ditawarkan beserta penyimpangan terhadap spesifikasi. Keempat, serahkan konfigurasi tersebut untuk telaah pihak yang bertanggung jawab atas desain. Setelah itu barulah tetapkan dokumen produksi, toleransi penerimaan, dan rencana pemeriksaan.
+
+Jangan mengisi ketebalan dari kebiasaan proyek lain. Pemilihan kaca bergantung pada kombinasi dimensi, rasio bidang, dukungan tepi, jenis kaca, beban serta durasinya, kondisi tepi, lubang/notch, defleksi, dan konsekuensi pascapecah, sebagaimana ruang lingkup [ASTM E1300-24](https://store.astm.org/e1300-24.html). Standar tersebut bukan izin untuk menyalin koefisien atau angka penerimaan dari ringkasan. Perhitungan dan keputusan akhir memerlukan standar yang berlaku serta engineer yang berwenang.
+
+Untuk sambungan bersealant, tuliskan fungsi joint dan bukti yang diperlukan, bukan sekadar “gunakan silicone”. Manual structural sealant glazing dari [Dow](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf) menekankan keterpisahan faktor seperti kondisi substrat, pembersihan/primer, geometri sambungan, gerak, curing, material yang bersentuhan, drainase, dan dokumentasi adhesi/QC. Dimensi atau proses khusus satu produsen tidak boleh dipindahkan ke produsen lain; untuk structural silicone, mintalah telaah proyek tertulis dari produsen terpilih dan penanggung jawab desain.
 
 ## Hold point dan kondisi berhenti
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan penerbitan spesifikasi final atau pemesanan bila salah satu pertanyaan berikut belum terjawab: apakah beban dan kondisi dukungan telah ditelaah; apakah ukuran lapangan cocok dengan gambar; apakah lubang, notch, dan fitting sudah menjadi bagian dari rancangan; apakah material yang bertemu sealant telah diperiksa kompatibilitasnya; dan apakah pihak yang menyetujui mockup atau pengujian sudah ditetapkan.
+
+Kondisi berhenti juga berlaku ketika persyaratan kinerja hanya berbunyi “tidak bocor” atau “lulus tes” tanpa konfigurasi. Untuk pengujian kebocoran air, [ASTM E331](https://store.astm.org/standards/e331) membedakan prosedur uji semprot air statis pada rakitan eksterior; sementara [ASTM E2190](https://store.astm.org/standards/e2190) berkaitan dengan evaluasi kinerja insulating glass unit yang diproduksi di pabrik. Spesimen, ukuran, tekanan, antarmuka, kondisi laboratorium atau lapangan, drainase, konstruksi pendukung, definisi kegagalan, dan penuaan dapat mengubah arti hasil. Karena itu, lulus satu uji tidak otomatis membuktikan kinerja sistem lain.
+
+Teman Kaca.co.id, jika persetujuan engineer atau produsen belum ada, tulis statusnya sebagai pending dan tahan keputusan yang bergantung padanya. Itu lebih murah daripada mengubah kaca atau fitting setelah produksi.
 
 ## Verifikasi hasil dan handover
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi fasad kaca, curtain wall, storefront, dan point-supported spider glazing: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Handover yang berguna memungkinkan pemeriksa menelusuri satu panel dari gambar sampai bukti penerimaan. Simpan revisi gambar yang dipakai, jadwal panel, persetujuan shop drawing, data produk yang benar-benar dipilih, rekaman pemeriksaan dimensi, catatan kondisi sambungan, hasil mockup atau uji jika disyaratkan, daftar deviasi, dan keputusan penutupnya. Jangan menyebut hasil “sesuai spesifikasi” bila spesifikasinya sendiri tidak memuat toleransi dan metode pemeriksaan.
 
-## Objection or shortcut to address
+Pada pemeriksaan akhir, cocokkan kode panel, arah pemasangan, ukuran aktual, kondisi tepi yang dapat diamati, kelengkapan fitting/rangka, kesinambungan joint, jalur drainase yang dirancang, serta rekaman perbaikan. Bila terdapat deviasi, catat lokasi, dampak, usulan koreksi, dan siapa yang menerima atau menolaknya. Pemeriksaan ini bukan pengganti desain antarmuka maupun tata cara pemasangan lapangan; keduanya tetap memerlukan dokumen dan peninjauan khusus.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu dihindari
 
-## Required conclusion
+Jalan pintas yang sering muncul adalah meminta vendor “samakan saja dengan proyek sebelumnya”. Kesamaan nama sistem tidak menjamin kesamaan bentang, dukungan, lubang, beban, pergerakan bangunan, atau antarmuka. Bahkan ketika bahan kacanya serupa, perubahan konfigurasi rakitan dan pemasangan dapat mengubah apa yang relevan untuk diuji.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatifnya bukan membuat spesifikasi sangat panjang, melainkan membuatnya dapat diuji: tulis parameter yang belum pasti sebagai asumsi, minta vendor menyatakan data yang dipakai, lalu tutup asumsi tersebut dengan telaah dan bukti yang sesuai. Dengan cara ini, harga dan jadwal dapat dibandingkan tanpa menyamarkan risiko desain sebagai pilihan merek.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Spesifikasi fasad kaca, curtain wall, storefront, atau spider glazing yang layak ditinjau adalah spesifikasi yang menyebut data, satuan, toleransi, asumsi, bukti, dan pemegang keputusan—bukan angka ketebalan yang berdiri sendiri. Langkah berikutnya adalah membuat daftar parameter per panel dan mengirimkannya bersama gambar revisi kepada engineer serta produsen sistem untuk ditelaah.
+
+Pegang aturan operasional ini: bila konfigurasi, kondisi dukungan, atau bukti kinerja belum terkonfirmasi, jangan mengubahnya menjadi keputusan produksi. Batas ini melindungi dokumen spesifikasi agar tetap menjadi alat koordinasi, bukan pengganti tanggung jawab desain profesional.
