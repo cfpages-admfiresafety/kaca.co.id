@@ -1,9 +1,10 @@
 ---
 article_id: GLA-12-05
-title: "Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima"
+title: "Panduan Mengendalikan Pengadaan hingga Serah Terima Pekerjaan Kaca"
 slug: "pengadaan-kaca-pasang"
-description: "Pembaca dapat menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan hold point QC, dan mendokumentasikan serah terima survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca."
-status: outline
+description: "Panduan menyiapkan pengadaan, pemeriksaan mutu, bukti pekerjaan, dan serah terima kaca agar keputusan proyek tidak hanya bertumpu pada harga."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,47 +16,11 @@ final_route: "/artikel/pengadaan-kaca-pasang.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung"
   - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
-  - "https://www.iso.org/standard/85237.html"
-  - "https://peraturan.bpk.go.id/Details/294700"
-  - "https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014"
-  - "https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020"
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key="
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima”
-- **Reader and situation:** Kontraktor, pengawas, mandor, teknisi, atau pemilik yang mengawasi pekerjaan
-- **Reader outcome:** Pembaca dapat menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan hold point QC, dan mendokumentasikan serah terima survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca.
-- **Primary intent:** Merencanakan serta mengendalikan pelaksanaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan izin DIY untuk pekerjaan berbahaya atau di luar kompetensi. Diagnosis kerusakan setelah beroperasi dimiliki GLA-12-06; spesifikasi sebelum kerja dimiliki GLA-12-03.
-- **Final public route:** `/artikel/pengadaan-kaca-pasang.html`
-- **Appointed CMS date:** `2026-03-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,137 +31,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kanopi kaca spider 6` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Panduan Mengendalikan Pengadaan hingga Serah Terima Pekerjaan Kaca
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Kaca.co.id!
 
-### KR-02
+Pekerjaan kaca sering terlihat sederhana di awal: ukur, pesan, pasang, selesai. Masalahnya justru muncul ketika ukuran lapangan berubah, jenis produk di penawaran tidak benar-benar sama, atau barang tiba tanpa identitas yang bisa dicocokkan. Karena itu, pengadaan yang rapi bukan soal mencari harga paling rendah. Urutannya harus jelas: kebutuhan dikunci, penawaran dibandingkan, bukti diperiksa, pekerjaan dikendalikan, lalu serah terima dicatat.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [official PUPR JDIH record](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)
-- **Purpose for this article:** Anchor Indonesian building articles in the current national building-governance framework.
-- **Safe grounded facts:** The regulation took effect on 2 February 2021 and replaced PP 36/2005. A project can therefore require national rules, SNI/technical standards, and location-specific regulations together.
-- **Limits:** Do not convert this high-level regulation into glass thicknesses, safety locations, or test pressures. Those need the applicable detailed rule and project design.
+Pegang satu prinsip ini: jangan menerima pekerjaan hanya karena kaca sudah terpasang. Terima bila produk, kondisi, dokumen, dan batas tanggung jawabnya cocok dengan persetujuan proyek. Acuan bangunan dapat melibatkan aturan nasional, standar teknis, dan ketentuan setempat sekaligus; PP No. 16 Tahun 2021 sendiri menggantikan PP No. 36 Tahun 2005. [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) bukan tabel ketebalan kaca atau izin memilih sistem tanpa desain. Untuk itu tetap perlu dokumen proyek dan peninjauan tenaga yang berwenang.
 
-### KR-05
+![Ilustrasi kanopi kaca spider 6](/wp-content/uploads/2021/04/kanopi-kaca-spider-6.jpg)
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
+*Gambar ini aset lokal dan bukan dokumentasi proyek tertentu.*
 
-### KR-09
+## Mulai dari kebutuhan yang bisa diperiksa
 
-- **Original sources:** [Permenperin No. 12 Tahun 2024 — BPK](https://peraturan.bpk.go.id/Details/294700), [SNI ISO 20492-1:2014 edge-seal climate durability — BSN](https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014), [SNI ISO 20492-2:2014 fogging test — BSN](https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020), [BSN listing for Parts 1–4](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key=)
-- **Purpose for this article:** Ground double/insulating-glass, internal fogging, gas, edge seal, procurement, and replacement articles in Indonesian requirements.
-- **Safe grounded facts:** An insulating glass unit is a fabricated sealed product, not simply two independent panes. Internal fogging, gas retention, seal durability, edge construction, glazing compatibility, and structural-glazing suitability are distinct issues.
-- **Limits:** Verify the regulation's exact product scope, exceptions, certification route, and transition provisions from the full text before stating that a particular unit must bear a specific mark.
+Sebelum meminta harga, tulis dulu apa yang sedang dibeli dan apa hasil akhirnya. Bukan cukup “kaca untuk kanopi” atau “partisi kaca”. Catat fungsi ruang atau bukaan, jumlah lokasi, kondisi yang sudah ada, batas pekerjaan penyedia, antarmuka dengan rangka atau komponen lain, serta siapa yang akan menyetujui hasilnya.
 
-### KR-22
+Kaca datar, kaca yang dikuatkan dengan pemanasan, dan kaca pengaman temper penuh bukan nama yang bisa dipertukarkan begitu saja. Bahkan standar untuk bahan dasar tidak otomatis membuktikan kecocokan keselamatan, kekuatan struktur, atau kinerja seluruh sistem. Status SNI untuk kaca datar dapat dilihat pada [catatan BSN ini](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), tetapi batas cacat, toleransi, dan cara penerimaan tetap harus mengacu pada standar lengkap serta dokumen proyek yang berlaku.
 
-- **Purpose for this article:** Turn research into auditable RFQ, submittal, installation, inspection, and handover inputs rather than descriptive prose only.
-- **Safe grounded facts:** Durable quality depends on preserving product identity and condition from fabrication through handover. Labels, delivery inspection, storage orientation/support, edge protection, setting materials, cleaning, photographs, nonconformance records, test reports, and as-built information are evidence.
-- **Limits:** It is an industry manual, not a project specification or Indonesian law. Manufacturer instructions and project documents take precedence where more specific. ## Topic-family coverage matrix | Topic family | Main evidence records | What the eventual eight-article set must be grounded in | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `GLA-01` | KR-05, KR-10, KR-13 | Fundamentals: product taxonomy; difference between material, processed product, and installed system; basic optical/thermal/load concepts | Licensed standards for any numeric tolerance or acceptance criterion | | `GLA-02` | KR-06, KR-07, KR-13, KR-17 | Tempered/laminated/heat-strengthened safety: distinct breakage and retention behavior; fabrication sequence; safety evidence; heat-soak limits | Full applicable SNI, application rule, and expert review | | `GLA-03` | KR-08, KR-09, KR-10, KR-11, KR-21 | Thermal/solar/light/privacy/acoustic: separate metrics and test methods; center-of-glass versus whole system; climate/orientation inputs | Verified product/system reports and locally applicable project criteria | | `GLA-04` | KR-02, KR-05, KR-12, KR-13 | Specification/size/load/tolerance: complete design inputs, support/load boundaries, fabrication effects, no universal thickness table | Qualified engineer and licensed calculation standard | | `GLA-05` | KR-05, KR-07, KR-08, KR-13 | Fabrication: process order, edge/hole planning, traceability, product-specific reject evidence | Fabricator capabilities, current standards, and approved shop data | | `GLA-06` | KR-09, KR-14, KR-15, KR-22 | Frames/gaskets/sealants/fittings: compatibility, adhesion, movement, drainage, support, corrosion, and QC evidence | Selected system/manufacturer review and project-specific tests | | `GLA-07` | KR-02, KR-03, KR-06, KR-11, KR-15 | Windows/doors/openings: user safety/access, operation, air/water/energy as whole-product performance | Applicable local rules, tested assembly, and hardware/use-cycle data | | `GLA-08` | KR-03, KR-06, KR-10, KR-19, KR-21 | Partitions/interiors: human impact, visibility, acoustics as a system, fire boundary, privacy technology | Occupancy/use requirements and complete tested systems | | `GLA-09` | KR-06, KR-08, KR-12, KR-14, KR-16 | Shower/mirror/furniture: wet-area impact, exposed edges, mirror type/backing, hardware/support, cleaning | Application-specific safety rule, hardware data, and design review | | `GLA-10` | KR-04, KR-06, KR-07, KR-12, KR-18 | Railings/canopies/skylights/roofs/floors: failure consequence, post-breakage retention, overhead/fall-through/live-load/access risks | Mandatory structural engineer and applicable system standards/tests | | `GLA-11` | KR-02, KR-09, KR-12, KR-14, KR-15, KR-19 | Façades/curtain wall/storefront/spider: load path, anchors, silicone, movement, air/water, IGU, fire interfaces, testing | Project specification, engineer, manufacturer review, mockup/testing | | `GLA-12` | KR-02, KR-05–KR-09, KR-22 | Survey/quotes/procurement/evidence/warranty: comparable makeup/scope, standards evidence, samples, exclusions, logistics, warranties | Current supplier evidence and a project-specific comparison sheet | | `GLA-13` | KR-04, KR-14, KR-15, KR-16, KR-22 | Installation/QC/handover: safe access, receiving/storage, setting/sealing, protection, hold points, records | Site method statement, ITP, competent personnel, approved materials | | `GLA-14` | KR-09, KR-14–KR-17, KR-22 | Defects/fogging/leaks/breakage/replacement: safe isolation, symptom versus cause, evidence preservation, IGU/seal/edge clues | Site inspection and specialist/forensic review for consequential failures | | `GLA-15` | KR-04, KR-14, KR-16, KR-18, KR-22 | Cleaning/inspection/maintenance in Indonesia: glass/coating identification, compatible method, exposure-based frequency, safe access, records | Exact manufacturer instructions and current HSE/access plan | | `GLA-16` | KR-08, KR-19, KR-20, KR-21 | Smart/decorative/privacy/security/fire/specialist: technology/threat/rating-specific evidence; complete tested assembly; durability and fail state | Specialist review, applicable Indonesian approval basis, current test/listing | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** This means outline work can begin, but it does not mean every article is cleared for definitive numeric or compliance claims. ## Cross-catalog fact bank These are reusable propositions supported by the register. Writers should still cite the underlying source. 1. Glass product type, processed makeup, and installed-system performance are three different layers. 2. Tempered, heat-strengthened, and laminated glass solve different pre-breakage and post-breakage questions. 3. “Laminated,” “tempered,” “double,” “smart,” “fire-rated,” and “security” are not complete specifications. 4. Center-of-glass performance cannot automatically be claimed for the complete window, partition, door, or façade. 5. Thickness cannot be selected safely from application name alone. 6. Holes, notches, edges, dimensions, coatings, and decoration must be coordinated before heat treatment where applicable. 7. Sealant suitability requires joint design plus substrate adhesion and material compatibility evidence. 8. Internal IGU fogging and external surface condensation are different symptoms. 9. Cleaning method depends on glass, coating, film, interlayer edge, contaminants, and manufacturer guidance. 10. Heat-soak testing reduces a specific tempered-glass breakage risk; it does not guarantee zero breakage. 11. Skylights and sloped glazing are not walking surfaces unless specifically engineered as such. 12. Fire, ballistic, blast, forced-entry, impact safety, acoustic, privacy, and solar-control claims each need their own evidence. 13. A test result belongs to the tested method, specimen, configuration, conditions, and acceptance basis. 14. Procurement quality improves when evidence, inclusions, exclusions, interfaces, samples, QC, and handover documents are made comparable. 15. Current legal and standards status must be rechecked; changes discovered in 2026 show why old article memory is unsafe. ## Evidence gaps and publication gates | Gate | Affected families | Resolution required | | --- | --- | --- | | `GATE-01` Licensed SNI text | All, especially `02–06`, `09–11` | Obtain/read the applicable current SNI before exact requirements, tolerances, classes, or tests enter an outline | | `GATE-02` Indonesian application rules | `02`, `07–11`, `16` | Identify applicable national/local building, fire, accessibility, and project rules for the actual application | | `GATE-03` Structural design | `04`, `09–11`, `16` | Qualified engineer verifies loads, support, makeup, deflection, post-breakage consequences, and interfaces | | `GATE-04` Product/system reports | `03`, `06–11`, `16` | Obtain current datasheets, test reports, certification/listing, limitations, and exact configuration | | `GATE-05` Manufacturer compatibility | `06`, `09`, `11`, `13–15` | Written adhesion/compatibility, cleaning, processing, and installation guidance for selected materials | | `GATE-06` Site facts | `07`, `10–15` | Survey dimensions, exposure, substrate/frame condition, access, drainage, existing defects, and user risk | | `GATE-07` HSE/legal consolidation | `10`, `11`, `13–15` | Review current Permenaker provisions including the 2026 amendment; approve task-specific safe method | | `GATE-08` Specialist threat/rating definition | `16` | Define fire/security/ballistic/blast/privacy/smart-glass objective and governing evidence before selection | ## Source-refresh triggers Recheck a record immediately when any of these occurs: - BSN confirms, revises, replaces, or withdraws a listed SNI. - A ministry regulation is amended, partially revoked, or replaced. - ISO/ASTM/UL publishes a new edition used by the article. - A manufacturer changes formulation, substrate approval, warranty, or installation guidance. - An article introduces a number, rating, test class, compliance statement, service-life claim, price, or safety procedure. - The real project configuration falls outside the public source's stated scope. ## Next authorized stage The next content stage is to use this research to produce article outlines and detailed lower-model writing instructions. That stage should begin with the 12 P0/Wave 1 briefs, validate one complete outline/writing-instruction package, and only then scale the pattern. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+Kalau fungsi, ukuran, tumpuan, kondisi lapangan, atau risiko pengguna belum jelas, jangan paksa penyedia membuat keputusan desain dari kalimat singkat di WhatsApp. [NEEDS DATA PROYEK: gambar yang disetujui, kondisi lapangan, kriteria penerimaan, dan pihak pemeriksa.] Ini bukan birokrasi tambahan; ini cara membedakan kebutuhan yang benar-benar sama dari kebutuhan yang hanya terdengar mirip.
 
-## Evidence gates
+## Bandingkan penawaran sampai ruang lingkupnya terlihat
 
-- **TOPIC-GATE:** Current supplier evidence and a project-specific comparison sheet
+Penawaran baru layak dibandingkan bila setiap penyedia menjawab daftar yang sama. Minta mereka memisahkan bahan atau susunan produk, pengukuran, fabrikasi, pengiriman, akses kerja, alat bantu, perlindungan barang, pekerjaan penyelesaian, pembersihan, pemeriksaan mutu, dokumen serah terima, dan garansi. Sertakan pula yang tidak termasuk serta asumsi yang dipakai.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Begini pertanyaan sederhananya: jika satu harga lebih rendah, bagian mana yang tidak ikut dihitung? Bisa jadi pengukuran ulang, akses, perlindungan saat pekerjaan lain berjalan, atau perbaikan setelah temuan. Tanpa pemisahan itu, angka murah hanya memindahkan biaya dan debat ke tahap berikutnya.
 
-## Internal-link plan
+Sobat Kaca.co.id, gunakan satu lembar perbandingan untuk semua penawaran. Di situ, jangan hanya beri kolom harga. Tambahkan kolom “bukti yang dilampirkan”, “siapa bertanggung jawab”, “asumsi lapangan”, dan “perubahan yang harus disetujui”. Saat ada perubahan ukuran atau kondisi, catat perubahan itu sebelum barang dipesan atau pekerjaan diteruskan. Cara ini membuat keputusan tetap bisa ditelusuri ketika orang di lapangan atau penyedia berganti.
 
-### Existing local routes
+## Bedakan bukti produk, mutu, dan janji layanan
 
-- `/berita/pertimbangan-sebelum-pasang-balkon-kaca` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kanopi-kaca-yang-baik-dan-benar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kaca-yang-tepat-untuk-mobil` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kaca-untuk-ruko-bisnis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/mengenal-pemasangan-kaca-industri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Dokumen yang banyak belum tentu menjawab pertanyaan yang tepat. Data produk menjelaskan produk yang ditawarkan. Sertifikat atau pernyataan kesesuaian menjelaskan dasar tertentu yang diklaim. Laporan uji hanya berbicara tentang benda, susunan, kondisi, dan metode yang benar-benar diuji. Garansi menjelaskan janji layanan serta batasnya. Keempatnya tidak saling menggantikan.
 
-### Planned sibling articles
+Hal ini penting khususnya bila penawaran memakai istilah seperti kaca berlapis ganda atau unit kaca berinsulasi. Produk tersebut adalah satu unit rakitan dengan segel, bukan sekadar dua lembar kaca yang berdiri sendiri. Ketahanan segel, kemungkinan kabut di dalam unit, kecocokan bahan pemasangan, dan detail tepinya adalah pertanyaan berbeda. BSN mencantumkan seri SNI ISO 20492 untuk aspek ketahanan iklim dan pengujian pengabutan pada unit kaca berinsulasi; lihat [daftar bagian 1–4](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key=). Daftar itu bukan bukti bahwa produk tertentu sudah lulus atau cocok untuk proyek Anda.
 
-These are future routes. Do not link them as live until their HTML exists.
+Simpan bukti dengan nama yang mudah dicari: nomor penawaran, revisi gambar, identitas produk, foto penerimaan, catatan pemeriksaan, temuan ketidaksesuaian, dan persetujuan tindak lanjut. Pemeriksaan mutu berarti memeriksa kecocokan terhadap persetujuan proyek, bukan mencari-cari cacat tanpa patokan. Jika ada klaim khusus, minta bukti yang memang berkaitan dengan susunan produk dan penggunaan yang dibeli.
 
-- `GLA-12-03` → `/artikel/pengadaan-kaca-spesifikasi.html` — Spesifikasi survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
-- `GLA-12-04` → `/artikel/pengadaan-kaca-desain.html` — Detail desain survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: antarmuka, drainase, gerak, dan akses
-- `GLA-12-06` → `/artikel/pengadaan-kaca-masalah.html` — Masalah pada survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: gejala, akar penyebab, dan keputusan perbaikan
-- `GLA-12-07` → `/artikel/pengadaan-kaca-rawat.html` — Checklist inspeksi dan perawatan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca untuk iklim Indonesia
+## Ajukan pertanyaan sebelum barang bergerak
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Pertanyaan terbaik bukan yang terdengar teknis, melainkan yang membuat tanggung jawab menjadi jelas. Tanyakan: produk apa tepatnya yang akan dikirim; dokumen apa yang menyertainya; bagaimana identitas barang dicocokkan dengan penawaran; siapa yang memeriksa saat tiba; dan apa prosedurnya jika barang, ukuran, atau dokumennya tidak sesuai.
 
-## Definisikan kebutuhan sebelum meminta harga
+Tanyakan juga siapa yang berhak menyetujui perubahan, kapan pekerjaan harus berhenti untuk diperiksa, serta dokumen apa yang menjadi syarat serah terima. Titik pekerjaan yang harus ditahan adalah saat pekerjaan tidak boleh maju ke tahap berikutnya sebelum pemeriksaan atau persetujuan yang sudah ditentukan selesai. Misalnya, setelah barang diterima dan sebelum bagian penting tertutup atau sulit diperiksa. Titik ini bukan instruksi cara memasang kaca; ia adalah pagar kendali agar bukti tidak hilang.
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Kaca.co.id, untuk pekerjaan yang berisiko atau sistem khusus, jangan menganggap daftar pertanyaan ini menggantikan peninjauan teknis. Persetujuan desain, metode kerja aman, kecocokan material, dan pemeriksaan oleh pihak kompeten tetap harus mengikuti dokumen proyek. Bila belum ada, tahan keputusan yang konsekuensial sampai peninjauan tersebut tersedia.
 
-## Buat penawaran benar-benar sebanding
+## Kenali tanda peringatan sebelum biayanya membesar
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Waspadai penawaran yang hanya menyebut jenis kaca tanpa susunan produk, batas pekerjaan, atau bukti pendukung. Waspadai pula janji “sesuai standar” tanpa menyebut standar mana, untuk produk apa, dan bukti apa yang tersedia. Nama produk dapat terdengar meyakinkan, tetapi nama saja tidak menunjukkan kinerja satu sistem yang sudah terpasang.
 
-## Dokumen yang membuktikan hal berbeda
+Tanda lain adalah perubahan yang hanya disampaikan lisan, foto penerimaan yang tidak diberi keterangan, atau garansi yang tidak menjelaskan mulai berlaku dari kapan dan untuk apa. Biaya tersembunyi biasanya lahir dari ruang lingkup yang dibiarkan kabur: akses, waktu tunggu, perlindungan, perbaikan, pemeriksaan ulang, atau penyerahan dokumen. Tidak semua biaya itu pasti muncul, tetapi semuanya perlu dibuka sejak penawaran agar keputusan tidak dibuat dari harga yang tampak lengkap padahal belum.
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering dipilih adalah “pasang dulu, berkas menyusul”. Ini berbahaya karena identitas barang, kondisi saat diterima, dan persetujuan perubahan sulit dibuktikan setelah pekerjaan tertutup atau pekerjaan lain sudah berjalan. Alternatif yang lebih aman adalah menetapkan pemeriksaan mutu dan titik pekerjaan yang harus ditahan sejak awal, lalu mencatat hasilnya ringkas tetapi konsisten.
 
-## Pertanyaan wajib kepada penyedia
+## Terima pekerjaan dengan catatan yang lengkap
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Serah terima bukan acara tanda tangan saja. Tentukan sejak awal siapa memeriksa produk dan kondisi lapangan, siapa menyetujui temuan, siapa menyimpan dokumen, dan apa yang harus diselesaikan sebelum penerimaan akhir. Kumpulkan setidaknya identitas produk yang tersedia, foto kondisi yang relevan, revisi yang disetujui, catatan pemeriksaan, daftar temuan dan penutupannya, serta dokumen garansi sesuai penawaran.
 
-## Red flag dan biaya yang sering tersembunyi
+Jika ada ketidaksesuaian, jangan menebak penyebabnya atau meminta perbaikan berisiko tanpa penilaian yang tepat. Catat gejalanya, amankan bukti, dan arahkan keputusan ke pihak yang berwenang. Diagnosis kerusakan setelah penggunaan memerlukan pemeriksaan tersendiri; artikel ini hanya membantu menjaga jejak keputusan dari pengadaan sampai penerimaan.
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Penerimaan, serah terima, dan keputusan akhir
-
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan survei, penawaran, pengadaan, bukti mutu, dan garansi pekerjaan kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Kaca.co.id, tindakan berikutnya sederhana: buat satu lembar kontrol sebelum meminta penawaran. Isi kebutuhan, batas pekerjaan, bukti yang wajib ada, pemeriksaan mutu, titik pekerjaan yang harus ditahan, dan syarat serah terima. Lalu cocokkan semua keputusan dengan lembar itu. Bila data proyek, desain, atau bukti penyedia belum cukup, jangan lanjutkan keputusan yang berisiko—minta peninjauan teknis yang sesuai terlebih dahulu.
