@@ -2,8 +2,8 @@
 article_id: GLA-09-01
 title: "Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja"
 slug: "shower-cermin-furnitur-kaca-dasar"
-description: "Pembaca dapat menjelaskan wet-area safety, edge exposure, supports, hardware, backing, corrosion, cleaning, human impact, dan replacement, istilah yang sering tertukar, komponen, mekanisme, serta pertanyaan awal yang perlu diajukan."
-status: outline
+description: "Panduan memahami perbedaan penggunaan shower, cermin, dan furnitur kaca beserta sistem, risiko, serta bukti yang perlu diperiksa."
+status: draft
 publication_date: "2025-11-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,57 +13,16 @@ reader_community: "Kaca.co.id"
 reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/shower-cermin-furnitur-kaca-dasar.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
   - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
   - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://www.glass.org/architect"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja”
-- **Reader and situation:** Pemilik, pembeli, mahasiswa, atau staf proyek yang baru mengenal subjek
-- **Reader outcome:** Pembaca dapat menjelaskan wet-area safety, edge exposure, supports, hardware, backing, corrosion, cleaning, human impact, dan replacement, istilah yang sering tertukar, komponen, mekanisme, serta pertanyaan awal yang perlu diajukan.
-- **Primary intent:** Memahami fondasi shower screen, cermin, meja, lemari, dan furnitur kaca sebelum mengambil keputusan teknis
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menentukan opsi terbaik untuk kasus tertentu; keputusan pilihan dimiliki GLA-09-02, sedangkan angka spesifikasi dimiliki GLA-09-03.
-- **Final public route:** `/artikel/shower-cermin-furnitur-kaca-dasar.html`
-- **Appointed CMS date:** `2025-11-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-016`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -72,143 +31,48 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kaca cermin` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-016]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Kaca.co.id!
 
-### KR-06
+Shower screen, cermin, meja, dan lemari kaca sama-sama tampak sederhana, tetapi kebutuhan sistemnya tidak sama. Shower berhadapan dengan air, kelembapan, sambungan, dan perangkat penggerak. Cermin bergantung pada lapisan pantul serta perlindungan belakang/tepi. Meja dan furnitur menghadapi tumpuan, benturan manusia, tepi, perangkat keras, dan beban penggunaan. Satu jenis kaca tidak otomatis cocok untuk seluruh fungsi itu.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Mulailah dari penggunaan, risiko, dan sistem pendukung. Nama kaca atau tampilan akhir bukan bukti aman; ukuran, tumpuan, kondisi tepi, pengikat, kelembapan, perawatan, dan cara pemakaian ikut menentukan keputusan.
 
-### KR-08
+![Ilustrasi kaca cermin](/wp-content/uploads/2021/04/kaca-cermin.jpg)
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+*Gambar ilustratif; bukan dokumentasi proyek tertentu.*
 
-### KR-12
+## Bedakan fungsi setiap aplikasi
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Shower screen perlu mempertimbangkan area basah, arah air, perangkat keras, bukaan pintu, sambungan, akses bersih, dan risiko kontak manusia. Cermin lebih dari kaca biasa yang memantul: sistem lapisan, sisi belakang, tepi, dudukan, dan lingkungan lembap dapat memengaruhi tampilannya. Meja, rak, pintu lemari, serta furnitur kaca membutuhkan penilaian terhadap tumpuan, tepi, pengikat, benturan, dan beban yang benar-benar terjadi.
 
-### KR-14
+Kawan Kaca.co.id, pertanyaan yang tepat bukan “pakai kaca apa?”, melainkan “kaca ini menjalankan fungsi apa, ditopang bagaimana, terkena apa, dan bila rusak apa konsekuensinya?” Untuk mengenali konteks awal, lihat [hal yang perlu diketahui sebelum memilih kaca shower screen](/berita/yang-perlu-diketahui-sebelum-memilih-kaca-shower-screen).
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+## Produk, komponen, dan sistem berbeda
 
-### KR-16
+Kaca adalah satu komponen. Sistem juga mencakup rangka/dudukan, engsel atau perangkat keras, seal, perekat, backing atau lapisan belakang, dinding/struktur penerima, serta akses untuk pemeriksaan dan penggantian. Label kaca pengaman hanya menjelaskan kategori produk tertentu. [SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022) membantu mengidentifikasi kategori laminasi dan temper, tetapi tidak membuktikan seluruh sistem pada lokasi tertentu aman.
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA glass technical resources](https://www.glass.org/architect)
-- **Purpose for this article:** Ground maintenance and defect-prevention content without universal chemical recipes.
-- **Safe grounded facts:** Incorrect cleaning can permanently scratch, stain, remove/damage a coating, or harm laminated edges. Cleaning frequency should respond to site exposure rather than a universal calendar.
-- **Limits:** Do not publish a chemical as universally safe. Confirm the exact glass, coating, film, interlayer edge, sealants, hardware, and manufacturer instructions.
+Untuk cermin atau kaca berlapis, nama umum juga tidak cukup. Sisi lapisan, perlindungan tepi, kriteria visual, dan kecocokan pembersihan perlu dibedakan. [SNI 9237:2023](https://pesta.bsn.go.id/produk/detail/14858-sni92372023) menunjukkan kaca berlapis memiliki lingkup tersendiri.
 
-## Evidence gates
+## Mengapa tumpuan dan tepi penting
 
-- **TOPIC-GATE:** Application-specific safety rule, hardware data, and design review
+Kaca dapat dipengaruhi ukuran, bentuk, kondisi tepi, lubang atau takikan, tumpuan, beban, dan lama beban bekerja. [Ruang lingkup ASTM E1300](https://store.astm.org/e1300-24.html) menunjukkan bahwa satu ketebalan bukan jawaban universal. Pada furnitur, benda yang diletakkan, cara orang bersandar, atau perangkat keras yang tidak sesuai dapat mengubah kondisi secara besar.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sobat Kaca.co.id, jangan mengandalkan rasa “tebal” atau contoh di internet untuk menilai kapasitas. Pada shower, jangan mengganti engsel atau mengubah dudukan tanpa mengetahui sistemnya. Pada cermin, jangan membiarkan kelembapan dan bahan pembersih dijadikan eksperimen pada sisi belakang atau tepi.
 
-## Internal-link plan
+## Perawatan dan batasnya
 
-### Existing local routes
+Pembersihan harus mengikuti identitas produk serta instruksi yang relevan. Petunjuk NGA mengingatkan bahwa cara bersih yang salah dapat menggores, menodai, merusak lapisan, atau mengganggu tepi kaca laminasi. [Panduan pembersihan kaca arsitektural](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf) tidak berarti satu bahan aman untuk semua kaca, lapisan, seal, dan perangkat keras.
 
-- `/berita/yang-perlu-diketahui-sebelum-memilih-kaca-shower-screen` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/kaca-shower-screen` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-cermin/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-cermin-tasikmalaya/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-cermin-tanggerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-cermin-tangerang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Teman Kaca.co.id, pembersihan yang berhasil membuat tampilan membaik, bukan membuktikan bahwa tumpuan, engsel, backing, atau sistem masih aman. Hentikan penggunaan dan minta pemeriksaan kompeten bila ada retak, pecah, perangkat bergerak, tepi berubah, kebocoran yang memengaruhi komponen, atau dudukan yang diragukan.
 
-### Planned sibling articles
+[NEEDS VERIFIKASI PROYEK: fungsi pemakaian, ukuran, tumpuan, perangkat keras, kondisi area basah, produk/unit, instruksi produsen, serta aturan keselamatan yang berlaku perlu diperiksa sebelum pilihan atau keamanan sistem ditetapkan.]
 
-These are future routes. Do not link them as live until their HTML exists.
+## Pertanyaan awal sebelum melanjutkan
 
-- `GLA-09-02` → `/artikel/shower-cermin-furnitur-kaca-pilih.html` — Cara memilih shower screen, cermin, meja, lemari, dan furnitur kaca: matriks keputusan berdasarkan fungsi dan risiko
-- `GLA-09-03` → `/artikel/shower-cermin-furnitur-kaca-spesifikasi.html` — Spesifikasi shower screen, cermin, meja, lemari, dan furnitur kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
+Kumpulkan fungsi ruang, gambar/ukuran, kondisi dinding atau furnitur penerima, kebutuhan akses dan pembersihan, jenis produk yang terpasang, serta riwayat kerusakan. [Kaca shower screen](/berita/kaca-shower-screen) dan [kaca cermin](/kaca-cermin/) dapat membantu pembaca memahami layanan atau istilah, bukan menjadi persetujuan teknis.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Panduan dasar shower screen, cermin, meja, lemari, dan furnitur kaca: istilah, komponen, dan cara kerja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Singkatnya, Teman Kaca.co.id, shower, cermin, dan furnitur kaca perlu dipilih serta dikelola sebagai sistem penggunaan yang berbeda. Aturan praktisnya: jangan menyamakan jenis kaca, ketebalan, atau tampilan dengan bukti bahwa semua fungsi dan risikonya telah terpenuhi.

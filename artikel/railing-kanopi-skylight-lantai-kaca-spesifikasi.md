@@ -2,8 +2,8 @@
 article_id: GLA-10-03
 title: "Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi"
 slug: "railing-kanopi-skylight-lantai-kaca-spesifikasi"
-description: "Pembaca dapat mengumpulkan input, menyatakan unit dan toleransi, memeriksa asumsi, serta menyiapkan spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca yang dapat ditinjau vendor."
-status: outline
+description: "Panduan menulis spesifikasi sistem kaca berisiko yang memisahkan persyaratan, dasar, bukti, dan penerimaan tanpa nilai universal."
+status: draft
 publication_date: "2025-12-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,55 +13,15 @@ reader_community: "Kaca.co.id"
 reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/railing-kanopi-skylight-lantai-kaca-spesifikasi.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?jenis=105&p=1"
-  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
-  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011"
-  - "https://pesta.bsn.go.id/produk/detail/8965-sniiso12543-22011"
-  - "https://pesta.bsn.go.id/produk/detail/8966-sniiso12543-32011"
   - "https://www.iso.org/standard/72871.html"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0656"
   - "https://www.glass.org/sites/default/files/2023-03/FB10-06_2023_Skylights_and_Sloped_Glazing_are_Not_Walking_Surfaces.pdf"
+  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”
-- **Reader and situation:** Designer, estimator, drafter, engineer, atau pembeli teknis yang menyiapkan dokumen kerja
-- **Reader outcome:** Pembaca dapat mengumpulkan input, menyatakan unit dan toleransi, memeriksa asumsi, serta menyiapkan spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca yang dapat ditinjau vendor.
-- **Primary intent:** Menyusun spesifikasi terukur untuk railing, balustrade, kanopi, skylight, atap, dan lantai kaca
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menggantikan desain atau persetujuan engineer untuk kondisi berisiko; detail antarmuka dimiliki GLA-10-04 dan eksekusi lapangan dimiliki GLA-10-05.
-- **Final public route:** `/artikel/railing-kanopi-skylight-lantai-kaca-spesifikasi.html`
-- **Appointed CMS date:** `2025-12-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-020`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -70,145 +30,48 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kanopi kaca 6` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-020]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Kaca.co.id!
 
-### KR-04
+Spesifikasi sistem kaca berisiko harus dapat diperiksa: apa fungsi sistem, bahaya apa yang dikendalikan, dasar rancangan apa yang dipakai, bukti apa yang harus diserahkan, dan bagaimana penerimaan dilakukan. Kalimat “gunakan safety glass” tidak cukup untuk railing, kanopi, skylight, atau lantai kaca karena tiap aplikasi memiliki risiko dan sistem penopang berbeda.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 11 Tahun 2026 status and amendment record — BPK](https://peraturan.bpk.go.id/Search?jenis=105&p=1)
-- **Purpose for this article:** Ground installation, façade access, cleaning, inspection, and replacement articles in current Indonesian worker-safety context.
-- **Safe grounded facts:** A writer must not rely on an old copy of the 2016 rule alone. Work-at-height content needs a current consolidated legal check, competent planning, safe access, and task-specific controls.
-- **Limits:** This research does not interpret the amended clauses or create a method statement. Legal/HSE review is required before prescriptive publication.
+Pisahkan persyaratan rancangan, bukti produk/unit, dan penerimaan sistem terpasang. Ketiganya terkait, tetapi sertifikat produk atau tampilan panel tidak otomatis membuktikan penghalang, kaca di atas kepala, atau permukaan pijak aman.
 
-### KR-06
+![Ilustrasi kanopi kaca 6](/wp-content/uploads/2021/04/kanopi-kaca-6.jpg)
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+*Gambar ilustratif; bukan dokumentasi proyek tertentu.*
 
-### KR-07
+## Tetapkan kategori aplikasi dan batas sistem
 
-- **Original sources:** [SNI ISO 12543-1:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011), [SNI ISO 12543-2:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8965-sniiso12543-22011), [SNI ISO 12543-3:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8966-sniiso12543-32011), [ISO 12543-1:2021 official abstract](https://www.iso.org/standard/72871.html)
-- **Purpose for this article:** Prevent articles from reducing laminated glass to “two panes with plastic” or assuming every laminate has the same safety/security/post-breakage performance.
-- **Safe grounded facts:** Ply makeup, glass treatment, interlayer type/thickness, edge exposure, support, temperature, load duration, and intended threat/performance all matter. “Laminated” alone is not a performance class.
-- **Limits:** Do not silently substitute the newer ISO edition for the Indonesian SNI. State which document governs a project and obtain full text for requirements.
+Nyatakan apakah sistem menjadi penghalang jatuh, berada di atas orang, atau dirancang untuk diinjak. Tulis lokasi, pengguna, akses, kondisi penopang, jalur air, sambungan, serta bagian yang tidak termasuk. Skylight dan kaca miring tidak boleh disyaratkan sebagai jalur kerja tanpa bukti khusus; [NGA menyatakan keduanya bukan permukaan berjalan](https://www.glass.org/sites/default/files/2023-03/FB10-06_2023_Skylights_and_Sloped_Glazing_are_Not_Walking_Surfaces.pdf).
 
-### KR-12
+Kawan Kaca.co.id, kategori ini mengubah seluruh dasar spesifikasi. Jangan memakai satu baris kebutuhan untuk railing, kanopi, dan lantai.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+## Tulis dasar rancangan dan asumsi
 
-### KR-18
+Dokumen perlu menunjuk pihak yang bertanggung jawab atas rancangan struktur serta menyebut kondisi yang memengaruhi hasil: dimensi, dukungan, jenis kaca/unit, kondisi tepi, lubang/takikan, beban, durasi beban, risiko setelah pecah, rangka, pengikat, air, dan akses. Jika satu kondisi berubah, siapa yang menilai ulang juga perlu ditulis.
 
-- **Original sources:** [ASTM E06.56 current railing/floor standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0656), [NGA Skylights and Sloped Glazing Are Not Walking Surfaces](https://www.glass.org/sites/default/files/2023-03/FB10-06_2023_Skylights_and_Sloped_Glazing_are_Not_Walking_Surfaces.pdf)
-- **Purpose for this article:** Create a strong safety boundary around `GLA-10`.
-- **Safe grounded facts:** Barrier, overhead, and walk-on applications have different hazards: fall-through, fallout, post-breakage retention, concentrated/live load, slip, redundancy, edge/support failure, drainage, and safe maintenance access.
-- **Limits:** Do not combine railing, canopy, skylight, roof, and floor glass into one thickness recommendation. Project-specific structural design is mandatory.
+[Ruang lingkup ASTM E1300](https://store.astm.org/e1300-24.html) memperlihatkan banyak faktor dalam pemilihan kaca. Abstrak standar bukan sumber angka desain atau penerimaan universal.
 
-## Evidence gates
+## Nyatakan produk dan bukti secara terbatas
 
-- **TOPIC-GATE:** Mandatory structural engineer and applicable system standards/tests
+Sebutkan identitas produk/unit, susunan pane, lapisan antar-kaca, sisi/lindungan tepi bila relevan, serta dokumen yang berlaku. Kaca laminasi memiliki perilaku yang dipengaruhi susunan, lapisan, dukungan, suhu, dan beban; [ISO 12543-1](https://www.iso.org/standard/72871.html) tidak menjadikan kata “laminated” sebagai satu kelas performa.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+SNI kaca pengaman laminasi [9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) membantu mengenali kategori produk. Namun spesifikasi harus menjelaskan apa yang sertifikat itu buktikan dan apa yang tidak: ia bukan bukti otomatis retensi pasca-pecah, kapasitas, atau pemasangan sistem Anda.
 
-## Internal-link plan
+## Buat penerimaan dapat diperiksa
 
-### Existing local routes
+Tentukan siapa memeriksa apa, kapan, dengan dokumen dan kondisi apa. Penerimaan produk dapat mencakup identitas, susunan, serta kondisi visual yang disepakati. Penerimaan sistem dapat mencakup kesesuaian dengan gambar, penopang yang dapat diperiksa, sambungan, jalur air, akses inspeksi, catatan perubahan, dan bukti lain sesuai rancangan. Jangan menuliskan angka toleransi atau metode uji bila belum memiliki dasar rancangan dan standar yang lengkap.
 
-- `/railing-kaca/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-tasikmalaya/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-tanggerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-tangerang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-tangerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/railing-kaca-sumedang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Teman Kaca.co.id, nyatakan juga batasnya: apa yang tidak dapat dipastikan hanya dari inspeksi visual dan kapan pemeriksaan engineer diperlukan.
 
-### Planned sibling articles
+[NEEDS VERIFIKASI PROYEK: kategori penggunaan, rancangan engineer struktur, kondisi penopang, beban, detail sistem, produk/unit, standar/pengujian yang berlaku, metode serta kriteria penerimaan harus disetujui sebelum nilai final ditetapkan.]
 
-These are future routes. Do not link them as live until their HTML exists.
+## Hindari spesifikasi yang tampak lengkap tetapi tidak aman
 
-- `GLA-10-01` → `/artikel/railing-kanopi-skylight-lantai-kaca-dasar.html` — Panduan dasar railing, balustrade, kanopi, skylight, atap, dan lantai kaca: istilah, komponen, dan cara kerja
-- `GLA-10-02` → `/artikel/railing-kanopi-skylight-lantai-kaca-pilih.html` — Cara memilih railing, balustrade, kanopi, skylight, atap, dan lantai kaca: matriks keputusan berdasarkan fungsi dan risiko
-- `GLA-10-04` → `/artikel/railing-kanopi-skylight-lantai-kaca-desain.html` — Detail desain railing, balustrade, kanopi, skylight, atap, dan lantai kaca: antarmuka, drainase, gerak, dan akses
-- `GLA-10-05` → `/artikel/railing-kanopi-skylight-lantai-kaca-pasang.html` — Tahapan pekerjaan railing, balustrade, kanopi, skylight, atap, dan lantai kaca: persiapan, pemasangan, QC, dan serah terima
+Hindari tabel ketebalan umum, label produk sebagai pengganti sistem, atau klaim “aman” tanpa objek pemeriksaan. Alternatif yang dapat dipakai adalah satu matriks per sistem: fungsi/bahaya, dasar rancangan, produk/unit, bukti yang diminta, kondisi penerimaan, pengecualian, dan penanggung jawab.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Spesifikasi railing, balustrade, kanopi, skylight, atap, dan lantai kaca: data, ukuran, toleransi, dan pemeriksaan asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Untuk konteks layanan awal, [railing kaca](/railing-kaca/) dapat membantu komunikasi, bukan menetapkan nilai desain. Singkatnya, Sobat Kaca.co.id, spesifikasi yang baik membuat klaim dapat diperiksa dan batasnya terlihat; jangan mengisi kekosongan dengan angka atau label universal.
