@@ -1,6 +1,6 @@
 ---
 article_id: GLA-16-07
-title: "Checklist inspeksi dan perawatan kaca pintar, dekoratif, privasi, keamanan, tahan api, dan glazing spesialis untuk iklim Indonesia"
+title: "Daftar Periksa dan Perawatan Kaca Pintar, Dekoratif, Privasi, Keamanan, Tahan Api, dan Sistem Kaca Khusus untuk Iklim Indonesia"
 slug: "kaca-khusus-rawat"
 description: "Pembaca dapat membuat catatan kondisi awal, memilih metode aman, mengenali tanda peringatan, dan mencatat pemeriksaan berkala kaca pintar, dekoratif, privasi, keamanan, tahan api, serta sistem kaca khusus pada kondisi panas, lembap, hujan, atau pesisir."
 status: draft
@@ -38,7 +38,7 @@ sources:
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
 END MANAGED IMAGE PLAN -->
 
-# Checklist inspeksi dan perawatan kaca pintar, dekoratif, privasi, keamanan, tahan api, dan glazing spesialis untuk iklim Indonesia
+# Daftar Periksa dan Perawatan Kaca Pintar, Dekoratif, Privasi, Keamanan, Tahan Api, dan Sistem Kaca Khusus untuk Iklim Indonesia
 
 Halo, Sobat Kaca.co.id! Kaca khusus tidak cukup dirawat dengan aturan “lap saja jika kotor”. Langkah amannya adalah mengenali dulu sistem yang terpasang, membuat catatan kondisi awal, lalu membersihkan dan memeriksa bagian yang memang diizinkan oleh dokumen produk. Pada kaca pintar, kaca berlapis, kaca dekoratif, kaca privasi, kaca keamanan, atau rakitan tahan api, permukaan kaca hanyalah salah satu bagian dari sistemnya.
 
@@ -64,7 +64,7 @@ Pada sistem kaca dinamis (*dynamic glazing*)—kaca yang dapat mengubah keadaan 
 
 Kaca dekoratif juga perlu diperlakukan sebagai sistem tampilan, bukan hanya kaca bening yang diberi motif. Perubahan pada lapisan, cetakan, atau bagian tepi dapat memengaruhi penerimaan visual meski belum tentu menunjukkan kegagalan struktur. Panduan [NGA mengenai ketahanan kaca dekoratif](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf) berguna sebagai pengingat bahwa paparan, proses, dan metode uji perlu dibedakan; jangan memakai satu gejala untuk menebak umur pakai.
 
-## Inspeksi dan data yang perlu dicatat
+## Pemeriksaan dan data yang perlu dicatat
 
 Pemeriksaan rutin sebaiknya singkat, berulang, dan bisa dibandingkan. Kawan Kaca.co.id, gunakan daftar berikut agar petugas berikutnya membaca kondisi yang sama, bukan mengandalkan ingatan.
 

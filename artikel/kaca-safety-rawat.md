@@ -1,6 +1,6 @@
 ---
 article_id: GLA-02-07
-title: "Checklist inspeksi dan perawatan kaca pengaman tempered, laminated, dan heat-strengthened untuk iklim Indonesia"
+title: "Daftar Periksa dan Perawatan Kaca Pengaman Tempered, Laminated, dan Heat-Strengthened untuk Iklim Indonesia"
 slug: "kaca-safety-rawat"
 description: "Panduan membuat catatan awal, memeriksa kondisi, dan menentukan perawatan aman kaca tempered, laminated, serta heat-strengthened di iklim Indonesia."
 status: draft
@@ -40,7 +40,7 @@ sources:
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-006]` and continue drafting the prose.
 END MANAGED IMAGE PLAN -->
 
-# Checklist inspeksi dan perawatan kaca pengaman tempered, laminated, dan heat-strengthened untuk iklim Indonesia
+# Daftar Periksa dan Perawatan Kaca Pengaman Tempered, Laminated, dan Heat-Strengthened untuk Iklim Indonesia
 
 Halo, Sobat Kaca.co.id! Perawatan kaca pengaman tidak dimulai dari memilih cairan pembersih, melainkan dari mengetahui persis kaca mana yang terpasang, bagaimana ia ditumpu, dan seperti apa kondisinya saat ini. Buat catatan awal sebelum ada keluhan, lakukan pemeriksaan visual yang konsisten, lalu hentikan penggunaan area bila ada retak, pecah, atau perubahan yang berpotensi membahayakan orang di sekitarnya.
 
@@ -66,7 +66,7 @@ Untuk laminated, jangan menyimpulkan semua produk memiliki perilaku pascapecah, 
 
 Pada kaca yang diberi perlakuan panas, riwayat pemrosesan juga penting. [Panduan NGA](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf) mengingatkan bahwa perbedaan permukaan pada kaca hasil perlakuan panas, seperti gelombang rol atau anisotropi, terkait proses dan harapan fabrikasi; ini bukan dasar untuk mengukur kelayakan sistem dari pengamatan kasual. [ASTM C1048](https://store.astm.org/c1048-25.html) membahas kaca datar yang diperkuat dengan perlakuan panas, sedangkan [ASTM C1036](https://store.astm.org/c1036-25.html) mencakup kaca datar. Hal yang praktis: jangan mengubah ukuran, membuat lubang, atau bukaan potong di lapangan pada panel tersebut. Perubahan terlambat dapat berarti panel harus dibuat ulang, bukan dimodifikasi di tempat.
 
-## Inspeksi dan data yang perlu dicatat
+## Pemeriksaan dan data yang perlu dicatat
 
 Gunakan jadwal yang masuk akal untuk risiko lokasi dan catat hasilnya dengan format yang sama. Pemeriksaan rutin dapat diawali dari jarak aman, lalu fokus pada bidang kaca, tepi yang terlihat, rangka, karet perapat, bahan perapat, pengikat yang dapat diamati, dan jalur air. Jangan melepas penutup atau mengendurkan komponen hanya untuk inspeksi bila Anda tidak berwenang melakukannya.
 
