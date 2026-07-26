@@ -1,9 +1,9 @@
 ---
 article_id: GLA-03-05
-title: "Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima"
+title: "Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, pemeriksaan mutu, dan serah terima"
 slug: "performa-kaca-pasang"
-description: "Pembaca dapat menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan hold point QC, dan mendokumentasikan serah terima performa termal, surya, cahaya, privasi, dan akustik kaca."
-status: outline
+description: "Panduan mengendalikan persiapan, pemasangan, pemeriksaan mutu, dan serah terima sistem kaca tanpa menyamakan data produk dengan performa terpasang."
+status: draft
 publication_date: "2025-05-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,60 +13,16 @@ reader_community: "Kaca.co.id"
 reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/performa-kaca-pasang.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
   - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
   - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
-  - "https://peraturan.bpk.go.id/Details/294700"
   - "https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014"
-  - "https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key="
-  - "https://www.iso.org/standard/35062.html"
   - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
   - "https://nfrc.org/"
-  - "https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights"
-  - "https://windows.lbl.gov/window-software-downloads"
-  - "https://www.iso.org/standard/75536.html"
-  - "https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf"
-  - "https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN"
-  - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima”
-- **Reader and situation:** Kontraktor, pengawas, mandor, teknisi, atau pemilik yang mengawasi pekerjaan
-- **Reader outcome:** Pembaca dapat menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan hold point QC, dan mendokumentasikan serah terima performa termal, surya, cahaya, privasi, dan akustik kaca.
-- **Primary intent:** Merencanakan serta mengendalikan pelaksanaan performa termal, surya, cahaya, privasi, dan akustik kaca
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan izin DIY untuk pekerjaan berbahaya atau di luar kompetensi. Diagnosis kerusakan setelah beroperasi dimiliki GLA-03-06; spesifikasi sebelum kerja dimiliki GLA-03-03.
-- **Final public route:** `/artikel/performa-kaca-pasang.html`
-- **Appointed CMS date:** `2025-05-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -75,145 +31,54 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kanopi kaca spider 6` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, pemeriksaan mutu, dan serah terima
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Kaca.co.id!
 
-### KR-08
+Pemasangan kaca tidak selesai ketika panel sudah terangkat dan tampak rapi. Hasil yang dibutuhkan adalah sistem yang sesuai gambar dan persetujuan, dapat diperiksa, aman dikerjakan, dan memiliki catatan yang cukup untuk serah terima. Data pada lembar produk membantu memilih material, tetapi tidak sendirian membuktikan panas, cahaya, privasi, atau suara pada bukaan yang sudah terpasang.
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+Karena itu, urutannya ialah menetapkan batas kerja, mencocokkan bukti, mengendalikan pelaksanaan, berhenti pada titik pemeriksaan yang tepat, lalu menyerahkan rekaman hasil. Detail dapat berubah menurut jenis kaca, rangka, sambungan, akses, dan persetujuan proyek; pekerjaan berisiko atau di luar kompetensi harus ditangani pihak yang berwenang.
 
-### KR-09
+![Ilustrasi kanopi kaca spider 6](/wp-content/uploads/2021/04/kanopi-kaca-spider-6.jpg)
 
-- **Original sources:** [Permenperin No. 12 Tahun 2024 — BPK](https://peraturan.bpk.go.id/Details/294700), [SNI ISO 20492-1:2014 edge-seal climate durability — BSN](https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014), [SNI ISO 20492-2:2014 fogging test — BSN](https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020), [BSN listing for Parts 1–4](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key=)
-- **Purpose for this article:** Ground double/insulating-glass, internal fogging, gas, edge seal, procurement, and replacement articles in Indonesian requirements.
-- **Safe grounded facts:** An insulating glass unit is a fabricated sealed product, not simply two independent panes. Internal fogging, gas retention, seal durability, edge construction, glazing compatibility, and structural-glazing suitability are distinct issues.
-- **Limits:** Verify the regulation's exact product scope, exceptions, certification route, and transition provisions from the full text before stating that a particular unit must bear a specific mark.
-
-### KR-10
-
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
-
-### KR-11
-
-- **Original sources:** [NFRC rating definitions](https://nfrc.org/), [US Department of Energy purchasing guidance](https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights), [Berkeley Lab WINDOW capabilities](https://windows.lbl.gov/window-software-downloads)
-- **Purpose for this article:** Give writers a clear conceptual vocabulary for U-factor, solar heat gain coefficient, visible transmittance, air leakage, and condensation without turning it into an Indonesian product endorsement.
-- **Safe grounded facts:** Lower U-factor means less heat flow under the stated rating method; lower SHGC means less admitted solar heat; higher visible transmittance means more visible light. These values are not interchangeable, and the best combination depends on climate, orientation, shading, space use, and whole-system design.
-- **Limits:** Do not import US climate-zone thresholds, label ranges, or ENERGY STAR purchasing rules as Indonesian requirements.
-
-### KR-21
-
-- **Original sources:** [ISO 18543:2021 electrochromic glazing](https://www.iso.org/standard/75536.html), [NGA Dynamic Glazing for High Performance Buildings](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf), [NGA Decorative Glass handling/cleaning record (2025)](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN), [NGA decorative durability guidance](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)
-- **Purpose for this article:** Distinguish privacy switching, solar/visible modulation, decorative appearance, and durability.
-- **Safe grounded facts:** “Smart glass” is not one mechanism. Power-off state, switching method, optical state range, controls, wiring, heat, edge seals, UV/moisture exposure, cycle/ageing evidence, replacement, and cleaning can all matter.
-- **Limits:** Manufacturer claims are product-specific. Do not infer energy savings, sound/privacy performance, service life, or safety class from the technology name.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Verified product/system reports and locally applicable project criteria
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/berita/pertimbangan-sebelum-pasang-balkon-kaca` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kanopi-kaca-yang-baik-dan-benar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kaca-yang-tepat-untuk-mobil` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/pemasangan-kaca-untuk-ruko-bisnis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/mitos-atau-fakta-kaca-privasi-dapat-memblokir-sinar-uv` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/mengenal-pemasangan-kaca-industri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `GLA-03-03` → `/artikel/performa-kaca-spesifikasi.html` — Spesifikasi performa termal, surya, cahaya, privasi, dan akustik kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
-- `GLA-03-04` → `/artikel/performa-kaca-desain.html` — Detail desain performa termal, surya, cahaya, privasi, dan akustik kaca: antarmuka, drainase, gerak, dan akses
-- `GLA-03-06` → `/artikel/performa-kaca-masalah.html` — Masalah pada performa termal, surya, cahaya, privasi, dan akustik kaca: gejala, akar penyebab, dan keputusan perbaikan
-- `GLA-03-07` → `/artikel/performa-kaca-rawat.html` — Checklist inspeksi dan perawatan performa termal, surya, cahaya, privasi, dan akustik kaca untuk iklim Indonesia
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Gambar ilustratif; bukan dokumentasi proyek tertentu.*
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum material datang, sepakati apa yang sebenarnya harus diterima: lokasi dan jenis bukaan, susunan kaca, lapisan, arah pemasangan bila relevan, rangka, sambungan, peneduh, akses pembersihan, serta kriteria visual dan fungsional. Tentukan juga siapa yang menyetujui perubahan, siapa yang memeriksa, dan dokumen apa yang wajib tersedia.
 
-## Langkah 1 — tetapkan scope
+Istilah performa perlu dipisahkan sejak awal. Transmisi cahaya tampak, koefisien panas matahari, faktor-U, privasi, dan peredaman suara bukan satu angka. Nilai tengah kaca juga bukan nilai seluruh jendela; rangka, tepi, ukuran, sambungan, dan pemasangan ikut memengaruhi sistem. [ISO 10292](https://www.iso.org/standard/89851.html) membedakan lingkup nilai termal kaca, sedangkan [NFRC](https://nfrc.org/) menjelaskan bahwa rating komponen tidak boleh dipertukarkan sembarangan.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan batas pekerjaan
+
+Tulis objek kerja, antarmuka dengan dinding atau rangka, urutan akses, dan pekerjaan yang memang tidak termasuk. Ini mencegah tim menganggap penggantian pane sebagai izin untuk mengubah penahan, seal, kabel kontrol, atau detail struktur. Untuk balkon dan kanopi, risiko akses serta kondisi penopang perlu diputuskan sebelum pekerjaan berjalan; [pertimbangan sebelum memasang balkon kaca](/berita/pertimbangan-sebelum-pasang-balkon-kaca) dapat membantu menyusun pertanyaan awal.
+
+Kawan Kaca.co.id, bedakan “tampak sama” dari “sesuai sistem”. Kaca berlapis atau cermin dapat memiliki sisi lapisan, perlindungan tepi, dan batas pembersihan yang berbeda. Sebutan umum tidak cukup untuk menentukan penanganan. [SNI 9237:2023](https://pesta.bsn.go.id/produk/detail/14858-sni92372023) dan [SNI ISO 11479-1:2014](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014) menunjukkan bahwa kaca berlapis serta cacat fisik memiliki lingkup tersendiri; kriteria penerimaan rinci tetap perlu dokumen lengkap.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cocokkan gambar yang disetujui, spesifikasi, identitas produk, susunan pane, instruksi produsen, catatan pengiriman, serta kondisi bukaan aktual. Periksa kecocokan sebelum material diproses lebih lanjut atau dipasang. Jika ada unit kaca isolasi, perlakukan sebagai produk rakitan bersegel, bukan dua pane independen; konstruksi tepi, kompatibilitas sistem kaca, dan durabilitas segel adalah isu berbeda. [SNI ISO 20492-1:2014](https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014) menunjukkan identitas lingkup pengujian ketahanan segel, bukan sertifikat bahwa unit proyek tertentu sudah memenuhi kebutuhan.
 
-## Langkah 3 — jalankan urutan kerja
+[NEEDS VERIFIKASI PROYEK: dokumen produk/unit yang benar-benar dipasang, gambar dan kriteria yang disetujui, kondisi lapangan, serta metode pemeriksaan harus tersedia sebelum performa sistem dinyatakan diterima.]
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 3 — jalankan urutan kerja terkendali
 
-## Hold point dan kondisi berhenti
+Amankan area dan akses, periksa kondisi bukaan, lalu pastikan material yang akan dipasang dapat diidentifikasi terhadap dokumennya. Setelah itu lakukan pemasangan menurut rancangan serta instruksi pihak yang berwenang, sambil menjaga agar komponen tidak dipaksa, tercemar, atau terkena tindakan pembersihan yang tidak disetujui. Dokumentasikan kondisi sebelum tertutup oleh komponen lain bila informasi itu akan sulit diperiksa kemudian.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan ini sengaja tidak memberi resep ukuran, alat, atau detail struktur. Nilai performa produk tidak dapat menggantikan kualitas sambungan, kerataan, jalur air, atau kecocokan rangka di lapangan. Untuk gambaran umum pekerjaan kanopi, gunakan [pemasangan kanopi kaca yang baik dan benar](/berita/pemasangan-kanopi-kaca-yang-baik-dan-benar) sebagai bahan diskusi; kondisi proyek tetap menentukan metode yang sah.
 
-## Verifikasi hasil dan handover
+## Titik pemeriksaan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan performa termal, surya, cahaya, privasi, dan akustik kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan lanjut menutup atau menerima pekerjaan bila identitas produk tidak cocok, dokumen penting belum ada, terdapat perubahan lapisan/tepi yang tidak dapat dijelaskan, bukaan tidak sesuai rancangan, atau tindakan berikutnya akan membuat pemeriksaan tidak mungkin dilakukan. Hentikan dan minta keputusan bila ada retak, risiko jatuh, masalah akses, kebocoran dekat kelistrikan, atau perubahan yang menyentuh sistem penahan.
 
-## Objection or shortcut to address
+Sobat Kaca.co.id, kondisi berhenti bukan tanda pekerjaan gagal. Itu cara murah untuk mencegah kesalahan kecil menjadi pembongkaran besar. Catat kondisi, foto dari jarak aman, sebutkan lokasi, dan minta keputusan tertulis dari pihak yang memegang kewenangan teknis.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Pemeriksaan mutu berarti membandingkan pekerjaan dengan kriteria yang telah disetujui, bukan sekadar melihat kaca tampak bersih. Buat daftar penerimaan yang memuat identitas unit, kesesuaian susunan dan orientasi, kondisi visual pada cara lihat yang disepakati, kelengkapan sambungan yang dapat diperiksa, catatan perubahan, instruksi perawatan, serta daftar temuan dan penanggung jawab tindak lanjut.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Serahkan juga batas bukti yang tersedia. Laporan produk mendukung identitas atau sifat produk pada kondisi laporannya; ia bukan bukti otomatis bahwa bukaan terpasang mencapai target panas, cahaya, privasi, atau akustik. Bila proyek mensyaratkan pengukuran sistem, metode, waktu, kondisi, titik ukur, dan kriteria penerimaan harus disetujui terlebih dahulu. Teman Kaca.co.id, jangan menandatangani kesimpulan performa yang tidak ditopang bukti sistem.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang perlu dihindari adalah menerima pekerjaan karena warna, pantulan, atau kerapian tampak benar. Penampilan penting, tetapi tidak menggantikan identitas produk, detail pemasangan, dan rekaman pemeriksaan. Mulailah serah terima dengan satu paket: gambar dan spesifikasi yang berlaku, identitas unit, catatan pemeriksaan, daftar temuan, serta pihak yang bertanggung jawab. Aturan praktisnya: data pane atau tampilan akhir tidak cukup untuk mengklaim performa terpasang.
