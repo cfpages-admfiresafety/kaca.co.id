@@ -1,9 +1,10 @@
 ---
 article_id: GLA-08-02
-title: "Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko"
+title: "Memilih Partisi dan Interior Kaca Sesuai Fungsi dan Risiko"
 slug: "partisi-interior-kaca-pilih"
-description: "Pembaca dapat menyaring alternatif partisi dan interior kaca menurut fungsi, lokasi, pengguna, tingkat risiko, umur layanan, dan trade-off biaya."
-status: outline
+description: "Panduan menyaring pilihan partisi dan interior kaca dari fungsi ruang, pengguna, risiko, perawatan, hingga bukti yang perlu diperiksa sebelum disetujui."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,47 +17,20 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://www.iso.org/standard/35062.html"
   - "https://www.iso.org/standard/89851.html"
   - "https://www.iso.org/standard/84945.html"
   - "https://www.iso.org/standard/75536.html"
-  - "https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf"
-  - "https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN"
   - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Preserved assignment packet
+Article ID: GLA-08-02
+Primary intent: Memilih konfigurasi partisi dan interior kaca untuk kebutuhan dan batasan tertentu
+Scope boundary: Tidak menghitung ukuran atau toleransi final; perhitungan dimiliki GLA-08-03. Tidak menjual jasa atau memberi harga pasar; proses penawaran dimiliki GLA-08-08.
+Evidence boundary: Occupancy/use requirements and complete tested systems. Keep a visible review marker when this changes the decision; do not infer application mandates, dimensions, impact classes, fragmentation counts, thicknesses, energy savings, acoustic/privacy performance, service life, or fire performance from a material or technology name.
 
-# Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko”
-- **Reader and situation:** Pemilik, arsitek, engineer, estimator, atau pembeli yang membandingkan alternatif
-- **Reader outcome:** Pembaca dapat menyaring alternatif partisi dan interior kaca menurut fungsi, lokasi, pengguna, tingkat risiko, umur layanan, dan trade-off biaya.
-- **Primary intent:** Memilih konfigurasi partisi dan interior kaca untuk kebutuhan dan batasan tertentu
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menghitung ukuran atau toleransi final; perhitungan dimiliki GLA-08-03. Tidak menjual jasa atau memberi harga pasar; proses penawaran dimiliki GLA-08-08.
-- **Final public route:** `/artikel/partisi-interior-kaca-pilih.html`
-- **Appointed CMS date:** `2025-10-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
 ## Image plan
 
 - **Image ID:** `LOCAL-013`
@@ -67,142 +41,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Partisi Kaca` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-013]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Memilih Partisi dan Interior Kaca Sesuai Fungsi dan Risiko
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Kaca.co.id! Memilih partisi kaca bukan urusan mencari kaca yang tampak paling bening atau paling tebal di daftar produk. Titik mulainya adalah fungsi ruang: siapa yang memakai, apa yang harus dipisahkan, seberapa sering pintu bergerak, dan apa akibatnya bila panel rusak atau gagal bekerja seperti yang diharapkan.
 
-### KR-03
+Jawaban singkatnya: pilih konfigurasi setelah Anda menyaring kebutuhan menjadi beberapa keputusan kecil—fungsi, lokasi, pengguna, risiko, kebutuhan privasi, dan rencana perawatan. Baru sesudah itu cocokkan dengan bukti produk dan sistem. Kaca yang lebih kuat sebelum pecah belum tentu memberi perilaku yang sama setelah pecah; kaca pengaman juga harus dinilai menurut penggunaan serta konteks desain dan pengujiannya, bukan dari namanya saja. Rujukan produk SNI untuk kaca pengaman laminasi dan kaca pengaman temper menunjukkan keduanya adalah kategori berbeda yang perlu dibaca sesuai penerapannya ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+![Ilustrasi Partisi Kaca](/wp-content/uploads/2021/04/Partisi-Kaca.jpg)
 
-### KR-06
+_Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu._
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+## Mulai dari hasil yang ingin dijaga
 
-### KR-10
+Sebelum membahas jenis kaca atau aksesori, tuliskan satu kalimat tentang hasil yang harus dijaga. Misalnya, ruang kerja perlu dipisahkan tanpa kehilangan cahaya; ruang rapat perlu tingkat privasi tertentu; atau jalur keluar-masuk perlu tetap mudah dipakai dan dipahami orang. Kalimat ini mencegah keputusan terseret oleh satu kelebihan produk yang sebenarnya tidak menjawab masalah utama.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Lalu tentukan siapa yang berwenang memberi persetujuan. Pemilik mungkin menetapkan kebutuhan bisnis, tetapi arsitek, perencana, atau peninjau teknis perlu memeriksa apakah pilihan itu masuk akal bagi bangunan, bukaan, perangkat keras, dan pengguna sebenarnya. Untuk bukaan, sirkulasi, atau ruang dengan kebutuhan penggunaan khusus, keputusan tidak boleh berhenti pada panel kacanya saja.
 
-### KR-19
+Kawan Kaca.co.id, buat daftar data awal yang sederhana: denah dan posisi bukaan, cara ruang dipakai, arah pergerakan orang, kebutuhan cahaya dan privasi, lingkungan basah atau kering, serta kebiasaan perawatan. Dari sini Anda bisa membedakan kebutuhan yang wajib dipenuhi dari keinginan visual yang masih bisa dinegosiasikan.
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+## Tetapkan batas objek yang sedang dipilih
 
-### KR-21
+Istilah “partisi kaca” sering menutupi banyak hal: panel tetap, pintu, dinding pembatas, kaca dekoratif, atau sistem yang terhubung ke rangka dan perangkat keras. Batas ini penting karena risiko sebuah panel tetap berbeda dengan risiko daun pintu yang dibuka-tutup berkali-kali setiap hari.
 
-- **Original sources:** [ISO 18543:2021 electrochromic glazing](https://www.iso.org/standard/75536.html), [NGA Dynamic Glazing for High Performance Buildings](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf), [NGA Decorative Glass handling/cleaning record (2025)](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN), [NGA decorative durability guidance](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)
-- **Purpose for this article:** Distinguish privacy switching, solar/visible modulation, decorative appearance, and durability.
-- **Safe grounded facts:** “Smart glass” is not one mechanism. Power-off state, switching method, optical state range, controls, wiring, heat, edge seals, UV/moisture exposure, cycle/ageing evidence, replacement, and cleaning can all matter.
-- **Limits:** Manufacturer claims are product-specific. Do not infer energy savings, sound/privacy performance, service life, or safety class from the technology name.
+Pisahkan juga antarmukanya. Antarmuka berarti titik pertemuan antarbagian, misalnya kaca dengan rangka, engsel, lantai, dinding, atau akses kontrol. Di situlah keputusan material sering bertemu dengan gerak, benturan, air, pembersihan, dan kebiasaan pengguna. Jangan menyimpulkan kesesuaian hanya dari lembar data satu komponen bila komponen itu akan bekerja dalam sistem yang berbeda.
 
-## Evidence gates
+Pada tahap ini, nyatakan pula yang tidak dihitung di artikel ini: ukuran akhir, toleransi pemasangan, dan perhitungan teknis perlu ditetapkan dalam proses spesifikasi tersendiri. Harga atau penawaran juga bukan dasar untuk memutuskan kategori risiko. Urutannya justru sebaliknya: pahami risikonya dahulu, kemudian minta konfigurasi yang dapat dipertanggungjawabkan.
 
-- **TOPIC-GATE:** Occupancy/use requirements and complete tested systems
+## Cocokkan klaim dengan bukti yang tepat
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jangan memakai satu kata besar untuk mewakili semua manfaat. Transmisi cahaya, panas matahari, nilai U, privasi, dan insulasi suara adalah ukuran yang berbeda. Nilai U adalah ukuran seberapa mudah panas berpindah; semakin rendah belum otomatis berarti seluruh sistem lebih baik tanpa melihat susunan lengkapnya. ISO membedakan pengukuran sifat cahaya dan surya, perpindahan panas di bagian tengah kaca, serta insulasi suara udara sebagai domain yang berlainan ([ISO 9050](https://www.iso.org/standard/35062.html), [ISO 10292](https://www.iso.org/standard/89851.html), [ISO 22897](https://www.iso.org/standard/84945.html)).
 
-## Internal-link plan
+Konsekuensinya praktis: hasil untuk bagian tengah kaca tidak boleh langsung disebut sebagai hasil seluruh jendela, partisi, atau fasad. Begitu pula, label “lebih kedap” atau “lebih privat” harus kembali ke bukti yang benar untuk rakitan yang akan dipakai. Sobat Kaca.co.id, bila penjual hanya memberi nama produk tanpa dokumen pengujian, susunan sistem, atau batas penggunaan, anggap itu sebagai informasi awal—belum sebagai dasar persetujuan.
 
-### Existing local routes
+Untuk kaca dengan fungsi berubah, istilah “smart glass” juga terlalu luas bila tidak diurai. Ada teknologi yang mengubah keadaan optik dengan kendali listrik; ada pula fungsi dekoratif yang sama sekali berbeda. Standar ISO untuk kaca elektro-kromik membahas jenis kaca yang mengubah sifat optiknya melalui mekanisme tersebut, tetapi nama teknologinya tidak membuktikan penghematan energi, kelas keselamatan, masa pakai, atau performa privasi pada proyek tertentu ([ISO 18543:2021](https://www.iso.org/standard/75536.html)). Tanyakan keadaan saat daya mati, cara kendali, kebutuhan kabel, kondisi tepi panel, serta cara penggantian dan pembersihannya.
 
-- `/partisi-kaca/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tasikmalaya/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tanggerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tangerang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tangerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-sumedang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Pakai matriks keputusan yang sederhana
 
-### Planned sibling articles
+Matriks keputusan bukan rumus rumit. Ini hanya tabel pembanding agar kebutuhan besar tidak kalah oleh selera sesaat. Buat baris untuk alternatif yang benar-benar tersedia, lalu beri kolom berikut:
 
-These are future routes. Do not link them as live until their HTML exists.
+| Pertanyaan | Yang perlu diputuskan |
+| --- | --- |
+| Fungsi utama | Memisahkan ruang, mengatur akses, membawa cahaya, menahan pandangan, atau gabungan beberapa fungsi? |
+| Pengguna dan lalu lintas | Siapa yang menyentuh, mendorong, membuka, atau berpapasan dengan sistem ini? |
+| Risiko | Benturan, serpihan, kegagalan privasi, gangguan operasi, kelembapan, atau kesalahan pembersihan mana yang paling merugikan? |
+| Bukti | Dokumen produk, pengujian, gambar sistem, dan persetujuan apa yang tersedia untuk konfigurasi ini? |
+| Operasi | Siapa yang membersihkan, memeriksa perangkat keras, dan menangani panel atau komponen yang perlu diganti? |
 
-- `GLA-08-01` → `/artikel/partisi-interior-kaca-dasar.html` — Panduan dasar partisi dan interior kaca: istilah, komponen, dan cara kerja
-- `GLA-08-03` → `/artikel/partisi-interior-kaca-spesifikasi.html` — Spesifikasi partisi dan interior kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
-- `GLA-08-04` → `/artikel/partisi-interior-kaca-desain.html` — Detail desain partisi dan interior kaca: antarmuka, drainase, gerak, dan akses
+Nilai setiap alternatif dengan kata “sesuai”, “perlu bukti”, atau “tidak sesuai” terlebih dahulu. Angka boleh dipakai bila tim memang memiliki kriteria yang disepakati, tetapi angka yang tampak rapi tidak akan memperbaiki data yang belum ada. Teman Kaca.co.id, satu kolom “perlu bukti” sering lebih jujur dan lebih berguna daripada skor tinggi yang lahir dari asumsi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Sesudah itu, pilih alternatif yang memenuhi fungsi wajib dan memiliki risiko sisa paling mudah dikendalikan. Risiko sisa berarti risiko yang masih ada setelah langkah pengendalian dilakukan. Contohnya, pilihan dekoratif mungkin memenuhi tampilan, tetapi tetap memerlukan bukti ketahanan terhadap pemakaian, pembersihan, dan kondisi lingkungan yang sesuai. Panduan ketahanan kaca dekoratif menekankan bahwa durabilitas perlu dinilai terhadap paparan dan metode yang relevan, bukan sekadar dari tampilan awalnya ([panduan durabilitas kaca dekoratif NGA](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)).
 
-## Hasil akhir dan prasyarat
+## Jangan lewati titik berhenti
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada beberapa kondisi ketika keputusan harus berhenti sementara. Hentikan persetujuan bila fungsi kebakaran hanya dijawab dengan istilah seperti “kaca tahan api”, tetapi tidak ada bukti sistem yang lengkap; klaim ketahanan api, perlindungan api, kenaikan suhu, keselamatan bentur, dan penggunaan pada pintu atau jendela bukan satu klaim yang sama.
 
-## Langkah 1 — tetapkan scope
+Berhenti juga bila bukaan atau jalur sirkulasi berpotensi memengaruhi cara orang mendekat, melihat, membuka, atau memakai sistem, sementara dasar aturan dan kebutuhan penggunanya belum ditinjau. **[NEEDS TECHNICAL REVIEW: verifikasi persyaratan penggunaan bangunan, aksesibilitas, dan bukti sistem lengkap untuk lokasi proyek sebelum memilih konfigurasi final.]**
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ini bukan birokrasi tambahan. Kesalahan paling mahal sering lahir saat keputusan visual sudah telanjur dipesan, lalu baru diketahui bahwa perangkat keras, arah bukaan, atau kebutuhan penggunaan tidak cocok. Pemeriksaan lebih awal memberi ruang untuk mengganti pilihan sebelum perubahan menjadi pekerjaan bongkar-pasang.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Terima hasil dengan daftar periksa, bukan ingatan
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat pilihan sudah disetujui, simpan alasan keputusan bersama dokumennya. Catat fungsi yang disepakati, konfigurasi yang dipilih, bukti yang diperiksa, batas penggunaan, pihak yang memberi persetujuan, serta cara merawat dan melaporkan masalah. Dokumen ini membantu ketika staf berganti, ruang dialihfungsikan, atau ada pertanyaan setelah pemasangan.
 
-## Langkah 3 — jalankan urutan kerja
+Periksa kembali apakah barang yang datang, gambar sistem, dan kebutuhan operasi masih sejalan dengan matriks awal. Bila ada penggantian produk, perubahan perangkat keras, atau perubahan cara ruang dipakai, jangan menganggap persetujuan lama otomatis berlaku. Ulangi bagian matriks yang terdampak dan minta peninjauan teknis bila risiko keselamatan, kebakaran, atau penggunaan bangunan ikut berubah.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang sering menggoda
 
-## Hold point dan kondisi berhenti
+Jalan pintasnya biasanya begini: pilih kaca yang dianggap “paling aman”, lalu pakai untuk semua kondisi. Niatnya masuk akal, tetapi logikanya terlalu pendek. Sifat sebelum pecah, perilaku setelah pecah, fungsi pintu, kualitas pemasangan, dan bukti rakitan adalah pertanyaan berbeda. Satu spesifikasi seragam dapat membuat sebagian area berlebihan, sementara area yang benar-benar kritis justru belum ditinjau dengan benar.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih aman adalah menyamakan proses, bukan memaksakan satu produk. Gunakan daftar pertanyaan yang sama untuk setiap area, lalu biarkan fungsi dan risikonya menentukan konfigurasi yang perlu diuji atau disetujui. Dengan cara ini, keputusan tetap konsisten tanpa pura-pura bahwa semua ruang memiliki masalah yang sama.
 
-## Verifikasi hasil dan handover
+## Langkah berikutnya sebelum memilih
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara memilih partisi dan interior kaca: matriks keputusan berdasarkan fungsi dan risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Memilih partisi dan interior kaca berarti mengurutkan fungsi, pengguna, risiko, bukti, lalu perawatan—bukan memilih dari foto atau nama teknologi. Ambil denah dan daftar ruang, buat satu matriks sederhana untuk tiap kondisi yang berbeda, lalu tandai setiap klaim yang belum didukung dokumen sistem.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan praktisnya: bila pilihan memengaruhi keselamatan, kebakaran, jalur penggunaan, atau perilaku sistem setelah pecah, jangan lanjut ke spesifikasi atau pemesanan sebelum peninjauan teknis dan bukti yang sesuai tersedia.

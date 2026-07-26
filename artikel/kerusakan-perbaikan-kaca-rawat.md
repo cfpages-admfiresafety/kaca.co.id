@@ -42,7 +42,7 @@ Perawatan yang masuk akal bukan soal mengelap sesering mungkin. Tujuannya adalah
 
 ![Ilustrasi kanopi kaca spider 6](/wp-content/uploads/2021/04/kanopi-kaca-spider-6.jpg)
 
-_Aset lokal proyek; bukan klaim dokumentasi proyek tertentu._
+_Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu._
 
 ## Mulai dari objek dan catatan kondisi awal
 
