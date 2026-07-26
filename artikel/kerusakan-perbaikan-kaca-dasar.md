@@ -1,6 +1,6 @@
 ---
 article_id: GLA-14-01
-title: "Panduan dasar retak, gompal, gores, pengembunan internal, bocor, pecah, dan penggantian kaca: istilah, komponen, dan cara kerja"
+title: "Panduan Dasar Retak, Gompal, Gores, Pengembunan Internal, Bocor, Pecah, dan Penggantian Kaca"
 slug: "kerusakan-perbaikan-kaca-dasar"
 description: "Cara membedakan gejala kerusakan kaca, mencatat bukti awal, menyaring risiko, dan menentukan kapan perlu pemeriksaan atau penggantian."
 status: draft

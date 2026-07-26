@@ -35,6 +35,8 @@ sources:
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-012]` and continue drafting the prose.
 END MANAGED IMAGE PLAN -->
 
+# Panduan dasar partisi dan interior kaca: istilah, komponen, dan cara kerja
+
 Halo, Sobat Kaca.co.id!
 
 Partisi kaca sering terlihat sederhana: ada bidang kaca, rangka, lalu pintu. Padahal keputusan yang kelihatannya kecil—misalnya ingin ruang tetap terang tetapi lebih tertutup—langsung menyentuh privasi, cara orang lewat, cara pintu bekerja, dan cara sistem itu dirawat. Jadi, cara paling aman memahaminya bukan mulai dari jenis kaca atau angka spesifikasi, melainkan dari fungsi ruang dan hubungan antarkomponennya.

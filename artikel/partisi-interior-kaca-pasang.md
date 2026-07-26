@@ -1,9 +1,10 @@
 ---
 article_id: GLA-08-05
-title: "Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima"
+title: "Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, pemeriksaan mutu, dan serah terima"
 slug: "partisi-interior-kaca-pasang"
-description: "Pembaca dapat menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan hold point QC, dan mendokumentasikan serah terima partisi dan interior kaca."
-status: outline
+description: "Panduan mengawasi persiapan, pemasangan, pemeriksaan mutu, dan serah terima partisi kaca tanpa mengabaikan dokumen serta batas aman pekerjaan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,194 +17,106 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://www.iso.org/standard/35062.html"
   - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
-  - "https://www.iso.org/standard/75536.html"
-  - "https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf"
-  - "https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN"
-  - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN (source-only)
+Image ID: `LOCAL-012`
 
-# Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima
+**Exact Markdown to insert:** `![Ilustrasi partisi kaca 2](/wp-content/uploads/2021/04/partisi-kaca-2.jpg)`
 
-## Assignment lock
+Caption/credit: Aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
 
-- **Writer task:** Expand this file into one complete article answering: “Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima”
-- **Reader and situation:** Kontraktor, pengawas, mandor, teknisi, atau pemilik yang mengawasi pekerjaan
-- **Reader outcome:** Pembaca dapat menyiapkan area, memeriksa material, mengurutkan pekerjaan, menetapkan hold point QC, dan mendokumentasikan serah terima partisi dan interior kaca.
-- **Primary intent:** Merencanakan serta mengendalikan pelaksanaan partisi dan interior kaca
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan izin DIY untuk pekerjaan berbahaya atau di luar kompetensi. Diagnosis kerusakan setelah beroperasi dimiliki GLA-08-06; spesifikasi sebelum kerja dimiliki GLA-08-03.
-- **Final public route:** `/artikel/partisi-interior-kaca-pasang.html`
-- **Appointed CMS date:** `2025-10-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+# Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, pemeriksaan mutu, dan serah terima
 
-## Opening instructions
+Halo, Kawan Kaca.co.id! Pekerjaan partisi kaca sering terlihat sederhana: rangka dipasang, kaca masuk, pintu digantung, lalu ruangan terasa jadi. Masalahnya, urutan yang terlalu cepat justru bisa menyembunyikan persoalan di pertemuan antara kaca, lantai, plafon, dinding, pintu, dan perangkat bukanya. Ketika itu baru ditemukan setelah ruangan dipakai, perbaikannya biasanya mengganggu pekerjaan lain.
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Jawaban singkatnya: jangan menilai pemasangan hanya dari kaca yang sudah berdiri. Mulailah dari batas pekerjaan dan gambar yang disetujui, cocokkan material serta perangkatnya, lakukan pemasangan oleh pihak yang kompeten, lalu tahan pekerjaan pada titik pemeriksaan sebelum ditutup atau diserahterimakan. Hasil akhir tetap bergantung pada sistem yang dipakai, kondisi bangunan di lapangan, dan bukti produk yang benar-benar tersedia.
 
+![Ilustrasi partisi kaca 2](/wp-content/uploads/2021/04/partisi-kaca-2.jpg)
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+*Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.*
 
-- **Image ID:** `LOCAL-012`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi partisi kaca 2](/wp-content/uploads/2021/04/partisi-kaca-2.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `partisi kaca 2` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-012]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+## Hasil yang dicari sebelum pekerjaan dimulai
 
-## Evidence packet
+Targetnya bukan sekadar ruang terpisah. Partisi perlu berada pada posisi yang benar, sambungan dan tepinya tidak dipaksa oleh kondisi bangunan, pintu dapat dipakai sesuai rancangan, dan semua pihak tahu apa yang sudah diperiksa. Karena itu, tetapkan dulu siapa yang membuat keputusan bila ada perbedaan antara gambar dan kondisi nyata: pemilik, pengawas, perancang, atau pihak lain yang ditunjuk proyek.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum material dibuka, kumpulkan gambar kerja yang telah disetujui, daftar komponen, catatan kondisi lokasi, dan urutan pekerjaan bidang lain yang bersinggungan. Yang dimaksud gambar kerja di sini adalah dokumen yang menerangkan posisi, ukuran rencana, serta hubungan komponen; bukan sekadar gambar referensi dari katalog. Bila detail partisi masih berubah, jangan memaksa tim memasang berdasarkan tebakan.
 
-### KR-03
+Kaca pengaman juga tidak boleh dipilih hanya karena satu sebutan dagang. BSN memiliki catatan terpisah untuk kaca pengaman berlapis dan kaca pengaman yang dikeraskan secara termal, yaitu [SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022). Catatan itu membantu mengenali jenis produknya, tetapi belum otomatis membuktikan bahwa produk tersebut cocok untuk seluruh susunan partisi, pintu, dan perangkat di proyek Anda.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+## Langkah pertama: tetapkan cakupan dan pertemuannya
 
-### KR-06
+Mulailah dengan menggambar batas yang mudah dipahami: bagian mana yang termasuk partisi kaca, siapa yang menyiapkan lantai atau plafon, siapa yang menyediakan bukaan pintu, dan siapa yang bertanggung jawab pada listrik atau kontrol bila ada kaca khusus. Ini terdengar administratif, padahal banyak masalah pemasangan justru lahir di pertemuan pekerjaan—misalnya rel bertemu plafon yang belum stabil, kusen bertemu lantai yang belum selesai, atau pintu dipasang sebelum arah ayunannya dipastikan.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Sobat Kaca.co.id, coba tanyakan tiga hal sebelum pekerjaan bergerak:
 
-### KR-10
+1. Apakah ukuran di gambar sudah cocok dengan ukuran nyata di lokasi?
+2. Apakah dinding, lantai, dan plafon yang menjadi titik tumpu memang siap menerima sistem yang direncanakan?
+3. Apakah ada pekerjaan lain yang masih akan membongkar, mengebor, mengecat, atau mengubah area ini?
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Jika jawabannya belum jelas, catat sebagai hal yang harus diputuskan, bukan diatasi dengan memotong atau memaksa komponen di lapangan. Untuk pembahasan data, ukuran rencana, dan asumsi yang perlu diperiksa sebelum kerja, siapkan juga rujukan ke [layanan partisi kaca](/partisi-kaca/) saat Anda perlu menyamakan kebutuhan dengan penyedia sistemnya.
 
-### KR-19
+## Langkah kedua: cocokkan dokumen, material, dan kondisi lapangan
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+Pemeriksaan awal bukan acara formalitas. Cocokkan label atau dokumen produk dengan jenis kaca yang diminta, periksa apakah perangkat pintu dan komponen pengikat memang pasangan yang direncanakan, lalu catat kondisi tepi, sudut, dan permukaan material sebelum dipasang. Bila ada keraguan mengenai kecocokan produk atau kelengkapan dokumennya, tahan keputusan pemasangan sampai pihak yang berwenang memberi penjelasan tertulis.
 
-### KR-21
+Jangan menyamakan hasil sebuah panel dengan hasil sistem terpasang. Sebagai contoh, ISO menjelaskan bahwa nilai perpindahan panas pada bagian tengah kaca (*center-of-glass*) adalah ranah ukur yang berbeda dari kinerja seluruh jendela atau susunan terpasang; lihat ringkasan resmi [ISO 10292:2026](https://www.iso.org/standard/89851.html). Intinya sederhana: angka atau klaim untuk satu lembar kaca tidak otomatis berlaku untuk partisi lengkap beserta bingkai, celah, pintu, dan cara pemasangannya.
 
-- **Original sources:** [ISO 18543:2021 electrochromic glazing](https://www.iso.org/standard/75536.html), [NGA Dynamic Glazing for High Performance Buildings](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf), [NGA Decorative Glass handling/cleaning record (2025)](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN), [NGA decorative durability guidance](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)
-- **Purpose for this article:** Distinguish privacy switching, solar/visible modulation, decorative appearance, and durability.
-- **Safe grounded facts:** “Smart glass” is not one mechanism. Power-off state, switching method, optical state range, controls, wiring, heat, edge seals, UV/moisture exposure, cycle/ageing evidence, replacement, and cleaning can all matter.
-- **Limits:** Manufacturer claims are product-specific. Do not infer energy savings, sound/privacy performance, service life, or safety class from the technology name.
+Kawan Kaca.co.id, pada tahap ini lebih berguna meminta bukti yang tepat daripada bertanya, “Ini kaca bagus, kan?” Pertanyaan yang lebih tajam adalah: produk apa yang datang, dipakai pada bagian mana, dokumen apa yang mendukung pemakaiannya, dan siapa yang menyetujui bila kondisi lapangan berbeda dari rancangan.
 
-## Evidence gates
+## Langkah ketiga: jalankan urutan kerja tanpa memaksa komponen
 
-- **TOPIC-GATE:** Occupancy/use requirements and complete tested systems
+Urutan rinci pemasangan harus mengikuti petunjuk sistem, gambar proyek, serta penilaian tenaga yang kompeten. Namun, dari sisi pengawasan, alurnya dapat dibaca seperti ini: area disiapkan dan dilindungi, posisi serta titik pertemuan ditandai, komponen pendukung dipasang dan diperiksa, kaca serta perangkat pintu dipasang sesuai sistemnya, kemudian fungsi dan tampilan diperiksa sebelum area dipakai.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Ada beberapa hal yang patut diawasi tanpa berubah menjadi petunjuk kerja berbahaya:
 
-## Internal-link plan
+- Pastikan area kerja bersih dari pekerjaan lain yang dapat membentur, menggores, atau mengubah posisi komponen yang sudah terpasang.
+- Pastikan kaca ditangani dengan cara dan alat yang sesuai petunjuk produk serta kondisi kerja, bukan diangkat atau ditahan dengan cara improvisasi.
+- Saat ada pintu, lihat hubungan antara daun pintu, engsel atau perangkat geraknya, lantai, dan kaca di sekitarnya. Pintu yang dapat bergerak hari ini belum tentu aman dipakai terus jika titik tumpunya belum benar.
+- Bila sistem memakai sambungan kedap atau bahan pengisi celah, periksa kecocokan bahan dengan sistem yang disetujui. Jangan menyimpulkan daya rekat, ketahanan cuaca, atau masa pakainya tanpa data produk dan rancangan yang relevan.
 
-### Existing local routes
+Untuk partisi yang juga menjadi jalur lewat, perhatikan pengalaman orang yang menggunakannya. Bukaan, arah gerak pintu, tanda agar kaca mudah terlihat, dan ruang pendekatan bukan urusan kaca saja; semuanya berkaitan dengan cara ruang dipakai. Persyaratan pastinya perlu ditentukan dari fungsi bangunan dan aturan yang berlaku pada proyek tersebut, bukan dari kebiasaan satu proyek lain.
 
-- `/partisi-kaca/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tasikmalaya/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tanggerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tangerang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tangerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-sumedang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Titik pemeriksaan dan alasan menghentikan sementara pekerjaan
 
-### Planned sibling articles
+Dalam pekerjaan kaca, ada saat ketika lebih hemat menahan pekerjaan sebentar daripada membongkar bagian yang sudah selesai. Sebut saja ini titik pemeriksaan: saat sebelum kaca dipasang, sebelum sambungan atau penutup menutup area penting, dan sebelum pintu atau partisi dinyatakan siap dipakai.
 
-These are future routes. Do not link them as live until their HTML exists.
+Hentikan sementara dan minta keputusan bila muncul salah satu keadaan berikut:
 
-- `GLA-08-03` → `/artikel/partisi-interior-kaca-spesifikasi.html` — Spesifikasi partisi dan interior kaca: data, ukuran, toleransi, dan pemeriksaan asumsi
-- `GLA-08-04` → `/artikel/partisi-interior-kaca-desain.html` — Detail desain partisi dan interior kaca: antarmuka, drainase, gerak, dan akses
-- `GLA-08-06` → `/artikel/partisi-interior-kaca-masalah.html` — Masalah pada partisi dan interior kaca: gejala, akar penyebab, dan keputusan perbaikan
-- `GLA-08-07` → `/artikel/partisi-interior-kaca-rawat.html` — Checklist inspeksi dan perawatan partisi dan interior kaca untuk iklim Indonesia
+- ukuran atau posisi lapangan tidak selaras dengan gambar yang telah disetujui;
+- jenis kaca, perangkat, atau dokumen produknya tidak dapat dicocokkan;
+- ada kerusakan yang membuat kondisi material tidak jelas;
+- pintu menyentuh bagian lain, bergerak tidak wajar, atau perubahan kecil pada satu bagian memengaruhi kaca di sekitarnya;
+- pekerjaan lain masih berpotensi mengubah titik tumpu, bukaan, atau permukaan akhir;
+- sistem memerlukan keputusan khusus tentang keselamatan, kebakaran, aksesibilitas, listrik, atau kaca dengan fungsi aktif.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ini bukan berarti setiap selisih kecil harus diputuskan oleh banyak orang. Maksudnya, jangan menjadikan improvisasi sebagai pengganti persetujuan. [NEEDS PROJECT EVIDENCE: gambar kerja final, jenis sistem pintu/perangkat, serta dasar penerimaan yang disetujui harus tersedia sebelum keputusan penggunaan atau perbaikan dibuat.]
 
-## Hasil akhir dan prasyarat
+## Pemeriksaan mutu dan serah terima yang bisa ditelusuri
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemeriksaan mutu atau *quality control* (QC) berarti memeriksa apakah hasil pekerjaan sesuai dokumen dan kondisi yang sudah disepakati. Serah terima berarti memindahkan tanggung jawab penggunaan dengan catatan yang cukup, bukan sekadar menyerahkan kunci ruangan. Dua kegiatan ini lebih mudah bila bukti dikumpulkan sambil pekerjaan berjalan, bukan dikejar pada hari terakhir.
 
-## Langkah 1 — tetapkan scope
+Daftar periksa penerimaan dapat memuat hal-hal berikut:
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- kecocokan lokasi dan susunan partisi dengan gambar yang disetujui;
+- kondisi visual yang diperiksa dari jarak, pencahayaan, dan cara penilaian yang telah disepakati proyek;
+- fungsi pintu, perangkat buka-tutup, dan bagian yang berinteraksi dengan pengguna;
+- catatan perubahan lapangan serta siapa yang menyetujuinya;
+- dokumen produk, panduan perawatan, dan batas penggunaan yang perlu diteruskan kepada pengguna bangunan;
+- daftar pekerjaan yang belum selesai, jika ada, lengkap dengan penanggung jawab dan cara menutupnya.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Teman Kaca.co.id, jangan mengubah daftar ini menjadi klaim penerimaan universal. Sistem kaca yang berbeda bisa memerlukan bukti yang berbeda pula. Bila partisi berhubungan dengan fungsi khusus—misalnya pintu dengan tuntutan keselamatan tertentu atau sistem yang memiliki komponen listrik—penerimaan perlu mengikuti dasar uji, dokumen produk, dan persetujuan yang memang berlaku untuk sistem itu.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang sering terlihat aman
 
-## Langkah 3 — jalankan urutan kerja
+“Nanti saja dicek setelah semua selesai” terdengar praktis karena tim tidak perlu berhenti. Sayangnya, setelah penutup, pelapis, atau pekerjaan lain menutupi pertemuan komponen, sumber masalah justru makin sulit dilihat. Biaya waktu dapat membesar karena orang harus membuka kembali area yang sudah rapi hanya untuk memastikan apa yang terjadi di baliknya.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih masuk akal adalah membuat catatan singkat pada tiap titik pemeriksaan: apa yang diperiksa, siapa yang hadir, apa yang belum jelas, dan keputusan berikutnya. Tidak harus berupa laporan panjang. Foto atau catatan lapangan pun tidak menggantikan pemeriksaan teknis, tetapi dapat membantu percakapan tetap mengacu pada kondisi yang sama.
 
-## Hold point dan kondisi berhenti
+## Langkah berikutnya sebelum ruang dipakai
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tahapan partisi dan interior kaca yang sehat dimulai dari batas pekerjaan yang jelas, bergerak lewat pencocokan dokumen dan kondisi nyata, lalu berhenti sejenak pada pemeriksaan yang penting sebelum serah terima. Setelah itu, pengguna masih perlu tahu cara memeriksa dan merawat sistem selama dipakai; jangan menganggap pekerjaan selesai hanya karena tampilannya sudah bersih.
 
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Tahapan pekerjaan partisi dan interior kaca: persiapan, pemasangan, QC, dan serah terima”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sederhananya, Kawan Kaca.co.id: jangan biarkan tampilan rapi menggantikan bukti yang rapi. Siapkan gambar kerja final, daftar komponen, catatan perubahan, dan pihak yang berwenang mengambil keputusan sebelum partisi dinyatakan siap digunakan. Untuk kebutuhan yang masih belum pasti, mintalah peninjauan tenaga kompeten dan persetujuan proyek—bukan jawaban cepat dari kebiasaan lapangan.

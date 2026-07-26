@@ -1,9 +1,10 @@
 ---
 article_id: GLA-08-08
-title: "Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor"
+title: "Panduan kebutuhan kerja, penawaran, dan serah terima partisi serta interior kaca"
 slug: "partisi-interior-kaca-pengadaan"
-description: "Pembaca dapat menulis brief, membandingkan inklusi-eksklusi, bukti mutu, jadwal, garansi, risiko perubahan, serta dokumen serah terima partisi dan interior kaca."
-status: outline
+description: "Pembaca dapat menyusun kebutuhan kerja, membandingkan yang termasuk dan tidak termasuk, bukti mutu, jadwal, jaminan, risiko perubahan, serta dokumen serah terima partisi dan interior kaca."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -26,37 +27,7 @@ sources:
   - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor”
-- **Reader and situation:** Pemilik, procurement, estimator, kontraktor utama, atau pengelola proyek
-- **Reader outcome:** Pembaca dapat menulis brief, membandingkan inklusi-eksklusi, bukti mutu, jadwal, garansi, risiko perubahan, serta dokumen serah terima partisi dan interior kaca.
-- **Primary intent:** Membeli atau mengadakan partisi dan interior kaca dengan lingkup dan bukti yang dapat dibandingkan
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menerbitkan harga semu atau klaim vendor terbaik. Edukasi pemilihan teknis dimiliki GLA-08-02; angka spesifikasi dimiliki GLA-08-03; transaksi tetap pada route komersial yang relevan.
-- **Final public route:** `/artikel/partisi-interior-kaca-pengadaan.html`
-- **Appointed CMS date:** `2025-11-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-015`
@@ -67,141 +38,82 @@ sources:
 - **Selection basis:** filename/source metadata identifies `partisi kaca 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-015]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Panduan kebutuhan kerja, penawaran, dan serah terima partisi serta interior kaca
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Kaca.co.id!
 
-### KR-03
+Meminta tiga penyedia mengirim harga untuk partisi kaca sering terlihat sederhana. Masalahnya, tiga angka itu bisa sedang menghitung tiga pekerjaan yang berbeda. Satu pihak mungkin hanya menghitung panel dan pemasangan dasar; pihak lain memasukkan pengukuran, akses kerja, detail sambungan, atau perapian akhir. Harga terendah akhirnya tampak menang, padahal pertanyaan paling penting belum dijawab: apa tepatnya yang akan diterima dan siapa bertanggung jawab jika kondisi lapangan berubah?
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Cara membandingkannya bukan dengan memaksa semua penyedia memberi angka yang sama. Mulailah dengan dokumen kebutuhan kerja yang cukup jelas, minta tiap penawaran menyebutkan apa yang termasuk dan tidak, lalu cocokkan bukti yang memang relevan dengan fungsi partisinya. Keputusan akhir masih dapat berubah setelah ukuran bukaan, penggunaan ruangan, jenis kaca, dan persetujuan proyek diperiksa. Itu jauh lebih jujur daripada menganggap satu nama material otomatis cocok untuk semua keadaan.
 
-### KR-06
+![Ilustrasi partisi kaca 1](/wp-content/uploads/2021/04/partisi-kaca-1.jpg)
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
-
-### KR-10
-
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
-
-### KR-19
-
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
-
-### KR-21
-
-- **Original sources:** [ISO 18543:2021 electrochromic glazing](https://www.iso.org/standard/75536.html), [NGA Dynamic Glazing for High Performance Buildings](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf), [NGA Decorative Glass handling/cleaning record (2025)](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN), [NGA decorative durability guidance](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)
-- **Purpose for this article:** Distinguish privacy switching, solar/visible modulation, decorative appearance, and durability.
-- **Safe grounded facts:** “Smart glass” is not one mechanism. Power-off state, switching method, optical state range, controls, wiring, heat, edge seals, UV/moisture exposure, cycle/ageing evidence, replacement, and cleaning can all matter.
-- **Limits:** Manufacturer claims are product-specific. Do not infer energy savings, sound/privacy performance, service life, or safety class from the technology name.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Occupancy/use requirements and complete tested systems
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-kaca/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tasikmalaya/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tanggerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tangerang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-tangerang-selatan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-kaca-sumedang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `GLA-08-06` → `/artikel/partisi-interior-kaca-masalah.html` — Masalah pada partisi dan interior kaca: gejala, akar penyebab, dan keputusan perbaikan
-- `GLA-08-07` → `/artikel/partisi-interior-kaca-rawat.html` — Checklist inspeksi dan perawatan partisi dan interior kaca untuk iklim Indonesia
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dokumen kebutuhan kerja tidak perlu panjang seperti kontrak. Namun ia harus cukup tegas agar orang yang membaca memahami tujuan ruangnya. Tulis fungsi ruangan, lokasi pemasangan, perkiraan jumlah bukaan atau bidang kaca, batas area kerja, jadwal yang diharapkan, dan siapa pengambil keputusan. Sertakan pula gambar denah atau foto kondisi yang memang boleh dibagikan.
+
+Jangan berhenti pada kalimat “partisi kaca kantor”. Apakah pembatas itu dekat pintu, koridor, area publik, atau ruang yang membutuhkan privasi? Apakah ada pertemuan dengan plafon, lantai, dinding eksisting, pendingin ruangan, atau pekerjaan lain? Pertanyaan seperti ini membantu penyedia melihat pekerjaan sebagai satu sistem bangunan, bukan lembaran kaca yang berdiri sendiri. Kebutuhan akses dan sirkulasi dapat memengaruhi cara bukaan digunakan; ketentuan rinci proyek tetap perlu diperiksa pada aturan dan persetujuan yang berlaku.
+
+Kawan Kaca.co.id, tulis juga hasil yang akan dinilai saat pekerjaan selesai. Misalnya: ukuran akhir harus mengikuti pengukuran lapangan yang disetujui, pintu harus dapat dioperasikan sesuai rancangan, dan area kerja dikembalikan dalam kondisi yang disepakati. Hindari menyalin angka ketebalan atau kelas keselamatan dari proyek lain tanpa dasar. Kaca yang lebih kuat sebelum pecah tidak otomatis memiliki perilaku pecah atau kemampuan sisa yang sama; kesesuaian bergantung pada penerapan dan rancangan lengkap. Daftar [SNI kaca pengaman berlapis](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI kaca pengaman temper](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), dan [daftar SNI ISO 12540](https://pesta.bsn.go.id/produk/index/530) dapat dipakai untuk mengenali dokumen produk, bukan untuk menebak spesifikasi proyek.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mintalah setiap penyedia memakai susunan yang sama. Bukan supaya mereka kehilangan cara kerja masing-masing, melainkan supaya Anda bisa melihat perbedaannya tanpa bermain tebak-tebakan. Kolom sederhana berikut biasanya cukup membantu:
+
+- pekerjaan persiapan dan pengukuran;
+- bahan utama serta komponen penunjang yang disebutkan secara jelas;
+- pengiriman, akses masuk, perlindungan area, dan pembersihan;
+- pemasangan, penyesuaian akhir, serta pekerjaan yang bergantung pada pihak lain;
+- hal yang tidak termasuk, asumsi, dan kemungkinan perubahan;
+- urutan kerja, waktu tunggu bahan, dan syarat pembayaran.
+
+Jika satu penawaran menulis “lengkap”, mintalah rincian sebelum menyimpulkan apa pun. “Lengkap” bisa berarti lengkap menurut kebiasaan penjual, bukan lengkap menurut kebutuhan bangunan Anda. Begitu juga dengan biaya menunggu area siap, kerja malam, pengangkutan ke lantai tertentu, pembongkaran, atau perbaikan akibat pekerjaan pihak lain. Biaya itu tidak selalu salah; yang berbahaya adalah saat ia baru muncul setelah pekerjaan dimulai.
+
+Sobat Kaca.co.id, bandingkan penawaran dalam satu tabel buatan Anda sendiri. Jangan hanya menyorot total. Buat baris untuk setiap keputusan: siapa menyediakan gambar kerja, siapa menyetujui ukuran akhir, kapan bahan boleh dipesan, dan apa yang terjadi bila dinding atau lantai ternyata tidak seperti gambar. Dengan begitu, selisih harga punya konteks. Penawaran yang lebih tinggi kadang memasukkan pekerjaan yang memang Anda perlukan; penawaran yang lebih rendah kadang tetap layak, tetapi hanya setelah batas pekerjaannya dipahami.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dokumen sering terlihat meyakinkan hanya karena jumlahnya banyak. Padahal tiap dokumen menjawab pertanyaan yang berbeda. Lembar data produk membantu memahami identitas dan penggunaan yang dinyatakan produsen. Sertifikat atau daftar standar dapat menunjukkan bahwa suatu dokumen standar ada. Laporan pengujian menjelaskan objek dan kondisi uji tertentu. Tidak satu pun otomatis membuktikan seluruh partisi yang akan terpasang di ruangan Anda.
+
+Untuk urusan kaca, jangan mencampur angka cahaya, panas, bunyi, privasi, dan kekuatan seolah-olah semuanya satu ukuran mutu. [ISO 9050](https://www.iso.org/standard/35062.html) membahas sifat cahaya dan surya pada kaca, [ISO 10292](https://www.iso.org/standard/89851.html) membahas nilai perpindahan panas pada bagian tengah kaca, sedangkan [ISO 22897](https://www.iso.org/standard/84945.html) berada pada ranah insulasi bunyi udara. Keduanya tidak dengan sendirinya menjadi hasil untuk jendela, partisi, atau fasad yang sudah terpasang. Begitu pula hasil sebuah lembar kaca tidak otomatis menjadi bukti kinerja sistem lengkap, karena sambungan, rangka, bukaan, dan cara pemasangan ikut berpengaruh.
+
+Jika proyek menyebut kaca pengaman, tahan api, kedap bunyi, atau kaca yang dapat berubah tampilan, minta bukti sesuai klaimnya dan sesuai pemakaiannya. Istilah tahan api mencakup beberapa klaim yang berbeda; jangan menerima satu label sebagai jawaban untuk seluruh sistem pintu atau dinding. Teknologi kaca yang dapat berubah tampilan juga bukan satu teknologi tunggal: cara kerja, keadaan ketika listrik mati, pengendalian, kabel, kondisi tepi, dan perawatan dapat berbeda. [ISO 18543](https://www.iso.org/standard/75536.html) dan [panduan NGA tentang kaca dinamis](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf) berguna untuk memahami ruang lingkup pertanyaan, bukan menjadi pengganti bukti produk yang ditawarkan.
+
+[NEEDS REVIEW: Dasar persetujuan Indonesia, jenis penggunaan ruang, dan bukti sistem lengkap perlu diperiksa sebelum menerima klaim keselamatan, ketahanan api, atau kinerja terpasang.]
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertanyaan yang baik bukan pertanyaan yang menjebak. Tujuannya mencari bagian yang belum diputuskan sebelum ia berubah menjadi tagihan atau sengketa. Teman Kaca.co.id dapat meminta jawaban tertulis untuk pertanyaan berikut:
 
-## Red flag dan biaya yang sering tersembunyi
+1. Apa saja yang sudah dihitung, dan apa yang sengaja tidak dihitung?
+2. Data lapangan apa yang masih dibutuhkan sebelum ukuran akhir disetujui?
+3. Siapa yang menyediakan gambar kerja, lalu siapa yang memberi persetujuan tertulis sebelum bahan dipesan?
+4. Komponen apa yang harus disediakan atau disiapkan oleh pihak lain?
+5. Dokumen apa yang tersedia untuk bahan yang ditawarkan, dan klaim apa yang tidak dapat dibuktikan oleh dokumen tersebut?
+6. Bagaimana rencana perlindungan area, pengiriman, akses kerja, dan pembersihan setelah pemasangan?
+7. Apa prosedurnya jika kondisi bangunan membuat rancangan awal tidak dapat dipasang seperti rencana?
+8. Apa saja yang diperiksa pada serah terima, siapa yang hadir, dan catatan apa yang disimpan?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jawaban yang hati-hati bukan tanda penyedia tidak kompeten. Kadang jawaban “perlu ukur lapangan dulu” justru lebih dapat dipercaya daripada janji yang terlalu rapi sejak awal. Yang perlu dicari adalah kejelasan proses: apa yang masih terbuka, kapan keputusan ditutup, dan siapa yang menanggung akibat perubahan.
 
-## Penerimaan, serah terima, dan keputusan akhir
+## Tanda penawaran perlu ditelusuri lebih jauh
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Brief, penawaran, dan serah terima partisi dan interior kaca: cara membandingkan vendor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Waspadai penawaran yang hanya berisi nama bahan dan total harga tanpa satuan kerja, asumsi, atau batas pekerjaan. Waspadai juga klaim “aman”, “kedap”, atau “tahan api” tanpa menjelaskan produk, penerapan, dan bukti yang tepat. Ini bukan alasan untuk langsung menuduh penyedia; ini alasan untuk meminta penjelasan sebelum membayar uang muka.
 
-## Objection or shortcut to address
+Biaya yang sering luput bukan hanya bahan. Ada akses masuk yang sempit, waktu tunggu karena lokasi belum siap, perubahan ukuran setelah bahan diproses, perlindungan lantai atau furnitur, pengangkutan, serta pekerjaan perbaikan yang menjadi tanggung jawab pihak lain. Karena itu, jangan membandingkan total rupiah sambil mengabaikan catatan kecil di bawahnya. Catatan itulah yang biasanya menentukan apakah biaya tambahan wajar atau mengejutkan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kaca dekoratif dan permukaan khusus pun perlu ditanyakan cara perawatannya. Panduan [NGA mengenai penanganan dan pembersihan](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN) serta [ketahanan kaca dekoratif](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf) menunjukkan bahwa penanganan, pembersihan, dan kondisi penggunaan tidak boleh dipisahkan dari keputusan bahan. Namun panduan umum tersebut bukan bukti bahwa produk tertentu di proyek Anda akan memiliki usia pakai atau hasil yang sama.
 
-## Required conclusion
+## Pemeriksaan akhir dan keputusan menerima pekerjaan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Serah terima sebaiknya bukan acara formal di ujung proyek, melainkan daftar pemeriksaan yang disepakati sejak awal. Cocokkan pekerjaan dengan dokumen kebutuhan, gambar yang sudah disetujui, perubahan tertulis, dan daftar hal yang belum selesai. Periksa hal yang dapat diamati tanpa melampaui keahlian: kesesuaian area pemasangan, kondisi permukaan yang dapat dilihat, fungsi bukaan sesuai rancangan, kebersihan area, dan kelengkapan dokumen yang dijanjikan.
 
-## Draft completion checklist
+Jika ada fungsi khusus—misalnya keselamatan, ketahanan api, atau insulasi bunyi—jangan menyatakannya terpenuhi hanya karena tampilan pemasangan sudah rapi. Bukti yang dibutuhkan bisa berkaitan dengan produk, rancangan sistem, dan persetujuan proyek. Catat kekurangan dengan lokasi, tanggal, foto yang relevan, penanggung jawab, serta target penyelesaiannya. Pembayaran akhir dan penerimaan pekerjaan sebaiknya mengikuti kesepakatan kontrak serta pemeriksaan yang benar-benar dapat dilakukan, bukan sekadar karena tim pemasang sudah meninggalkan lokasi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang sering menggoda adalah memilih penawaran paling murah lalu membicarakan rinciannya “nanti saja”. Cara itu gagal ketika ukuran berubah, akses kerja tidak tersedia, atau satu pihak mengira komponen tertentu disediakan pihak lain. Alternatifnya tidak harus birokratis: gunakan satu lembar pembanding, satu daftar pertanyaan, dan satu catatan perubahan yang selalu diperbarui. Langkah kecil ini jauh lebih murah daripada mengurai salah paham saat material sudah diproses.
+
+Jadi, Teman Kaca.co.id, bandingkan penyedia partisi dan interior kaca berdasarkan pekerjaan yang benar-benar mereka setujui, bukti yang tepat untuk klaimnya, serta cara mereka menangani perubahan. Siapkan dokumen kebutuhan kerja, minta penawaran dengan susunan yang sama, dan tahan keputusan akhir sampai ukuran lapangan serta dasar persetujuan proyek jelas. Aturan praktisnya: jangan membeli janji yang tidak bisa Anda tunjukkan kembali di dokumen dan pemeriksaan akhir.

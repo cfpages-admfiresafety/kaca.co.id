@@ -1,6 +1,6 @@
 ---
 article_id: GLA-16-02
-title: "Cara memilih kaca pintar, dekoratif, privasi, keamanan, tahan api, dan glazing spesialis: matriks keputusan berdasarkan fungsi dan risiko"
+title: "Cara Memilih Kaca Pintar, Dekoratif, Privasi, Keamanan, Tahan Api, dan Sistem Kaca Khusus"
 slug: "kaca-khusus-pilih"
 description: "Pembaca dapat menyaring pilihan kaca pintar, dekoratif, privasi, keamanan, tahan api, dan sistem kaca khusus menurut fungsi, lokasi, pengguna, tingkat risiko, umur layanan, serta pertukaran biaya dan manfaat."
 status: draft
@@ -28,7 +28,7 @@ sources:
   - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
 ---
 
-# Cara memilih kaca pintar, dekoratif, privasi, keamanan, tahan api, dan glazing spesialis
+# Cara Memilih Kaca Pintar, Dekoratif, Privasi, Keamanan, Tahan Api, dan Sistem Kaca Khusus
 
 Halo, Teman Kaca.co.id! Jangan mulai dari nama produk seperti “smart glass”, “kaca pengaman”, atau “kaca tahan api”. Mulailah dari fungsi yang harus tetap bekerja di lokasi nyata: apakah ruang perlu berubah tingkat privasinya, menahan ancaman tertentu, membatasi penyebaran api sebagai bagian dari rakitan—gabungan kaca, rangka, dan komponen pemasangannya—atau sekadar memberi tampilan yang konsisten dan mudah dirawat.
 
