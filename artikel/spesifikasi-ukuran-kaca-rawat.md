@@ -1,9 +1,9 @@
 ---
 article_id: GLA-04-07
-title: "Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia"
+title: "Daftar pemeriksaan dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia"
 slug: "spesifikasi-ukuran-kaca-rawat"
-description: "Pembaca dapat membuat baseline, memilih metode aman, menentukan tanda peringatan, dan mencatat inspeksi berkala spesifikasi, ukuran, beban, dan toleransi kaca pada kondisi panas, lembap, hujan, atau pesisir."
-status: outline
+description: "Cara mencatat kondisi awal, inspeksi, hasil ukur, dan pemicu pemeriksaan ulang untuk kaca tanpa menyamakan pembersihan atau satu pengukuran dengan bukti keselamatan."
+status: draft
 publication_date: "2025-06-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,51 +13,29 @@ reader_community: "Kaca.co.id"
 reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/spesifikasi-ukuran-kaca-rawat.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung"
   - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
-  - "https://www.iso.org/standard/85237.html"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
-  - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Daftar pemeriksaan dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia
 
-# Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia
+Halo, Teman Kaca.co.id! Kaca yang tampak bersih belum tentu memiliki kondisi yang dapat dinyatakan aman, dan satu hasil ukur yang tampak normal belum membuktikan sistem memenuhi semua persyaratan. Perawatan yang berguna bukan sekadar membersihkan permukaan. Ia menjaga kondisi tetap dapat diamati, mencatat perubahan terhadap acuan yang sama, dan memicu pemeriksaan yang tepat sebelum masalah kecil menjadi keputusan yang terlambat.
 
-## Assignment lock
+Mulailah dengan catatan kondisi awal: kode dan lokasi item, fungsi, gambar revisi, foto yang disepakati, identitas produk bila tersedia, komponen yang tampak, serta ukuran acuan yang memang perlu dipantau. Jika melakukan pengukuran, catat objek, satuan, datum atau titik acuan, waktu, kondisi, dan cara ukur. Hasilnya adalah rekaman pengamatan, bukan sertifikat keselamatan atau kepatuhan.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia”
-- **Reader and situation:** Pemilik, penghuni, operator, facility manager, atau petugas pemeliharaan
-- **Reader outcome:** Pembaca dapat membuat baseline, memilih metode aman, menentukan tanda peringatan, dan mencatat inspeksi berkala spesifikasi, ukuran, beban, dan toleransi kaca pada kondisi panas, lembap, hujan, atau pesisir.
-- **Primary intent:** Menginspeksi dan merawat spesifikasi, ukuran, beban, dan toleransi kaca secara aman sepanjang umur layanan
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menangani kerusakan aktif yang memerlukan diagnosis; itu dimiliki GLA-04-06. Tidak mengulang prosedur pemasangan awal yang dimiliki GLA-04-05.
-- **Final public route:** `/artikel/spesifikasi-ukuran-kaca-rawat.html`
-- **Appointed CMS date:** `2025-06-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Keputusan inspeksi dapat berubah karena ukuran, bentuk, tumpuan, tepi, lubang atau takikan, beban, kondisi penggunaan, serta perilaku sistem. Faktor-faktor tersebut relevan dalam desain penggunaan kaca ([ASTM E1300-24](https://store.astm.org/e1300-24.html)). Bila ada temuan yang dapat memengaruhi orang, tumpuan, atau beban, gunakan [NEEDS REVIEW: pemeriksaan kompeten dan penilaian desain untuk kondisi proyek].
 
-## Opening instructions
+![Ilustrasi kanopi kaca spider 6](/wp-content/uploads/2021/04/kanopi-kaca-spider-6.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,137 +46,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `kanopi kaca spider 6` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Tentukan objek, kondisi, dan tahap penggunaan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Setiap jadwal pemeriksaan harus dimulai dari objek yang jelas. Beri kode panel, pintu, atap, partisi, pagar, atau sistem lain; sebutkan lokasi, fungsi, akses pemeriksaan, serta komponen yang berhubungan. Catat pula kondisi awal yang diketahui: gambar rujukan, datum ukur, informasi produk, dan pekerjaan lain yang dapat mengubah area di sekitarnya.
 
-### KR-02
+Jangan memakai satu interval pemeriksaan untuk semua kondisi. Panas, kelembapan, hujan, paparan pesisir, penggunaan intensif, atau pekerjaan renovasi dapat mengubah apa yang perlu diperhatikan dan kapan. Tentukan frekuensi berdasarkan paparan, fungsi, riwayat temuan, petunjuk produk, serta keputusan pengelola atau pihak yang berwenang. Sobat Kaca.co.id, kalender dapat mengingatkan, tetapi tidak menggantikan respons terhadap perubahan nyata.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [official PUPR JDIH record](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)
-- **Purpose for this article:** Anchor Indonesian building articles in the current national building-governance framework.
-- **Safe grounded facts:** The regulation took effect on 2 February 2021 and replaced PP 36/2005. A project can therefore require national rules, SNI/technical standards, and location-specific regulations together.
-- **Limits:** Do not convert this high-level regulation into glass thicknesses, safety locations, or test pressures. Those need the applicable detailed rule and project design.
+Kaca datar biasa, kaca diperkuat panas, dan kaca pengaman temper penuh bukan istilah yang sama. Identitas produk membantu memilih cara observasi yang tepat, tetapi standar bahan dasar tidak otomatis membuktikan bahwa sistem terpasang tetap memenuhi keselamatan, struktur, atau fungsi tertentu ([SNI 47:2018 Konfirmasi 2026](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026)).
 
-### KR-05
+## Bagaimana kondisi dapat berubah
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
+Perubahan kondisi tidak selalu terlihat sebagai retak. Perhatikan perubahan posisi, celah, kelancaran gerak, kondisi tepi, komponen yang longgar, air yang menetap, kotoran yang menutup area penting, atau dampak pekerjaan lain di dekat sistem. Catatan seperti “celah di sisi tertentu tampak berubah sejak pekerjaan lantai” lebih berguna daripada “kaca bermasalah”, karena ia memberi lokasi, waktu, dan konteks untuk ditinjau.
 
-### KR-12
+Lingkungan dapat mempercepat kebutuhan pemeriksaan, tetapi tidak memberikan diagnosis sendiri. Kelembapan, air, panas, debu, dan garam di pesisir dapat berhubungan dengan kondisi sambungan, perangkat keras, atau permukaan yang perlu diamati. Jangan menyimpulkan penyebab dari satu gejala. Bandingkan dengan catatan sebelumnya, kondisi akses, perubahan penggunaan, serta dokumen sistem.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
-
-### KR-13
-
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Qualified engineer and licensed calculation standard
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/berita/tips-merawat-sliding-door-kaca` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/tentang-perawatan-dan-kualitas-kaca-kanopi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/merawat-kaca-kanopi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/berita/kaca-insulasi-aman` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/artikel/tips-merawat-rumah-kaca` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/artikel/cara-merawat-kaca-mobil-agar-tidak-cepat-rusak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `GLA-04-05` → `/artikel/spesifikasi-ukuran-kaca-pasang.html` — Tahapan pekerjaan spesifikasi, ukuran, beban, dan toleransi kaca: persiapan, pemasangan, QC, dan serah terima
-- `GLA-04-06` → `/artikel/spesifikasi-ukuran-kaca-masalah.html` — Masalah pada spesifikasi, ukuran, beban, dan toleransi kaca: gejala, akar penyebab, dan keputusan perbaikan
-- `GLA-04-08` → `/artikel/spesifikasi-ukuran-kaca-pengadaan.html` — Brief, penawaran, dan serah terima spesifikasi, ukuran, beban, dan toleransi kaca: cara membandingkan vendor
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Tentukan objek, kondisi, dan tahap siklus hidup
-
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Mekanisme perubahan atau penurunan kinerja
-
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada kaca hasil perlakuan panas, karakter permukaan dapat berbeda dari kaca biasa. Penerimaan visual perlu mengikuti produk dan kondisi proyek yang telah ditetapkan, bukan satu kesan saat pencahayaan tertentu ([panduan NGA tentang permukaan kaca hasil perlakuan panas](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)).
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat catatan yang memungkinkan orang lain mengulang pengamatan. Untuk tiap inspeksi, tulis tanggal, pemeriksa, item dan lokasi, kondisi cuaca atau penggunaan bila berpengaruh, dokumen rujukan, serta batas pengamatan. Foto dapat membantu membandingkan, tetapi cantumkan arah, jarak perkiraan, dan bagian yang dimaksud; foto tanpa lokasi atau tanggal sulit dipakai sebagai bukti perubahan.
 
-## Pilihan perawatan atau intervensi
+Jika ukuran perlu dibandingkan, gunakan datum yang sama dan jelaskan apa yang diukur. Misalnya, jangan membandingkan jarak dari tepi visual pada kunjungan pertama dengan muka rangka pada kunjungan berikutnya. Satu angka dapat menunjukkan pembacaan tertentu, bukan otomatis toleransi terpenuhi, pemasangan benar, atau beban aman. Kawan Kaca.co.id, bila tidak ada kriteria dan metode ukur yang disetujui, catat [NEEDS REVIEW: dasar ukuran rujukan, metode ukur, dan kriteria penilaian belum tersedia].
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Daftar inspeksi yang praktis dapat berisi:
+
+- kode, lokasi, fungsi, serta dokumen gambar yang berlaku;
+- kondisi akses dan pembatasan pengamatan;
+- kondisi panel, tepi, sambungan, tumpuan, dan komponen yang terlihat;
+- hasil ukur bila diperlukan, lengkap dengan satuan, datum, dan metode;
+- perubahan dari catatan sebelumnya, bukan sekadar kesan umum;
+- foto atau dokumentasi lain yang diberi lokasi dan tanggal;
+- tindakan sementara yang sudah diambil, pihak yang diberi tahu, serta langkah lanjutan.
+
+## Pilihan perawatan dan tindakan
+
+Pembersihan bertujuan menjaga permukaan dan area yang dapat diinspeksi, bukan membuktikan kinerja struktural atau menghapus kebutuhan pemeriksaan. Gunakan instruksi pabrikan serta prosedur pengelola untuk produk, lapisan, komponen, dan bahan kontak yang benar-benar terpasang. Jangan menganggap satu cara atau bahan pembersih cocok untuk setiap kaca dan sistem.
+
+Pemantauan dapat dipilih bila kondisi sudah dinilai cukup aman oleh pihak berwenang dan ada parameter yang dicatat serta pemicu eskalasinya. Perbaikan, penguatan, penggantian, atau penghentian penggunaan bukan keputusan perawatan rutin jika menyentuh tumpuan, beban, geometri, atau keselamatan. Keputusan itu memerlukan sebab yang cukup dibuktikan dan rancangan yang disetujui.
+
+Perubahan ukuran, lubang, atau takikan pada produk yang akan diproses panas dapat mengharuskan pembuatan ulang; jangan menjadikan modifikasi lapangan sebagai jalan perawatan biasa ([ASTM C1036-25](https://store.astm.org/c1036-25.html); [ASTM C1048-25](https://store.astm.org/c1048-25.html)). Untuk panduan perawatan yang lebih dekat pada jenis sistem, pembaca dapat melihat [perawatan dan kualitas kaca kanopi](/berita/tentang-perawatan-dan-kualitas-kaca-kanopi), namun setiap lokasi tetap perlu diperiksa pada kondisi sebenarnya.
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Utamakan konsekuensi bila suatu temuan diabaikan, bukan hanya seberapa mudah ia terlihat. Perubahan yang berkaitan dengan panel di jalur orang, komponen penopang, gerak yang tidak wajar, retak atau pecah, bagian longgar, atau perubahan sistem setelah pekerjaan lain memerlukan perhatian lebih cepat. Batasi akses dan beri tahu penanggung jawab bila ada kemungkinan paparan risiko; jangan mencoba membongkar, menahan, atau mengubah sistem sendiri.
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+Gunakan pertanyaan berikut untuk menentukan eskalasi: apakah ada perubahan sejak catatan terakhir; apakah fungsi atau akses berubah; apakah bukti produk dan bukti sistem dapat ditelusuri; apakah pemeriksaan saat ini memiliki datum yang sama; dan siapa yang berwenang memutuskan tindakan? Teman Kaca.co.id, jawaban “belum cukup data” adalah hasil pemeriksaan yang sah bila ia mencegah keputusan berbahaya.
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist inspeksi dan perawatan spesifikasi, ukuran, beban, dan toleransi kaca untuk iklim Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kerangka peraturan dan standar yang berlaku dapat berbeda menurut proyek dan lokasi. Karena itu, jadwal perawatan internal tidak boleh dipakai sebagai pernyataan bahwa semua kewajiban bangunan telah dipenuhi ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-## Objection or shortcut to address
+## Rekaman dan pemicu pemeriksaan ulang
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Simpan satu riwayat per item, bukan kumpulan foto lepas. Riwayat ideal memuat gambar atau daftar item, kondisi awal, inspeksi berkala, hasil ukur yang dapat dibandingkan, keputusan, temuan, tindakan, dan siapa yang menyetujui penutupan. Saat pengelola berganti, rekaman ini membuat pemeriksa baru dapat membedakan kondisi lama dari perubahan baru.
 
-## Required conclusion
+Pemeriksaan ulang layak dipicu setelah kejadian yang mengubah kondisi: pekerjaan renovasi di sekitar kaca, benturan atau kejadian yang dicatat, perubahan fungsi, penggantian komponen, gangguan pada sambungan atau tumpuan, keluhan pengguna yang konsisten, atau hasil ukur yang tidak dapat dibandingkan dengan acuan sebelumnya. Pemicu itu bukan diagnosis; ia alasan untuk memeriksa dengan informasi yang lebih baik.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering gagal adalah membersihkan lalu menyatakan masalah selesai, atau mengambil satu ukuran lalu menyatakan sistem sesuai. Kedua tindakan hanya memberi sebagian informasi. Alternatifnya adalah memperbarui rekaman kondisi, membandingkan pada datum yang sama, dan menaikkan temuan ke pemeriksaan kompeten bila menyangkut risiko atau kriteria yang tidak tersedia.
 
-## Draft completion checklist
+## Langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Perawatan spesifikasi, ukuran, beban, dan toleransi kaca yang aman menjaga catatan kondisi, pengukuran yang dapat diulang, serta pemicu eskalasi yang jelas. Langkah berikutnya: buat daftar item dan kondisi awal, lalu sepakati siapa yang mencatat, apa yang dibandingkan, dan kapan temuan harus diteruskan.
+
+Pegang batasnya, Teman Kaca.co.id: kaca bersih atau satu hasil ukur bukan bukti keselamatan maupun kepatuhan sistem. Bila ada perubahan yang dapat memengaruhi orang, tumpuan, atau beban, jangan menyelesaikannya dengan perawatan rutin—minta pemeriksaan yang berwenang.
