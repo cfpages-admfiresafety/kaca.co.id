@@ -4,7 +4,8 @@
 Features:
 - Standardizes robots.txt across commercial sites (Disallow /cdn-cgi/ to prevent Cloudflare 404s).
 - Isolates Short.io tracker subdomains (track.*, link.*, klik.*) with Disallow: /.
-- Infers page context from permalink / filename in < 0.1ms per file (zero DOM overhead).
+- Infers page context from permalink / directory / filename in < 0.1ms per file (zero DOM overhead).
+- Supports both flat files (page.html) and pretty permalink folders (dir/index.html).
 - Wraps unlinked content images with internal links weighted 80% to Tier-1 high-value cities.
 - Injects descriptive Indonesian alt attributes while preserving HTML byte integrity.
 """
@@ -17,6 +18,7 @@ import os
 import re
 import sys
 import urllib.parse
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 
@@ -69,7 +71,34 @@ UTILITY_PAGES: Set[str] = {
     "sitemap.html",
 }
 
+EXCLUDED_DIRS: Set[str] = {
+    ".git",
+    ".github",
+    ".opencodereview",
+    "wp-content",
+    "wp-includes",
+    "wp-json",
+    "node_modules",
+    "dist",
+    "assets",
+    "css",
+    "js",
+    "img",
+    "images",
+    "fonts",
+}
+
 TRACKER_PREFIXES: Tuple[str, ...] = ("track.", "link.", "klik.")
+
+
+@dataclass(frozen=True)
+class PageContext:
+    file_path: Path
+    slug: str
+    target_href: str
+    product_title: str
+    city_title: str
+    is_tier1: bool
 
 
 def is_tracker_domain(domain_or_repo: str) -> bool:
@@ -83,7 +112,7 @@ def detect_domain(root: Path, repo_name: Optional[str] = None) -> str:
     if cname_file.is_file():
         domain = cname_file.read_text(encoding="utf-8", errors="ignore").strip().splitlines()[0]
         if domain:
-            return domain
+            return domain.lower()
 
     # 2. Canonical tag in index.html or first HTML
     for html_file in root.glob("*.html"):
@@ -151,10 +180,9 @@ def extract_image_keywords(src: str) -> str:
     return " ".join(meaningful[:2])
 
 
-def detect_common_product_prefix(filenames: List[str]) -> str:
+def detect_common_product_prefix(slugs: List[str]) -> str:
     candidates: Dict[str, int] = {}
-    for f in filenames:
-        base = f[:-5] if f.endswith(".html") else f
+    for base in slugs:
         parts = base.split("-")
         for i in range(1, min(len(parts), 5)):
             prefix = "-".join(parts[:i])
@@ -163,43 +191,79 @@ def detect_common_product_prefix(filenames: List[str]) -> str:
         return "Layanan"
     sorted_prefixes = sorted(candidates.items(), key=lambda x: (-x[1], -len(x[0])))
     best_prefix, best_count = sorted_prefixes[0]
-    return best_prefix if best_count >= max(2, len(filenames) * 0.3) else ""
+    return best_prefix if best_count >= max(2, len(slugs) * 0.2) else ""
 
 
-def parse_page_context(filename: str, common_prefix: str) -> Tuple[str, str]:
-    base = filename[:-5] if filename.endswith(".html") else filename
-    if common_prefix and base.startswith(common_prefix + "-"):
-        city_slug = base[len(common_prefix) + 1 :]
+def parse_page_context(slug: str, common_prefix: str) -> Tuple[str, str, str]:
+    if common_prefix and slug.startswith(common_prefix + "-"):
+        city_slug = slug[len(common_prefix) + 1 :]
         product_slug = common_prefix
     else:
-        parts = base.split("-")
+        parts = slug.split("-")
         if len(parts) >= 2:
             city_slug = parts[-1]
             product_slug = "-".join(parts[:-1])
         else:
-            city_slug = base
+            city_slug = slug
             product_slug = "Layanan"
 
     product_title = clean_slug_to_title(product_slug) or "Layanan"
     city_title = clean_slug_to_title(city_slug) or "Indonesia"
-    return product_title, city_title
+    return product_title, city_title, city_slug
+
+
+def discover_pages(root: Path) -> List[PageContext]:
+    raw_pages: List[Tuple[Path, str, str]] = []  # (file_path, slug, target_href)
+
+    # 1. Flat root HTML files
+    for f in root.glob("*.html"):
+        if f.name not in UTILITY_PAGES:
+            slug = f.stem
+            target_href = f"/{f.name}"
+            raw_pages.append((f, slug, target_href))
+
+    # 2. Subdirectory index.html files (pretty permalinks)
+    for d in root.iterdir():
+        if d.is_dir() and d.name not in EXCLUDED_DIRS and not d.name.startswith("."):
+            idx_file = d / "index.html"
+            if idx_file.is_file():
+                slug = d.name
+                target_href = f"/{d.name}/"
+                raw_pages.append((idx_file, slug, target_href))
+
+    if not raw_pages:
+        return []
+
+    slugs = [slug for _, slug, _ in raw_pages]
+    common_prefix = detect_common_product_prefix(slugs)
+
+    contexts: List[PageContext] = []
+    for f_path, slug, href in raw_pages:
+        p_title, c_title, c_slug = parse_page_context(slug, common_prefix)
+        is_t1 = c_slug.lower() in TIER1_CITIES
+        contexts.append(
+            PageContext(
+                file_path=f_path,
+                slug=slug,
+                target_href=href,
+                product_title=p_title,
+                city_title=c_title,
+                is_tier1=is_t1,
+            )
+        )
+    return contexts
 
 
 def process_html_file(
-    file_path: Path,
-    common_prefix: str,
-    t1_pool: List[Tuple[str, str, str]],
-    regional_pool: List[Tuple[str, str, str]],
-    all_candidates: List[Tuple[str, str, str]],
+    current: PageContext,
+    all_pages: List[PageContext],
 ) -> Tuple[bool, int, int]:
-    html = file_path.read_text(encoding="utf-8", errors="ignore")
-    current_name = file_path.name
-    product_title, current_city_title = parse_page_context(current_name, common_prefix)
+    html = current.file_path.read_text(encoding="utf-8", errors="ignore")
 
-    # Filter out current page from candidate pools
-    page_t1 = [c for c in t1_pool if c[0] != current_name]
-    page_reg = [c for c in regional_pool if c[0] != current_name]
-    page_all = [c for c in all_candidates if c[0] != current_name]
+    # Filter out current page from candidate target pools
+    candidates = [p for p in all_pages if p.slug != current.slug]
+    t1_pool = [p for p in candidates if p.is_tier1]
+    regional_pool = [p for p in candidates if not p.is_tier1]
 
     # Target content section only
     content_match = re.search(
@@ -246,10 +310,10 @@ def process_html_file(
         if is_in_anchor:
             # Preserve anchor, update alt if empty
             if needs_alt:
-                desc_parts = [product_title]
-                if img_kw and img_kw.lower() not in product_title.lower():
+                desc_parts = [current.product_title]
+                if img_kw and img_kw.lower() not in current.product_title.lower():
                     desc_parts.append(img_kw)
-                desc_parts.append(current_city_title)
+                desc_parts.append(current.city_title)
                 new_alt = " ".join(desc_parts)
 
                 if alt_m:
@@ -260,29 +324,29 @@ def process_html_file(
                 alts_enriched += 1
         else:
             # Unlinked image: pick target city using 80/20 Pareto rule
-            seed_str = f"{current_name}:{src}:{idx}"
+            seed_str = f"{current.slug}:{src}:{idx}"
             seed_int = int(hashlib.md5(seed_str.encode("utf-8")).hexdigest()[:8], 16)
             prob = seed_int % 100
 
-            if prob < 80 and page_t1:
-                target_file, target_prod, target_city = page_t1[seed_int % len(page_t1)]
-            elif page_reg:
-                target_file, target_prod, target_city = page_reg[seed_int % len(page_reg)]
-            elif page_all:
-                target_file, target_prod, target_city = page_all[seed_int % len(page_all)]
+            if prob < 80 and t1_pool:
+                target = t1_pool[seed_int % len(t1_pool)]
+            elif regional_pool:
+                target = regional_pool[seed_int % len(regional_pool)]
+            elif candidates:
+                target = candidates[seed_int % len(candidates)]
             else:
                 continue
 
             # Alt phrasing variations
             var_idx = (seed_int >> 8) % 4
             if var_idx == 0:
-                alt_base = f"{product_title} {target_city}"
+                alt_base = f"{target.product_title} {target.city_title}"
             elif var_idx == 1:
-                alt_base = f"Jual & Pasang {product_title} di {target_city}"
+                alt_base = f"Jual & Pasang {target.product_title} di {target.city_title}"
             elif var_idx == 2:
-                alt_base = f"Spesialis {product_title} Berkualitas {target_city}"
+                alt_base = f"Spesialis {target.product_title} Berkualitas {target.city_title}"
             else:
-                alt_base = f"Pemasangan {product_title} Proyek {target_city}"
+                alt_base = f"Pemasangan {target.product_title} Proyek {target.city_title}"
 
             # Blend image keyword if distinct
             if img_kw and img_kw.lower() not in alt_base.lower():
@@ -293,7 +357,7 @@ def process_html_file(
             else:
                 new_img_tag = img_tag[:-1] + f' alt="{alt_base}">'
 
-            wrapped_tag = f'<a href="/{target_file}" title="{product_title} {target_city}">{new_img_tag}</a>'
+            wrapped_tag = f'<a href="{target.target_href}" title="{target.product_title} {target.city_title}">{new_img_tag}</a>'
             replacements.append((img_start, img_end, wrapped_tag))
             links_added += 1
             alts_enriched += 1
@@ -308,7 +372,7 @@ def process_html_file(
         mod_body = mod_body[:s] + new_str + mod_body[e:]
 
     new_html = html[:content_start] + mod_body + html[content_end:]
-    file_path.write_text(new_html, encoding="utf-8")
+    current.file_path.write_text(new_html, encoding="utf-8")
     return True, links_added, alts_enriched
 
 
@@ -324,36 +388,18 @@ def run(root_dir: str, domain: Optional[str] = None, check_only: bool = False) -
     if not check_only:
         robots_changed, robots_status = ensure_robots_txt(root, detected_dom)
 
-    # 2. HTML Files Scan
-    html_files = [f for f in root.glob("*.html") if f.name not in UTILITY_PAGES]
-    html_names = [f.name for f in html_files]
-
-    common_prefix = detect_common_product_prefix(html_names)
-
-    # Build candidate target pools
-    all_candidates: List[Tuple[str, str, str]] = []
-    t1_pool: List[Tuple[str, str, str]] = []
-    regional_pool: List[Tuple[str, str, str]] = []
-
-    for f_name in html_names:
-        p_title, c_title = parse_page_context(f_name, common_prefix)
-        entry = (f_name, p_title, c_title)
-        all_candidates.append(entry)
-
-        # Check if city matches Tier 1
-        city_slug = f_name[:-5].replace(common_prefix + "-", "") if common_prefix else f_name[:-5].split("-")[-1]
-        if city_slug.lower() in TIER1_CITIES:
-            t1_pool.append(entry)
-        else:
-            regional_pool.append(entry)
+    # 2. Discover all pages (flat and pretty permalink)
+    all_pages = discover_pages(root)
+    t1_count = sum(1 for p in all_pages if p.is_tier1)
+    reg_count = len(all_pages) - t1_count
 
     modified_files = 0
     total_links_added = 0
     total_alts_enriched = 0
 
     if not check_only:
-        for file_path in html_files:
-            changed, links, alts = process_html_file(file_path, common_prefix, t1_pool, regional_pool, all_candidates)
+        for page in all_pages:
+            changed, links, alts = process_html_file(page, all_pages)
             if changed:
                 modified_files += 1
                 total_links_added += links
@@ -365,9 +411,9 @@ def run(root_dir: str, domain: Optional[str] = None, check_only: bool = False) -
         "is_tracker": is_tracker_domain(detected_dom),
         "robots_status": robots_status,
         "robots_changed": robots_changed,
-        "total_html_files": len(html_files),
-        "tier1_city_pages": len(t1_pool),
-        "regional_city_pages": len(regional_pool),
+        "total_html_files": len(all_pages),
+        "tier1_city_pages": t1_count,
+        "regional_city_pages": reg_count,
         "modified_files": modified_files,
         "total_links_added": total_links_added,
         "total_alts_enriched": total_alts_enriched,
